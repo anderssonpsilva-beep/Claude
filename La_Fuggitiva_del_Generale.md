@@ -1300,11 +1300,11 @@ Ivan la raggiunse nel corridoio del piano terra.
 
 — Ha fatto lo stesso con la moglie di Dmitri, due anni fa. — Ivan camminava al suo fianco, mezzo passo indietro, come camminava quando non voleva sembrare una scorta. — Ha accettato anche lei le quattro. Ne parla ancora oggi.
 
-Marina si fermò accanto alla porta della dispensa.
+Marina si fermò accanto alla porta del tinello.
 
-Dalla dispensa arrivava odore di cipolla e di burro che bruciava, e la radio era accesa piano su un notiziario, come alle nove del mattino di tutti i giorni per cinque anni della sua vita.
+Dal tinello arrivava odore di cipolla e di burro che bruciava, e la radio era accesa piano su un notiziario, come alle nove del mattino di tutti i giorni per cinque anni della sua vita.
 
-E fu lì, con la mano sullo stipite della dispensa, che quasi lo raccontò.
+E fu lì, con la mano sullo stipite del tinello, che quasi lo raccontò.
 
 Fu vicina a farlo in un modo che le fece male fisicamente — la cosa che le saliva in gola, la frase già pronta, *Ivan, a novembre del duemiladiciannove ero di turno al primo piano* —, e ciò che la trattenne non fu paura, e non fu vergogna, e non fu nessuna delle cose che aveva immaginato l’avrebbero trattenuta.
 
@@ -1318,7 +1318,7 @@ Per nove anni era stata una sola. Una persona sola in un paese straniero è un p
 
 Aveva passato anni a tenere quell’uomo fuori da tutto questo.
 
-Non lo avrebbe buttato via in un corridoio, accanto a una dispensa, per nostalgia.
+Non lo avrebbe buttato via in un corridoio, accanto a un tinello, per nostalgia.
 
 — Cosa c’è? — chiese Ivan.
 
@@ -1346,7 +1346,7 @@ Marina lo guardò.
 
 — Era una richiesta — disse Ivan. — Conta le uscite stamattina e dimmi quante sono nel pomeriggio. Preferisco che tu conti con me a saperlo piuttosto che senza.
 
-E se ne andò lungo il corridoio del piano terra prima che lei rispondesse, e lei rimase con la mano sullo stipite della dispensa e con la cosa che le era salita in gola ancora bloccata a metà strada, senza scendere.
+E se ne andò lungo il corridoio del piano terra prima che lei rispondesse, e lei rimase con la mano sullo stipite del tinello e con la cosa che le era salita in gola ancora bloccata a metà strada, senza scendere.
 
 ◆
 
@@ -1678,7 +1678,7 @@ Il cancelletto della cappella aveva ricevuto un lucchetto tra mezzogiorno e le t
 
 ◆
 
-Il pranzo dell’ala di servizio è a mezzogiorno e mezza, alla tavola lunga della dispensa, e Marina pensò di non andarci e ci andò.
+Il pranzo dell’ala di servizio è a mezzogiorno e mezza, alla tavola lunga del tinello, e Marina pensò di non andarci e ci andò.
 
 Ventisei persone.
 
@@ -1704,7 +1704,7 @@ E uno, che non sarebbe riuscita a dire quale perché era di schiena rispetto all
 
 Marina finì il piatto.
 
-Lo portò fino al lavandino, ringraziò Irina, uscì dalla porta sul cortile, e solo quando fu sulla ghiaia, con l’aria fredda in faccia, si accorse di essere uscita dalla dispensa camminando all’indietro per gli ultimi due passi.
+Lo portò fino al lavandino, ringraziò Irina, uscì dalla porta sul cortile, e solo quando fu sulla ghiaia, con l’aria fredda in faccia, si accorse di essere uscita dal tinello camminando all’indietro per gli ultimi due passi.
 
 ◆
 
@@ -2016,7 +2016,7 @@ La osservò per dieci secondi interi.
 
 — È possibile?
 
-— Sergei, firmavo in fondo alla pagina quando finivo la serata. Il libro restava in dispensa fino al mattino. — Chiuse gli occhi per un istante. — Chiunque in questa casa poteva scrivere su quel libro tra le tre e le sette.
+— Sergei, firmavo in fondo alla pagina quando finivo la serata. Il libro restava in tinello fino al mattino. — Chiuse gli occhi per un istante. — Chiunque in questa casa poteva scrivere su quel libro tra le tre e le sette.
 
 — Allora abbiamo un nome che non prova niente — disse Sergei.
 
@@ -2356,7 +2356,7 @@ Salì la scala est senza contare i gradini, entrò nella camera, chiuse la porta
 
 *Tutti si confondono.*
 
-Per nove anni si era raccontata che la storia del duemiladiciannove era stata un uomo con la voce bassa in dispensa alle sette del mattino, e che era stata terrificante perché era giovane ed era sola.
+Per nove anni si era raccontata che la storia del duemiladiciannove era stata un uomo con la voce bassa in tinello alle sette del mattino, e che era stata terrificante perché era giovane ed era sola.
 
 Era una bugia.
 
@@ -2368,9 +2368,9 @@ L’uomo le aveva messo il caffè davanti. Le aveva chiesto se stava bene. Aveva
 
 E Marina aveva acconsentito.
 
-Aveva acconsentito ad alta voce, in dispensa, alle sette e dieci del mattino del quindici novembre duemiladiciannove, con la tazza in mano, dicendo *sì, devono essere stati quelli del tetto*.
+Aveva acconsentito ad alta voce, in tinello, alle sette e dieci del mattino del quindici novembre duemiladiciannove, con la tazza in mano, dicendo *sì, devono essere stati quelli del tetto*.
 
-Solo quando era uscita da quella dispensa, aveva attraversato il cortile e aveva visto che la cappella non aveva nessuna impalcatura — e non l’aveva avuta in nessuno dei quattordici giorni precedenti, perché lei aveva scritto il turno di tutti e quattordici — aveva capito qual è la cosa più pericolosa di quella casa.
+Solo quando era uscita da quel tinello, aveva attraversato il cortile e aveva visto che la cappella non aveva nessuna impalcatura — e non l’aveva avuta in nessuno dei quattordici giorni precedenti, perché lei aveva scritto il turno di tutti e quattordici — aveva capito qual è la cosa più pericolosa di quella casa.
 
 Non è un uomo che minaccia.
 
@@ -2534,7 +2534,7 @@ Ivan si sedette sul bordo del letto, di fronte a lei, con i gomiti sulle ginocch
 
 ◆
 
-— Alle sette e dieci del mattino seguente un uomo mi ha offerto un caffè in dispensa e mi ha spiegato, due volte, con molta pazienza, che dovevo aver visto gli operai del tetto.
+— Alle sette e dieci del mattino seguente un uomo mi ha offerto un caffè in tinello e mi ha spiegato, due volte, con molta pazienza, che dovevo aver visto gli operai del tetto.
 
 — Chi?
 
@@ -2552,7 +2552,7 @@ Ivan rimase in piedi in mezzo alla stanza con le mani aperte lungo il corpo.
 
 — Va bene. — Si passò la mano sul viso. — Hai ragione e odio che tu abbia ragione.
 
-— La signora è morta quella notte — disse Marina. — L’ho saputo la mattina, con tutti gli altri, in dispensa. Hanno detto che era stato nel sonno. E dopo quello nessuno in questa casa ha più pronunciato la parola *madre* davanti a me per diciannove ore, e me ne sono andata.
+— La signora è morta quella notte — disse Marina. — L’ho saputo la mattina, con tutti gli altri, in tinello. Hanno detto che era stato nel sonno. E dopo quello nessuno in questa casa ha più pronunciato la parola *madre* davanti a me per diciannove ore, e me ne sono andata.
 
 ◆
 
@@ -3004,7 +3004,7 @@ E sotto:
 
 # Capitolo 12
 
-Irina mise due tazze sul tavolo della dispensa alle sette e mezza del mattino.
+Irina mise due tazze sul tavolo del tinello alle sette e mezza del mattino.
 
 Marina era sola.
 
@@ -3012,7 +3012,7 @@ La vecchia non disse nulla, non la guardò, non fece uno di quei risolini da cuc
 
 Marina rimase a guardare la seconda tazza.
 
-Avrebbe potuto chiedere. Avrebbe potuto dire che era un errore. Invece bevve la sua tutta, guardando l’altra raffreddarsi, e capì con assoluta chiarezza che dentro quella casa non esisteva una sola cosa che accadesse al primo piano alle quattro del mattino e che non fosse, alle sette e mezza, sulla tavola della dispensa.
+Avrebbe potuto chiedere. Avrebbe potuto dire che era un errore. Invece bevve la sua tutta, guardando l’altra raffreddarsi, e capì con assoluta chiarezza che dentro quella casa non esisteva una sola cosa che accadesse al primo piano alle quattro del mattino e che non fosse, alle sette e mezza, sulla tavola del tinello.
 
 Quando si alzò, Irina parlò senza voltarsi dai fornelli.
 
@@ -3250,7 +3250,7 @@ Anton era già in piedi sul vialetto di ghiaia con un sacco di letame e le forbi
 
 — Ho visto il lucchetto.
 
-— L’hanno messo mercoledì. — Il vecchio sputò di lato. — Ho chiesto al ragazzo della guardiola e ha detto che non è stato lui. Ho chiesto in dispensa e nessuno l’ha messo. — Alzò le spalle. — Quindi è stato qualcuno.
+— L’hanno messo mercoledì. — Il vecchio sputò di lato. — Ho chiesto al ragazzo della guardiola e ha detto che non è stato lui. Ho chiesto in tinello e nessuno l’ha messo. — Alzò le spalle. — Quindi è stato qualcuno.
 
 — E la chiave?
 
@@ -3586,7 +3586,7 @@ Fu la voce.
 
 Bassa, senza fretta, con una piccola pausa prima dell’ultima parola — la voce di un uomo che non aveva mai avuto bisogno di alzare la voce per essere obbedito. *Spero che stia bene.*
 
-Alle sette e dieci del mattino di un venerdì di novembre, in dispensa, quella voce le aveva messo davanti un caffè e le aveva chiesto se stesse bene. Due volte. Finché non aveva acconsentito.
+Alle sette e dieci del mattino di un venerdì di novembre, in tinello, quella voce le aveva messo davanti un caffè e le aveva chiesto se stesse bene. Due volte. Finché non aveva acconsentito.
 
 Lei non rispose.
 
@@ -3608,7 +3608,7 @@ Ivan rimase a guardarla.
 
 E non chiese di nuovo, cosa che faceva da Trieste e che lei avrebbe pagato caro.
 
-Per nove anni aveva avuto un’idea su quell’uomo, e per nove anni aveva dubitato della propria idea — perché la cosa che le aveva fatto in quella dispensa era esattamente questa: insegnarle a non fidarsi di ciò che ricordava.
+Per nove anni aveva avuto un’idea su quell’uomo, e per nove anni aveva dubitato della propria idea — perché la cosa che le aveva fatto in quel tinello era esattamente questa: insegnarle a non fidarsi di ciò che ricordava.
 
 In quella mattina di domenica, con la porta chiusa e la sua voce ancora nella stanza, smise di dubitare.
 
@@ -3620,7 +3620,7 @@ Bussarono alla porta alle undici e cinque.
 
 Era Irina, con un vassoio, ed entrò senza aspettare risposta e posò il vassoio sopra le cartelle dell’audit, il che in quella casa è un atto politico.
 
-— Pane, uovo e il resto dell’arrosto di ieri — disse. — E voi due mangiate qui dentro, con la porta chiusa, perché in dispensa c’è gente.
+— Pane, uovo e il resto dell’arrosto di ieri — disse. — E voi due mangiate qui dentro, con la porta chiusa, perché in tinello c’è gente.
 
 — Irina—
 
@@ -4462,7 +4462,7 @@ Servì il caffè, gli mise davanti il pane, tirò fuori dalla tasca del grembiul
 
 Lui si sedette.
 
-Erano le sette e dieci del mattino e la dispensa era vuota, perché il lunedì il turno del mattino esce alle sei e quaranta e la servitù scende solo alle otto. Irina era a Vorenhaus da più di trent’anni e conosceva quegli orari meglio di Sergei, e Ivan sapeva che aveva scelto apposta quel momento per servirgli il caffè.
+Erano le sette e dieci del mattino e il tinello era vuoto, perché il lunedì il turno del mattino esce alle sei e quaranta e la servitù scende solo alle otto. Irina era a Vorenhaus da più di trent’anni e conosceva quegli orari meglio di Sergei, e Ivan sapeva che aveva scelto apposta quel momento per servirgli il caffè.
 
 Mangiò metà del pane.
 
@@ -4480,7 +4480,7 @@ Ivan rilesse quella cosa tre volte nel corridoio, e Marina, che gli stava accant
 
 E andò a lavorare.
 
-Dopo posò sul tavolo della dispensa, piegato in due, il foglio bianco.
+Dopo posò sul tavolo del tinello, piegato in due, il foglio bianco.
 
 Irina guardò.
 
@@ -4512,7 +4512,7 @@ Tirò la sedia e si sedette, cosa che Ivan aveva visto fare a quella donna forse
 
 — Lo sa?
 
-— Lei è entrato in questa dispensa alle sette e dieci di un lunedì mattina con la camicia senza un bottone e un foglio bianco in tasca. — Irina incrociò le braccia. — Sono in questa casa da prima che lei avesse la patente. So cosa è venuto a chiedermi da mercoledì.
+— Lei è entrato in questo tinello alle sette e dieci di un lunedì mattina con la camicia senza un bottone e un foglio bianco in tasca. — Irina incrociò le braccia. — Sono in questa casa da prima che lei avesse la patente. So cosa è venuto a chiedermi da mercoledì.
 
 — E me lo avrebbe detto?
 
@@ -4524,7 +4524,7 @@ Tirò la sedia e si sedette, cosa che Ivan aveva visto fare a quella donna forse
 
 Lo disse senza nessuna drammatizzazione, e fu peggio proprio per questo.
 
-— Nove anni — ripeté. — Il signor Sergei ha fatto domande a cinquanta persone su ronde e cancelli. Il signor Nikolai non ha chiesto niente a nessuno. Il signor Dmitri non entra nella mia dispensa dal funerale del padre. E lei, con tutto il rispetto, vive in quattro paesi e viene qui a Natale.
+— Nove anni — ripeté. — Il signor Sergei ha fatto domande a cinquanta persone su ronde e cancelli. Il signor Nikolai non ha chiesto niente a nessuno. Il signor Dmitri non entra nel mio tinello dal funerale del padre. E lei, con tutto il rispetto, vive in quattro paesi e viene qui a Natale.
 
 Ivan non si difese.
 
@@ -4564,7 +4564,7 @@ La domanda gli uscì dalla bocca senza che l’avesse decisa, e Irina alzò lent
 
 — Sì.
 
-— Quarantacinque anni in famiglia e me lo chiede oggi, a me, nella mia dispensa, un lunedì mattina.
+— Quarantacinque anni in famiglia e me lo chiede oggi, a me, nel mio tinello, un lunedì mattina.
 
 — Sì — ripeté Ivan, senza distogliere lo sguardo.
 
@@ -4680,7 +4680,7 @@ E Ivan vide una cosa che non aveva mai visto in quella donna in quarantacinque a
 
 # Capitolo 18
 
-Ivan entrò nel suo ufficio alle nove e mezza senza nessun motivo.
+Ivan entrò nella sua sala alle nove e mezza senza nessun motivo.
 
 Lei capì che era senza motivo perché non portava carte, non portava il caffè e non disse *buongiorno*, e perché rimase in piedi accanto al tavolo, a guardare la finestra, come chi è venuto a prendere qualcosa e ha dimenticato cosa.
 
@@ -4808,7 +4808,7 @@ Sofia rise, e questa volta fu una risata vera.
 
 — Glielo hanno permesso?
 
-— Non me lo hanno *permesso*, non se ne sono nemmeno accorti. — Fece spallucce. — Ho iniziato misurando la pressione in dispensa alle sette del mattino con un apparecchio che ho comprato con i miei soldi. Al terzo mese c’era la fila.
+— Non me lo hanno *permesso*, non se ne sono nemmeno accorti. — Fece spallucce. — Ho iniziato misurando la pressione in tinello alle sette del mattino con un apparecchio che ho comprato con i miei soldi. Al terzo mese c’era la fila.
 
 Marina guardò quella donna con qualcos’altro nel petto.
 
@@ -5094,7 +5094,7 @@ Nikolai rimase con la mano a metà strada verso la tazza.
 
 — Chi glielo fece sapere.
 
-— Non glielo fecero sapere. Glielo dissero in faccia, in dispensa.
+— Non glielo fecero sapere. Glielo dissero in faccia, in tinello.
 
 — Ivan. Chi.
 
@@ -5116,7 +5116,7 @@ Si alzò e andò verso la finestra.
 
 — Nikolai.
 
-— La risposta era in dispensa, Ivan. Nove anni. Ho passato nove anni a pagare gente in quattro paesi, e la risposta era a venti metri da me, con uno strofinaccio sulla spalla.
+— La risposta era in tinello, Ivan. Nove anni. Ho passato nove anni a pagare gente in quattro paesi, e la risposta era a venti metri da me, con uno strofinaccio sulla spalla.
 
 ◆
 
@@ -5278,7 +5278,7 @@ Marina non si mosse.
 
 — Non è di cosa. È per chi. — Ivan alzò gli occhi. — Pensa che la trappola non sia per la casa e non sia per lui. Pensa che chi l’ha organizzata sappia da molto tempo cosa sei per me, e ti abbia messa dentro queste mura perché io fossi qui dentro con te.
 
-Il corridoio oltre la porta era silenzioso, e si sentiva Irina litigare con qualcuno in dispensa, lontano.
+Il corridoio oltre la porta era silenzioso, e si sentiva Irina litigare con qualcuno in tinello, lontano.
 
 — Ripeti l’ultima parte — disse lei.
 
@@ -5506,7 +5506,7 @@ Scrisse.
 
 Marina scrisse.
 
-— Ha ordinato che la visita entrasse dalla scala est, che non passa per la dispensa, perché Irina avrebbe chiesto e la signora non voleva che Irina chiedesse.
+— Ha ordinato che la visita entrasse dalla scala est, che non passa per il tinello, perché Irina avrebbe chiesto e la signora non voleva che Irina chiedesse.
 
 Scrisse.
 
@@ -6010,7 +6010,7 @@ Il percorso di Grigori — cortile, porta laterale, corridoio del piano terra, s
 
 — E Irina? — chiese Ivan.
 
-— Irina era in dispensa fino alle nove e mezza, che è l’ora in cui va a ritirare il vassoio che non aveva portato su. — Sergei si annotò sul polsino del cappotto, con la penna a sfera, cosa che faceva dai vent’anni e che faceva impazzire la lavanderia. — E poi andò nella sua stanza, arrabbiata, e buttò via una zuppa.
+— Irina era in tinello fino alle nove e mezza, che è l’ora in cui va a ritirare il vassoio che non aveva portato su. — Sergei si annotò sul polsino del cappotto, con la penna a sfera, cosa che faceva dai vent’anni e che faceva impazzire la lavanderia. — E poi andò nella sua stanza, arrabbiata, e buttò via una zuppa.
 
 — Quindi tra le sette e le nove e mezza di sera tutta la casa pensava che la signora avesse cenato.
 
@@ -6110,7 +6110,7 @@ Sergei rimase a guardare la serra a lungo.
 
 ◆
 
-Pranzarono in tre in dispensa, al tavolo lungo, con una ventina di persone intorno, e nessuno parlò di niente.
+Pranzarono in tre in tinello, al tavolo lungo, con una ventina di persone intorno, e nessuno parlò di niente.
 
 Fu Marina a notarlo per prima.
 
@@ -6268,7 +6268,7 @@ L’inizio era settembre del duemiladiciannove.
 
 — La signora l’ha chiamata.
 
-— Mi fece chiamare in dispensa e salii, e fu l’unica volta in ventisette anni che misi piede nella stanza di quella donna. — Passò il pollice sul berretto. — Mi chiese di andare a prendere una persona a Michalovce, di notte, e di portarla fino alla strada del muro est, di non entrare dal cancello, di non scrivere sul registro, e di non dirlo a nessuno.
+— Mi fece chiamare in tinello e salii, e fu l’unica volta in ventisette anni che misi piede nella stanza di quella donna. — Passò il pollice sul berretto. — Mi chiese di andare a prendere una persona a Michalovce, di notte, e di portarla fino alla strada del muro est, di non entrare dal cancello, di non scrivere sul registro, e di non dirlo a nessuno.
 
 — E lei accettò.
 
@@ -6610,7 +6610,7 @@ Sergei girò lentamente la testa.
 
 Marina rimase a guardargli le mani.
 
-Erano incrociate dietro la schiena e lei vedeva solo i polsi, e i polsi non si muovevano, ed era esattamente così che li ricordava sopra un tavolo di dispensa, mentre spingevano una tazzina.
+Erano incrociate dietro la schiena e lei vedeva solo i polsi, e i polsi non si muovevano, ed era esattamente così che li ricordava sopra un tavolo di tinello, mentre spingevano una tazzina.
 
 Sei settimane a pensare che la madre si fosse tolta la vita.
 
@@ -6746,7 +6746,7 @@ La luce di febbraio entrava intera dalla finestra della sala del piano terra, se
 
 Lei posò i palmi sul piano.
 
-Lui le sollevò la gonna senza fretta e poi smise di avere pazienza nello stesso momento in cui la perse lei, e quando entrò in lei, lei dovette mordersi il proprio braccio, perché erano le dodici e quaranta e la dispensa è a venti metri e Irina era lì.
+Lui le sollevò la gonna senza fretta e poi smise di avere pazienza nello stesso momento in cui la perse lei, e quando entrò in lei, lei dovette mordersi il proprio braccio, perché erano le dodici e quaranta e il tinello è a venti metri e Irina era lì.
 
 — Piano — disse lei, ansimando. — Ivan, piano, c’è gente.
 
@@ -6832,7 +6832,7 @@ Ivan aveva detto quarantotto e aveva sbagliato per eccesso, e Sergei se lo sareb
 
 Nelle ventisei ore precedenti non avevano visto niente.
 
-Il vecchio si era svegliato alle cinque e mezza, come ogni giorno. Aveva lavato due auto. Aveva portato Tarasov a Michalovce alle dieci e l’aveva riportato alle due. Aveva pranzato in dispensa in undici minuti e si era alzato. Aveva riparato una torcia in officina. Aveva cenato. Era andato nella sua stanza alle nove e quaranta.
+Il vecchio si era svegliato alle cinque e mezza, come ogni giorno. Aveva lavato due auto. Aveva portato Tarasov a Michalovce alle dieci e l’aveva riportato alle due. Aveva pranzato in tinello in undici minuti e si era alzato. Aveva riparato una torcia in officina. Aveva cenato. Era andato nella sua stanza alle nove e quaranta.
 
 Non aveva telefonato a nessuno.
 
@@ -6946,7 +6946,7 @@ Alzò la testa.
 
 — Signore.
 
-— Ti ho parlato a dicembre?
+— Le ho parlato a dicembre?
 
 Il vecchio non esitò.
 
@@ -7750,7 +7750,7 @@ E impallidì.
 
 La casa si svegliò storta.
 
-Marina lo seppe prima di saperlo, nel modo in cui si sa in una casa con trentuno persone: non ci fu urlo, non ci fu corsa, non ci fu rumore. Ci fu il contrario. Alle sette e dieci del mattino la dispensa era piena e completamente silenziosa, e Irina era in piedi accanto ai fornelli con entrambe le mani sullo strofinaccio, senza muovere nulla.
+Marina lo seppe prima di saperlo, nel modo in cui si sa in una casa con trentuno persone: non ci fu urlo, non ci fu corsa, non ci fu rumore. Ci fu il contrario. Alle sette e dieci del mattino il tinello era pieno e completamente silenzioso, e Irina era in piedi accanto ai fornelli con entrambe le mani sullo strofinaccio, senza muovere nulla.
 
 — Irina.
 
@@ -7808,11 +7808,11 @@ L’ultima cosa che quell’uomo aveva saputo del mondo era stata una frase scri
 
 ◆
 
-In dispensa, Irina le mise il caffè davanti senza chiedere.
+In tinello, Irina le mise il caffè davanti senza chiedere.
 
 Poi si sedette dall’altra parte del tavolo, cosa che quella donna non faceva mai, e rimase con entrambe le mani intorno alla propria tazza.
 
-— Trentasei anni — disse. — Dava il buongiorno per primo. Ogni giorno, per primo, prima di tutti. Alle cinque e quarantacinque, sulla porta della dispensa, con il berretto in mano.
+— Trentasei anni — disse. — Dava il buongiorno per primo. Ogni giorno, per primo, prima di tutti. Alle cinque e quarantacinque, sulla porta del tinello, con il berretto in mano.
 
 — Irina.
 
@@ -7824,11 +7824,11 @@ Irina la lasciò fare.
 
 Fu la prima volta.
 
-E rimasero così, entrambe, in una dispensa piena di gente che non diceva nulla, per un tempo che nessuno misurò — la cuoca di poco più di cinquant’anni con il pollice che non si chiude, e la donna che era fuggita da quella casa in una notte di novembre, mano nella mano su un tavolo di cucina.
+E rimasero così, entrambe, in un tinello pieno di gente che non diceva nulla, per un tempo che nessuno misurò — la cuoca di poco più di cinquant’anni con il pollice che non si chiude, e la donna che era fuggita da quella casa in una notte di novembre, mano nella mano su un tavolo di cucina.
 
 ◆
 
-Ivan arrivò alle otto e quaranta e si sedette accanto a lei nella dispensa ormai vuota.
+Ivan arrivò alle otto e quaranta e si sedette accanto a lei nel tinello ormai vuoto.
 
 Aveva del grasso sul polsino della camicia.
 
@@ -7940,7 +7940,7 @@ Piccolo, stampato, sulla diagonale del piede di pagina, delle dimensioni di uno 
 
 — E tra le due non è successo niente al mondo che conosciamo, tranne una cosa.
 
-Sergei era entrato in dispensa ed era in piedi sulla porta, e nessuno dei due lo aveva sentito arrivare.
+Sergei era entrato in tinello ed era in piedi sulla porta, e nessuno dei due lo aveva sentito arrivare.
 
 — Jozef ha parlato — disse.
 
@@ -8038,7 +8038,7 @@ Sasha arrivò da Sobrance alle cinque e venti, in auto, senza avvisare nessuno.
 
 Entrò nel cortile, scese, e rimase fermo davanti alla porta del garage con le mani in tasca per un tempo che Ivan non volle misurare.
 
-Poi andò in cucina.
+Poi andò in tinello.
 
 — Mi ha insegnato ad andare in bicicletta — disse a Irina, e a nessuno in particolare. — Nel cortile sul retro. Avevo otto anni e mio padre aveva detto che sarebbe stato Grigori a insegnarmi, e Grigori aveva delle carte da controllare, e Jozef prese la bicicletta e disse *vieni qui, ragazzino*.
 
@@ -8106,7 +8106,7 @@ Marina chiuse gli occhi.
 
 Lei appoggiò la fronte al suo petto.
 
-E rimasero così nel cortile sul retro, al buio, con l’odore di terra bagnata che veniva dalla serra e la luce della cucina accesa a trenta metri, e lui le posò la mano aperta sulla nuca e non disse più nulla, perché non c’era più niente che non avrebbe rovinato tutto.
+E rimasero così nel cortile sul retro, al buio, con l’odore di terra bagnata che veniva dalla serra e la luce del tinello accesa a trenta metri, e lui le posò la mano aperta sulla nuca e non disse più nulla, perché non c’era più niente che non avrebbe rovinato tutto.
 
 Durò due minuti.
 
@@ -8832,7 +8832,7 @@ Il passaggio della serra sbarrato con due assi incrociate e inchiodate, e Anton 
 
 Quattro uomini in turni di sei ore, e lui stesso in uno di essi, quello dalle due alle otto del mattino.
 
-E un foglio nuovo appeso alla parete della cucina, con la sua grafia in stampatello, che diceva che da quel giorno chiunque fosse entrato o uscito da quella proprietà, per qualsiasi motivo, a qualsiasi ora, sarebbe stato annotato in un registro con nome leggibile — e che chi non fosse d’accordo poteva rivolgersi a lui, e che lui era nel cortile.
+E un foglio nuovo appeso alla parete del tinello, con la sua grafia in stampatello, che diceva che da quel giorno chiunque fosse entrato o uscito da quella proprietà, per qualsiasi motivo, a qualsiasi ora, sarebbe stato annotato in un registro con nome leggibile — e che chi non fosse d’accordo poteva rivolgersi a lui, e che lui era nel cortile.
 
 Nessuno si rivolse a lui.
 
@@ -8870,7 +8870,7 @@ Lei lo trovò alle undici nel corridoio dell’ala ovest e lo fermò per un brac
 
 — Ho mangiato.
 
-— Hai preso del pane in cucina alle sette e mezza e te lo sei messo in tasca, e quel pane è ancora lì, perché lo vedo da qui.
+— Hai preso del pane in tinello alle sette e mezza e te lo sei messo in tasca, e quel pane è ancora lì, perché lo vedo da qui.
 
 Ivan guardò il proprio cappotto.
 
@@ -8914,7 +8914,7 @@ E lei aspettò che finisse, perché aveva passato tutta la mattina sapendo che a
 
 Lui smise di masticare.
 
-— L’uomo del caffè in cucina. Nel duemiladiciannove, alle sette e dieci del mattino. Quello che mi ha spiegato due volte che avevo visto i lattonieri sul tetto. — Lo guardò senza distogliere lo sguardo. — Era Dmitri.
+— L’uomo del caffè in tinello. Nel duemiladiciannove, alle sette e dieci del mattino. Quello che mi ha spiegato due volte che avevo visto i lattonieri sul tetto. — Lo guardò senza distogliere lo sguardo. — Era Dmitri.
 
 Il corridoio dell’ala ovest piombò nel silenzio assoluto.
 
@@ -8932,7 +8932,7 @@ Ivan non si mosse per un tempo che lei non contò.
 
 — Non sto dicendo che sia stato lui a chiamare.
 
-— Stai dicendo che è stato lui in cucina.
+— Stai dicendo che è stato lui in tinello.
 
 — Sì.
 
@@ -8980,7 +8980,7 @@ Il ragazzo di Sergei aveva gridato quella targa tre volte nel parcheggio di Koš
 
 — Gli credo. — Si mise il cappotto senza guardarla. — Vieni con me.
 
-Non parlarono d’altro sulla strada. Né del corridoio, né della cucina, né del nome che lei aveva pronunciato alle undici. Quaranta minuti di radio spenta e le sue mani sul volante.
+Non parlarono d’altro sulla strada. Né del corridoio, né del tinello, né del nome che lei aveva pronunciato alle undici. Quaranta minuti di radio spenta e le sue mani sul volante.
 
 ◆
 
@@ -9142,7 +9142,7 @@ Dmitri era seduto dietro la scrivania, senza giacca, con la cravatta allentata e
 
 Guardò il cugino e non chiese nulla.
 
-— Novembre duemiladiciannove — disse Ivan. — La cucina. Sette e dieci del mattino.
+— Novembre duemiladiciannove — disse Ivan. — Il tinello. Sette e dieci del mattino.
 
 Dmitri posò il bicchiere sul tavolo.
 
@@ -9168,7 +9168,7 @@ Nessuno parlò.
 
 — E alle sette del mattino era morta — disse Marina.
 
-— Alle sette del mattino era morta. E alle sette e dieci lei è entrata in cucina, pallida, dicendo di aver visto una donna col cappotto nella sua stanza. — La voce di lui restava bassa e restava intera. — E io ho fatto quello che mi aveva chiesto. Non ho pensato. Le ho messo davanti un caffè e ho fatto l’ultima cosa che mia madre mi ha chiesto in vita sua.
+— Alle sette del mattino era morta. E alle sette e dieci lei è entrata in tinello, pallida, dicendo di aver visto una donna col cappotto nella sua stanza. — La voce di lui restava bassa e restava intera. — E io ho fatto quello che mi aveva chiesto. Non ho pensato. Le ho messo davanti un caffè e ho fatto l’ultima cosa che mia madre mi ha chiesto in vita sua.
 
 Marina non si mosse.
 
@@ -9438,7 +9438,7 @@ E poi prese il foglio piegato in tre dal centro del tavolo, senza aprirlo, e se 
 
 Sergei alzò la testa.
 
-— La casa non chiude — ripeté Nikolai —, e da domani la signora Costa non cammina più da sola in questa proprietà, nemmeno per andare in cucina, e chi si lamenta ne parla con me. — Guardò Marina. — E lei dovrà sopportarlo, e so che lo odia, e non discuterò.
+— La casa non chiude — ripeté Nikolai —, e da domani la signora Costa non cammina più da sola in questa proprietà, nemmeno per andare in tinello, e chi si lamenta ne parla con me. — Guardò Marina. — E lei dovrà sopportarlo, e so che lo odia, e non discuterò.
 
 Marina si alzò.
 
@@ -9688,7 +9688,7 @@ Nessuno si mosse.
 
 Guardò Marina.
 
-— Tre anni dopo la metà superiore è salita la scala est di questa casa, dal lato che non passa in cucina, invitata.
+— Tre anni dopo la metà superiore è salita la scala est di questa casa, dal lato che non passa in tinello, invitata.
 
 — Nikolai—
 
@@ -9772,7 +9772,7 @@ Cominciò a camminare verso la casa.
 
 # Capitolo 35
 
-Prima di partire, Nikolai scrisse un foglio e lo fece appendere alla parete della cucina, accanto a quello che Sergei aveva appeso tre giorni prima.
+Prima di partire, Nikolai scrisse un foglio e lo fece appendere alla parete del tinello, accanto a quello che Sergei aveva appeso tre giorni prima.
 
 Non era un ordine di sicurezza.
 
@@ -9784,7 +9784,7 @@ E sotto, alla quarta riga:
 
 *Questo non ripara niente.*
 
-Sergei lo lesse in piedi in cucina, a mezzogiorno, con venti persone intorno che fingevano di pranzare.
+Sergei lo lesse in piedi in tinello, a mezzogiorno, con venti persone intorno che fingevano di pranzare.
 
 Poi andò a prendere un martello e inchiodò il secondo angolo, che Nikolai aveva lasciato staccato.
 
@@ -10736,7 +10736,7 @@ Marina rimase in piedi accanto alla finestra che dà sul muro.
 
 Ivan chiuse la scatola.
 
-— C’è una parete nella Vorenhaus, in cucina, accanto al calendario — disse. — È piena di fotografie della gente che lavora in quella casa. Irina le appende con le puntine.
+— C’è una parete nella Vorenhaus, in tinello, accanto al calendario — disse. — È piena di fotografie della gente che lavora in quella casa. Irina le appende con le puntine.
 
 — Lo so. L’ho vista.
 
@@ -11635,7 +11635,7 @@ Sergei posò la penna sul tavolo.
 
 ◆
 
-Il venerdì pomeriggio, prima di partire per Sobrance, Marina andò in dispensa.
+Il venerdì pomeriggio, prima di partire per Sobrance, Marina andò in tinello.
 
 La parete accanto al calendario è piena.
 
