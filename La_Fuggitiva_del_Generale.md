@@ -508,7 +508,7 @@ Non salì all’appartamento.
 
 Rimase in auto, dall’altra parte di via Economo, e aspettò.
 
-Non era strategia. Era codardia, e rimase lì lo stesso, con il motore spento e il vetro che si appannava, quattro ore e dieci minuti, senza prendere un caffè e senza scendere a fare pipì, guardando una porta di palazzo che si apriva ogni tanto per far uscire gente che non era lei.
+Non era strategia. Era codardia, e rimase lì lo stesso, con il motore spento e il vetro che si appannava, quattro ore e dieci minuti, senza prendere un caffè e senza scendere a pisciare, guardando una porta di palazzo che si apriva ogni tanto per far uscire gente che non era lei.
 
 Lei uscì alle nove e mezza.
 
@@ -748,13 +748,13 @@ Il viso di lui non cambiò.
 
 — Un biglietto non è un indirizzo.
 
-— Lo è, quando è la mia calligrafia.
+— Lo è, quando è la mia grafia.
 
 Lui rimase immobile.
 
 E lei vide, troppo tardi, cosa aveva rivelato: un uomo che guida per undici ore non nota le frasi belle, nota le frasi che non dovrebbero essere lì.
 
-*Quando è la mia calligrafia.*
+*Quando è la mia grafia.*
 
 ◆
 
@@ -914,7 +914,7 @@ Non ne ebbe bisogno.
 
 — Nevio e poi?
 
-— Nevio e basta. — Si passò la lingua sul labbro. — Signore, l’ho vista scendere da quell’auto. So che tipo di uomo fa quella faccia.
+— Nevio e basta. — Si passò la lingua sul labbro. — Signore, l’ho visto scendere da quell’auto. So che tipo di uomo fa quella faccia.
 
 — Allora sai che non chiederò due volte. Chi ti ha pagato?
 
@@ -1514,7 +1514,7 @@ Cinquantadue anni di registri. Trentasettemila cartelle.
 
 Sergei andò dritto al corridoio tre, sollevò la torcia, scorse il dito lungo uno scaffale e tirò giù due volumi rilegati in tela grigia.
 
-— Turno di servizio, duemiladiciannove, secondo semestre — disse, e li posò entrambi sulla scrivania dell’anticamera. — Non si è aperto da quando è stato archiviato.
+— Registro dei turni di servizio, duemiladiciannove, secondo semestre — disse, e li posò entrambi sulla scrivania dell’anticamera. — Non si è aperto da quando è stato archiviato.
 
 Ivan lo aprì a novembre.
 
@@ -1710,7 +1710,7 @@ Lo portò fino al lavandino, ringraziò Irina, uscì dalla porta sul cortile, e 
 
 Anton era inginocchiato accanto al telo con delle forbici che non tagliavano più niente, e parlò per quindici minuti dell’inverno prima che Marina riuscisse a chiedergli qualcosa.
 
-— La signora era sparita — disse lui, senza smettere di sistemare il telo.
+— Signora, è sparita — disse lui, senza smettere di sistemare il telo.
 
 — Sono sparita.
 
@@ -1884,13 +1884,13 @@ Lui rise dentro la sua bocca, e la risata passò dentro di lei, e fu allora che 
 
 Le mani di lui entrarono sotto la camicetta e si aprirono sulla vita e salirono, e lei emise un suono che non faceva da anni, corto e basso, contro la sua spalla — e il suono sembrò svegliare qualcosa in lui, perché da quel momento smise di essere delicato.
 
-La sollevò di due centimetri da terra per la vita e la rimise contro la porta, più in alto, e la coscia di lui si infilò tra le sue gambe, e la sua mano salì lungo le costole fino al punto in cui non c’era più nessun vestito sul cammino.
+La sollevò di due centimetri da terra per la vita e la rimise contro la porta, più in alto, e la coscia di lui si infilò tra le sue gambe, e la sua mano salì lungo le costole fino al punto in cui non c’era più nulla addosso.
 
 La pelle di lui era calda come lo era stata per anni.
 
 Lei odiò il proprio corpo per averlo conservato con tanta esattezza.
 
-Lui scese con la bocca lungo il suo collo — lentamente, con i denti appena accennati all’altezza della clavicola, nel modo che sapeva lei non sopportava e che non aveva mai dimenticato lei non sopportasse.
+Lui scese con la bocca lungo il suo collo — lentamente, con i denti appena accennati all’altezza della clavicola, nel modo in cui sapeva che lei non sopportava, e che non aveva mai dimenticato che lei non sopportava.
 
 Lei gli affondò le dita nei capelli.
 
@@ -3804,7 +3804,7 @@ Il vecchio alzò la testa.
 
 — Sì.
 
-— Mio nonno lavorava la pietra a Matosinhos. — Posò la punta delle dita sul pezzo bagnato. — Selciato, non lapidi. Diceva che il granito chiaro è il peggiore di tutti perché non perdona la mano.
+— Mio nonno lavorava la pietra a Matosinhos. — Posò la punta delle dita sul pezzo bagnato. — Selciato, non lapide. Diceva che il granito chiaro è il peggiore di tutti perché non perdona la mano.
 
 — Suo nonno aveva ragione.
 
@@ -4350,7 +4350,7 @@ Un foglio, piegato a metà, spinto sotto fino quasi al centro del vano.
 
 Lo portò alla finestra, verso la luce del cortile, e lo aprì.
 
-Il foglio era vuoto.
+Il foglio era bianco.
 
 Lo girò.
 
@@ -4996,9 +4996,9 @@ Ivan non si mosse.
 
 — Sergei non mi ha detto niente, e non lo dirà, ed è per questo che è il capo della sicurezza di questa casa. — Nikolai spinse un foglio sul tavolo. — Ho lo scontrino del distributore. Trentuno euro, a mezzanotte e quattro. Il ragazzo dietro il bancone lavora in quel distributore e vive a Nová Ves, e suo padre guida un camion che trasporta merce per noi dal duemilaundici.
 
-— Mi ha fatto seguire.
+— Mi hai seguito.
 
-— Ho fatto seguire il mio generale delle operazioni esterne perché mi ha mentito per la prima volta in diciannove anni — disse il Pakhan. — E ti dirò l’unica cosa che conta in questa stanza: non sono arrabbiato.
+— Ho seguito il mio generale delle operazioni esterne perché mi ha mentito per la prima volta in diciannove anni — disse il Pakhan. — E ti dirò l’unica cosa che conta in questa stanza: non sono arrabbiato.
 
 Si appoggiò allo schienale.
 
@@ -5020,7 +5020,7 @@ Ivan rimase molto immobile.
 
 — Lei ha letto.
 
-— Lessi le trenta notti, seduto in quell’anticamera nel seminterrato, con Irina convinta che fossi in viaggio. — Nikolai guardò la parete. — E trovai tre righe scritte con una calligrafia diversa da quella della ragazza che teneva quel registro, nelle notti dodici, tredici e quattordici, con il nome dell’uomo che portò mio padre ferito per due chilometri nel millenovecentonovantanove.
+— Lessi le trenta notti, seduto in quell’anticamera nel seminterrato, con Irina convinta che fossi in viaggio. — Nikolai guardò la parete. — E trovai tre righe scritte con una grafia diversa da quella della ragazza che teneva quel registro, nelle notti dodici, tredici e quattordici, con il nome dell’uomo che portò mio padre ferito per due chilometri nel millenovecentonovantanove.
 
 — Grigori.
 
@@ -5030,7 +5030,7 @@ Ivan rimase in silenzio per un momento.
 
 — È da lì che ha ricavato i suoi giri — disse, infine. — Le due e quaranta e le quattro e venti. Gliel’ha chiesto sabato, nel suo ufficio, come chi chiede del tempo.
 
-— Trenta notti, Ivan. In ventotto ha scritto *due e quaranta* e *quattro e venti* nella colonna della copertura, con la stessa calligrafia, senza saltarne una. — Il Pakhan non sorrise. — Conoscevo a memoria i turni di quella ragazza fin dal dicembre del duemiladiciannove. Gliel’ho chiesto sabato per vedere se avrebbe mentito.
+— Trenta notti, Ivan. In ventotto ha scritto *due e quaranta* e *quattro e venti* nella colonna della copertura, con la stessa grafia, senza saltarne una. — Il Pakhan non sorrise. — Conoscevo a memoria i turni di quella ragazza fin dal dicembre del duemiladiciannove. Gliel’ho chiesto sabato per vedere se avrebbe mentito.
 
 — E ha mentito?
 
@@ -5466,7 +5466,7 @@ Turno del mattino, turno del pomeriggio, turno di notte, con i nomi, con gli ora
 
 Marina scrisse.
 
-Scrisse con la calligrafia piccola e dritta e i numeri chiusi uno a uno, e la sua mano conosceva quella cosa, e a un certo punto, al terzo nome, dovette fermarsi due secondi per respirare, e continuò.
+Scrisse con la grafia piccola e dritta e i numeri chiusi uno a uno, e la sua mano conosceva quella cosa, e a un certo punto, al terzo nome, dovette fermarsi due secondi per respirare, e continuò.
 
 I nomi erano del millenovecentonovantasei.
 
@@ -5782,7 +5782,7 @@ Aveva cambiato la serratura venerdì pomeriggio, con le proprie mani, senza dirl
 
 Fu rapido e non fu delicato.
 
-Lei gli spinse il cappotto indietro dalle spalle e lui non lo lasciò cadere del tutto, rimanendo con le braccia mezze intrappolate di nuovo, e questa volta lei non lo lasciò andare; gli strinse la stoffa attorno ai polsi e lo tenne così, contro la porta, baciandogli il collo su fino all’orecchio, dicendo qualcosa a voce molto bassa che fece sbattere all’uomo la testa contro il legno.
+Lei gli spinse il cappotto indietro dalle spalle e lui non lo lasciò cadere del tutto, rimanendo con le braccia mezze intrappolate di nuovo, e questa volta lei non lo lasciò andare; gli strinse la stoffa attorno ai polsi e lo tenne così, contro la porta, baciandogli il collo su fino all’orecchio, dicendo qualcosa a voce molto bassa che gli fece sbattere la testa contro il legno.
 
 — Marina.
 
@@ -5996,7 +5996,7 @@ Un cronometro vero, a mano, di metallo, di quelli da allenatore di atletica, che
 
 — Perché no? — volle sapere Marina.
 
-— Perché il telefono registra tutto, e io non voglio che resti traccia.
+— Perché il telefono registra, e io non voglio che sia registrato.
 
 E cominciò.
 
@@ -6746,7 +6746,7 @@ La luce di febbraio entrava intera dalla finestra della sala del piano terra, se
 
 Lei posò i palmi sul piano.
 
-Lui le sollevò la gonna senza fretta e poi smise di avere pazienza nello stesso momento in cui la perse lei, e quando entrò in lei dovette mordersi il proprio braccio, perché erano le dodici e quaranta e la dispensa è a venti metri e Irina era lì.
+Lui le sollevò la gonna senza fretta e poi smise di avere pazienza nello stesso momento in cui la perse lei, e quando entrò in lei, lei dovette mordersi il proprio braccio, perché erano le dodici e quaranta e la dispensa è a venti metri e Irina era lì.
 
 — Piano — disse lei, ansimando. — Ivan, piano, c’è gente.
 
@@ -6814,7 +6814,7 @@ Poi posò il foglio sul tavolo e ci tenne sopra entrambe le mani.
 
 Trecentoquarantotto euro.
 
-Una donna di sessantotto anni che camminava, scendeva le scale, litigava con il giardiniere per il telone e mangiava tutto quello che le veniva messo davanti **aveva pagato da sola, di tasca propria, in un laboratorio privato di un’altra città, quarantadue giorni prima di morire**.
+Una donna di sessantotto anni che camminava, scendeva le scale, litigava con il giardiniere per il telo e mangiava tutto quello che le veniva messo davanti **aveva pagato da sola, di tasca propria, in un laboratorio privato di un’altra città, quarantadue giorni prima di morire**.
 
 E non l’aveva detto a nessuno.
 
@@ -6896,7 +6896,7 @@ E fu la prima volta in diciannove anni che Ivan vide quell’uomo fare un passo 
 
 — Sergei.
 
-— Conosco questa calligrafia — disse Sergei.
+— Conosco questa grafia — disse Sergei.
 
 — Da dove?
 
@@ -6960,7 +6960,7 @@ Sergei impallidì.
 
 Ivan vide accadere quella cosa — non è una figura retorica, accadde davvero: il colore sparì dalla faccia di quell’uomo in due secondi, nel modo in cui sparisce dalla faccia di un uomo che ha appena scoperto un proprio errore.
 
-— Ho stilato quella lista a memoria e con il turno — disse. — Quattordici nomi. Ho convocato i quattordici, uno a uno, tra il ventisette novembre e il tre dicembre, e ho scritto quattromila righe.
+— Ho stilato quella lista a memoria e in base ai turni — disse. — Quattordici nomi. Ho convocato i quattordici, uno a uno, tra il ventisette novembre e il tre dicembre, e ho scritto quattromila righe.
 
 — E io non c’ero — disse Rehák.
 
@@ -7270,7 +7270,7 @@ Tre secondi di silenzio.
 
 — Noi due.
 
-— Ivan, mi stai dicendo che il generale delle operazioni esterne e l’auditrice esterna usciranno da questa proprietà insieme, stamattina, quaranta ore dopo che una lettera con quella calligrafia è comparsa nel mio cortile.
+— Ivan, mi stai dicendo che il generale delle operazioni esterne e l’auditrice esterna usciranno da questa proprietà insieme, stamattina, quaranta ore dopo che una lettera con quella grafia è comparsa nel mio cortile.
 
 — Sì.
 
@@ -7356,7 +7356,7 @@ Lui rise, una volta, senza nessuna allegria.
 
 Prima di uscire, fece una cosa che non gli raccontò.
 
-Si sedette di nuovo al tavolo della stanza, alle sei e quindici, con il cappotto già addosso, prese un foglio nuovo e scrisse in alto, con la calligrafia piccola e diritta, nel modo in cui si scrive un documento:
+Si sedette di nuovo al tavolo della stanza, alle sei e quindici, con il cappotto già addosso, prese un foglio nuovo e scrisse in alto, con la grafia piccola e diritta, nel modo in cui si scrive un documento:
 
 *Nota di registrazione interna. Autrice: Marina Costa, consulenza esterna. Data: 22/02/2028, ore 06:15.*
 
@@ -7518,7 +7518,7 @@ Scese dal suo lato con l’auto ancora in folle e girò intorno al cofano, e non
 
 Afferrò il braccio che era dentro l’auto.
 
-Lo prese per il polso e per il gomito, e girò il corpo di quell’uomo sulla spalla contro la fiancata della sua stessa auto, e l’uomo sbatté la faccia contro il tetto, e Ivan lo sbatté di nuovo, apposta, e poi lo tirò indietro e lo mise a terra, sulla ghiaia battuta, con il ginocchio sulla schiena.
+Lo prese per il polso e per il gomito, e girò il corpo di quell’uomo sulla spalla contro la fiancata della sua stessa auto, e l’uomo sbatté la faccia contro il tetto, e Ivan lo sbatté di nuovo, apposta, e poi lo tirò indietro e lo mise a terra, sulla terra battuta, con il ginocchio sulla schiena.
 
 Il ragazzo di Sergei arrivò al sesto secondo, correndo con il bicchiere di caffè ancora in mano.
 
@@ -7992,7 +7992,7 @@ Avevano già portato via l’uomo, avevano già fotografato tutto, avevano già 
 
 L’auto sapeva di sigaretta vecchia e di sapone.
 
-Nel cassetto del cruscotto c’erano il documento, un panno piegato e una caramella alla menta del barattolo di vetro nella stanza di Grigori.
+Nel cassetto portaoggetti c’erano il documento, un panno piegato e una caramella alla menta del barattolo di vetro nella stanza di Grigori.
 
 La tenne in mano a lungo.
 
@@ -8068,7 +8068,7 @@ Lui si tolse il cappotto e glielo posò sulle spalle, e lei lo lasciò fare, e r
 
 — Marina—
 
-— E adesso è morto, e l’unica cosa rimasta nel cassetto del cruscotto è una caramella alla menta presa dal barattolo di Grigori.
+— E adesso è morto, e l’unica cosa rimasta nel cassetto portaoggetti è una caramella alla menta presa dal barattolo di Grigori.
 
 Ivan si bloccò.
 
@@ -8250,7 +8250,7 @@ L’auto era nel cortile alle sei e quaranta, col motore acceso e il vapore che 
 
 Marina scese alle sei e quarantacinque con la valigia.
 
-La scatola delle scarpe era dentro, tra due maglie, perché era stata la prima cosa che aveva messo in valigia alle quattro del mattino e l’ultima che aveva controllato prima di chiuderla.
+La scatola da scarpe era dentro, tra due maglie, perché era stata la prima cosa che aveva messo in valigia alle quattro del mattino e l’ultima che aveva controllato prima di chiuderla.
 
 Posò la valigia sulla ghiaia, accanto alla portiera posteriore aperta, e rimase in piedi lì, al freddo, con le mani in tasca, e il ragazzo al volante non disse nulla perché in quella casa nessuno dice nulla.
 
@@ -8262,7 +8262,7 @@ Sarebbe costato caro, e lo sapeva già mentre accadeva, e non si alzò comunque.
 
 Il motore continuava a girare.
 
-Marina guardò la valigia sulla ghiaia e pensò all’altra, quella del duemiladiciannove, che non fu nemmeno una valigia: una scatola delle scarpe, un cappotto, e una donna di ventisette anni che scendeva la scala est senza far rumore sul quindicesimo gradino.
+Marina guardò la valigia sulla ghiaia e pensò all’altra, quella del duemiladiciannove, che non fu nemmeno una valigia: una scatola da scarpe, un cappotto, e una donna di ventisette anni che scendeva la scala est senza far rumore sul quindicesimo gradino.
 
 Se n’era andata da quella casa una volta senza dire nulla a nessuno.
 
@@ -8596,7 +8596,7 @@ Tutti si voltarono.
 
 — E la seconda? — disse Dmitri.
 
-— La seconda è che ha usato di nuovo quella chiave a gennaio, e di nuovo a dicembre, e l’ultima volta è stata tre giorni fa, in un cassetto del cruscotto, e per questo è morto un uomo di sessantatré anni. — Ivan guardò il Pakhan. — Chiudere non restituisce la chiave, Nikolai. Fa solo smettere di guardare mentre lei continua a usarla.
+— La seconda è che ha usato di nuovo quella chiave a gennaio, e di nuovo a dicembre, e l’ultima volta è stata tre giorni fa, in un cassetto portaoggetti, e per questo è morto un uomo di sessantatré anni. — Ivan guardò il Pakhan. — Chiudere non restituisce la chiave, Nikolai. Fa solo smettere di guardare mentre lei continua a usarla.
 
 Nikolai rimase a guardarlo.
 
@@ -8828,11 +8828,11 @@ Non urlò con nessuno, non riunì nessuno nel cortile, non fece discorsi. Cammin
 
 Portone di servizio chiuso dall’interno, con la chiave a una catenina al collo.
 
-Il passaggio della serra sbarrato con due assi incrociate e inchiodate, e Anton lì accanto a dire che avrebbe rovinato il telone, e Sergei a dire che lo rovinasse pure.
+Il passaggio della serra sbarrato con due assi incrociate e inchiodate, e Anton lì accanto a dire che avrebbe rovinato il telo, e Sergei a dire che lo rovinasse pure.
 
 Quattro uomini in turni di sei ore, e lui stesso in uno di essi, quello dalle due alle otto del mattino.
 
-E un foglio nuovo appeso alla parete della cucina, con la sua calligrafia in stampatello, che diceva che da quel giorno chiunque fosse entrato o uscito da quella proprietà, per qualsiasi motivo, a qualsiasi ora, sarebbe stato annotato in un registro con nome leggibile — e che chi non fosse d’accordo poteva rivolgersi a lui, e che lui era nel cortile.
+E un foglio nuovo appeso alla parete della cucina, con la sua grafia in stampatello, che diceva che da quel giorno chiunque fosse entrato o uscito da quella proprietà, per qualsiasi motivo, a qualsiasi ora, sarebbe stato annotato in un registro con nome leggibile — e che chi non fosse d’accordo poteva rivolgersi a lui, e che lui era nel cortile.
 
 Nessuno si rivolse a lui.
 
@@ -8860,7 +8860,7 @@ Marina si alzò in piedi.
 
 — Ivan.
 
-— O nessuna, Marina, perché chi scrive quelle lettere ha messo una lettera in un cassetto del cruscotto dentro queste mura due volte in nove anni e non è comparso in nessun registro in nessuna delle due occasioni.
+— O nessuna, Marina, perché chi scrive quelle lettere ha messo una lettera in un cassetto portaoggetti dentro queste mura due volte in nove anni e non è comparso in nessun registro in nessuna delle due occasioni.
 
 ◆
 
@@ -9080,7 +9080,7 @@ Non ci dormiva da giorni, perché dormiva dall’altra parte del corridoio, e tu
 
 Era andata a prendere vestiti puliti.
 
-Aprì l’armadio a due ante, tirò giù le due camicie piegate dal ripiano più alto, e la mano le toccò la scatola delle scarpe prima che gli occhi ci arrivassero.
+Aprì l’armadio a due ante, tirò giù le due camicie piegate dal ripiano più alto, e la mano le toccò la scatola da scarpe prima che gli occhi ci arrivassero.
 
 La scatola era al suo posto.
 
@@ -9208,7 +9208,7 @@ E Ivan, che aveva passato due giorni senza riuscire a guardare il cugino, guard�
 
 — Non è a me che devi chiedere scusa. È a lei. Ed è adesso, davanti a me.
 
-Il consigliere della famiglia Yakovlev rimase in piedi in mezzo al proprio ufficio, con la cravatta allentata, e chiese scusa a una consulente esterna in poche parole, guardandola.
+Il consigliere della famiglia Yakovlev rimase in piedi in mezzo al proprio ufficio, con la cravatta allentata, e chiese scusa a una consulente esterna in quattro parole, guardandola.
 
 Lei ascoltò.
 
@@ -9356,7 +9356,7 @@ Ivan si alzò.
 
 Non spinse la sedia, non alzò la voce, non guardò Marina — e sapeva, mentre lo faceva, che quella sarebbe stata la cosa che si sarebbe portato dietro per il resto della vita se fosse andata male.
 
-Tirò fuori dalla tasca interna un foglio piegato in tre, che aveva scritto quella mattina alle sei, prima del funerale, sul bordo di un letto, con la moglie che dormiva accanto.
+Tirò fuori dalla tasca interna un foglio piegato in tre, che aveva scritto quella mattina alle sei, prima del funerale, sul bordo di un letto, con la donna che dormiva accanto.
 
 Lo posò sul tavolo e lo spinse fino al centro.
 
@@ -9426,7 +9426,7 @@ Fu Dmitri a parlare.
 
 Nikolai abbassò la testa.
 
-Rimase così una cinquina di secondi.
+Rimase così per circa cinque secondi.
 
 E poi prese il foglio piegato in tre dal centro del tavolo, senza aprirlo, e se lo mise nella tasca interna della giacca.
 
@@ -9776,7 +9776,7 @@ Prima di partire, Nikolai scrisse un foglio e lo fece appendere alla parete dell
 
 Non era un ordine di sicurezza.
 
-Aveva quattro righe e la sua calligrafia, che è brutta e grande.
+Aveva quattro righe e la sua grafia, che è brutta e grande.
 
 *Chiunque in questa proprietà abbia bisogno di un medico, per sé o per qualcuno della famiglia, lo chieda alla signora Sofia e la casa paga. Non passa da me, non passa dal consigliere, non finisce in nessuna cartella e non diventa un favore. Chi preferisce un medico esterno, la casa paga comunque e non chiede quale.*
 
@@ -9982,7 +9982,7 @@ Fu Marina a fare l’ultima domanda, ormai in piedi, col cappotto sul braccio.
 
 Zlata si fermò.
 
-E Ivan vide la cosa accadere in lei, ed era stato lo stesso con Sergei nel sotterraneo: il viso di una persona che tiene, conservata in un angolo, un’informazione che non è mai diventata una domanda.
+E Ivan vide la cosa accadere in lei, ed era stato lo stesso con Sergei nel seminterrato: il viso di una persona che tiene, conservata in un angolo, un’informazione che non è mai diventata una domanda.
 
 — Una signora — disse.
 
@@ -10012,7 +10012,7 @@ Marina appoggiò la mano allo schienale di una sedia.
 
 Ci mise quasi due minuti.
 
-Tirò fuori una busta di una bolletta della luce, ingiallita, e la girò, e sul retro c’erano tre righe a matita con una calligrafia piccola e frettolosa: la data, l’ora, e un nome.
+Tirò fuori una busta di una bolletta della luce, ingiallita, e la girò, e sul retro c’erano tre righe a matita con una grafia piccola e frettolosa: la data, l’ora, e un nome.
 
 Lo posò sul tavolo.
 
@@ -10180,7 +10180,7 @@ Quaranta per trenta, granito chiaro, con un nome giusto e un anno sbagliato.
 
 E disse, al più anziano dei quattro:
 
-— Questa non finisce in nessuna discarica. Avvolgetela e mettetela in sotterraneo con un numero di catalogazione.
+— Questa non finisce in nessuna discarica. Avvolgetela e mettetela in seminterrato con un numero di catalogazione.
 
 — Sì, signore.
 
@@ -10356,7 +10356,7 @@ Fu Marina a chiudere.
 
 Sergei gli spinse il blocco lungo il tavolo.
 
-Lei si sedette, e scrisse due righe, con la calligrafia piccola e diritta e i numeri chiusi uno per uno, e non le mostrò a nessuno, e le piegò in quattro — a modo suo, lunghezza prima, con gli angoli disallineati di tre millimetri.
+Lei si sedette, e scrisse due righe, con la grafia piccola e diritta e i numeri chiusi uno per uno, e non le mostrò a nessuno, e le piegò in quattro — a modo suo, lunghezza prima, con gli angoli disallineati di tre millimetri.
 
 Poi si alzò.
 
@@ -10372,7 +10372,7 @@ Il capo della sicurezza di quella casa rimase a guardarla a lungo.
 
 E fu Ivan a rispondere, dall’altro lato del tavolo, perché aveva capito prima di tutti e perché la voce gli uscì prima che decidesse di parlare.
 
-— Nel cassetto del cruscotto dell’auto di Jozef.
+— Nel cassetto portaoggetti dell’auto di Jozef.
 
 Marina girò la testa e lo guardò.
 
@@ -10444,7 +10444,7 @@ La luce veniva dalla torcia di un telefono caduto a terra, rivolta verso l’alt
 
 Ma bastava.
 
-La portiera del passeggero dell’auto di Jozef era aperta, e il cassetto del cruscotto era aperto, e un uomo vestito di scuro era in piedi tra l’auto e il muro di fondo, di spalle all’ingresso — con una busta marrone in una mano e l’altra mano chiusa sul collo di Marina, che la teneva bloccata contro la fiancata dell’auto.
+La portiera del passeggero dell’auto di Jozef era aperta, e il cassetto portaoggetti era aperto, e un uomo vestito di scuro era in piedi tra l’auto e il muro di fondo, di spalle all’ingresso — con una busta marrone in una mano e l’altra mano chiusa sul collo di Marina, che la teneva bloccata contro la fiancata dell’auto.
 
 Lei aveva entrambe le mani sul suo polso.
 
@@ -10706,7 +10706,7 @@ Lui non disse nulla sul tavolo.
 
 Imballarono tutto il pomeriggio, e lei decideva in fretta: questo va, questo resta, questo è da buttare. Quattro libri, tutti restarono. Le cartelle vennero bruciate nel lavandino con un accendino, una per una, e lei disse che era l’unica cosa che sapeva fare con la carta dei clienti.
 
-Alle cinque lui trovò, in fondo all’armadio del corridoio, il punto dove per anni era stata una scatola delle scarpe.
+Alle cinque lui trovò, in fondo all’armadio del corridoio, il punto dove per anni era stata una scatola da scarpe.
 
 C’era il segno sulla vernice dello scaffale.
 
@@ -10782,7 +10782,7 @@ Ivan rimase immobile.
 
 Ivan non rispose.
 
-Nella Vorenhaus, nel sotterraneo, in un sacchetto di plastica con un numero di catalogazione, c’era una fotografia stampata di una donna che attraversava il cancello di una banchina con quel cappotto. Scattata prima che lo regalasse a chiunque.
+Nella Vorenhaus, nel seminterrato, in un sacchetto di plastica con un numero di catalogazione, c’era una fotografia stampata di una donna che attraversava il cancello di una banchina con quel cappotto. Scattata prima che lo regalasse a chiunque.
 
 E qualcuno, mesi dopo, era andato a controllare a chi fosse finito il cappotto.
 
@@ -10918,7 +10918,7 @@ Lo scaffale di ferro sul fondo era a terra, smontato, e al posto della porta bas
 
 L’auto di Jozef era ancora lì, lavata.
 
-Il cassetto del cruscotto era vuoto.
+Il cassetto portaoggetti era vuoto.
 
 Marina rimase ferma sulla porta scorrevole, con la mano al collo, dove i segni erano ormai gialli.
 
@@ -10934,7 +10934,7 @@ Spinse.
 
 Ivan era seduto sul bordo del letto, col cappotto addosso, con le mani sulle ginocchia, e c’era qualcosa sopra la trapunta accanto a lui.
 
-Una scatola delle scarpe.
+Una scatola da scarpe.
 
 ◆
 
@@ -11006,7 +11006,7 @@ Marina posò le dita sul bordo del tavolo.
 
 — Perché?
 
-— Perché nel duemiladiciannove hai dovuto scendere quella scala con una scatola delle scarpe, duemilaseicento euro e l’indirizzo di una donna a Fiume che accettava la gente per tre notti — disse Ivan. — Non hai scelto di andartene, Marina. Sei fuggita, che è un’altra cosa. Fuggire è quello che resta quando non hai scelta.
+— Perché nel duemiladiciannove hai dovuto scendere quella scala con una scatola da scarpe, duemilaseicento euro e l’indirizzo di una donna a Fiume che accettava la gente per tre notti — disse Ivan. — Non hai scelto di andartene, Marina. Sei fuggita, che è un’altra cosa. Fuggire è quello che resta quando non hai scelta.
 
 Tolse la mano dalla tasca e indicò la scatola con due dita.
 
@@ -11096,7 +11096,7 @@ Marina rimase con la fronte quasi appoggiata al legno.
 
 Lei rimase di spalle a lui, con la mano sul chiavistello, per un tempo che non misurò.
 
-Nove anni di una scatola delle scarpe.
+Nove anni di una scatola da scarpe.
 
 Nove anni seduta di fronte a un corridoio di tre metri in una cucina di via Economo, dicendosi che era procedura.
 
@@ -11422,7 +11422,7 @@ Fu la prima fotografia che scattò in nove anni, e rimase a guardarla sullo sche
 
 # Capitolo 41
 
-La pietra nuova arrivò un mercoledì di marzo e rimase avvolta nel telone in cortile per due giorni, perché pioveva.
+La pietra nuova arrivò un mercoledì di marzo e rimase avvolta nel telo in cortile per due giorni, perché pioveva.
 
 La posarono contro il muro di fondo un venerdì mattina, con quattro uomini e Anton che ripeteva a tutti di non calpestare l’aiuola.
 
@@ -11497,7 +11497,7 @@ L’uomo sparì da Sabinov in quattro giorni.
 
 Sulla prima pagina del libro del Registro, prima di qualsiasi voce, Marina scrisse un foglio che non mostrò a nessuno tranne Sergei, e che Sergei lesse, siglò e rimise esattamente al suo posto.
 
-Aveva quattro righe, numerate, con la sua calligrafia piccola e dritta.
+Aveva quattro righe, numerate, con la sua grafia piccola e dritta.
 
 *1. A dicembre 2027 la lista di Sergei fu archiviata con quattordici nomi. A febbraio 2028 il Pakhan aprì la cassaforte e ne contò tredici. Chi apre quella cassaforte?*
 
@@ -11581,7 +11581,7 @@ Lui posò la bottiglia sul tetto.
 
 — Alla donna che non sbaglia da prima ancora che noi due ci conoscessimo.
 
-— Alla donna che ha passato quasi trent’anni a consegnare una verità a ogni persona pretendendo che nessuno ne parlasse — disse lei, guardando il fiume. — Avevo due righe e non ne avrei sprecata nemmena una per paura.
+— Alla donna che ha passato quasi trent’anni a consegnare una verità a ogni persona contando sul fatto che nessuno ne parlasse — disse lei, guardando il fiume. — Avevo due righe e non ne avrei sprecata nemmeno una per paura.
 
 Ivan scoppiò a ridere.
 
