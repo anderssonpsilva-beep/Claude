@@ -214,7 +214,7 @@ Elle resta debout au milieu de la cuisine.
 
 — Il était là lundi, mardi et aujourd’hui. Trois jours. — Marina regarda l’enveloppe kraft sur la table. — Et aujourd’hui, c’est mercredi.
 
-À l’autre bout du fil, Renzo respira une fois.
+À l’autre bout du fil, Renzo prit une inspiration.
 
 — Tu veux que j’appelle la police portuaire ?
 
@@ -360,7 +360,7 @@ Le bureau du transitaire se trouvait au-dessus d’un entrepôt à Saint-Mauront
 
 Fassin ouvrit la bouche.
 
-— Non — dit Ivan. — Ne parlez pas encore.
+— Non, dit Ivan. Ne parlez pas encore.
 
 Il sortit de sa poche intérieure une feuille pliée en trois et la déplia sur la table, tournée vers l’autre, sans la pousser.
 
@@ -382,7 +382,7 @@ Il était déjà debout, le manteau sur le bras, quand Yuri entra avec le dossie
 
 ◆
 
-— L’annexe est arrivée aujourd’hui — dit Yuri. — Signée, avec la liste d’accès. Tu voulais voir qui ils ont mis dans le corridor.
+— L’annexe est arrivée aujourd’hui, dit Yuri. Signée, avec la liste d’accès. Tu voulais voir qui ils ont mis dans le corridor.
 
 — Plus tard.
 
@@ -674,7 +674,7 @@ Bertelli mit du temps à répondre.
 
 Et le temps fut la réponse, et tous deux le surent, et il eut néanmoins la décence de le dire à voix haute.
 
-— Je ne sais pas — dit-il. — Et je déteste ne pas savoir.
+— Je ne sais pas, dit-il. Et je déteste ne pas savoir.
 
 Marina garda les mains sur les genoux.
 
@@ -714,7 +714,7 @@ Et elle vit la chose se produire sur son visage — la seconde où il ne feignai
 
 — J’ai vu l’annexe hier à cinq heures du soir, avec ton nom dedans, et je suis venu.
 
-Marina respira une fois.
+Marina prit une inspiration.
 
 — Ivan, rentre chez toi.
 
@@ -738,7 +738,7 @@ Son visage ne changea pas.
 
 — Marina.
 
-— J’ai dû partir — répéta-t-elle, et sa voix sortit plate, et cette platitude lui coûta tout ce qu’elle avait ce matin-là. — Ce n’était pas quelqu’un d’autre, ce n’était pas l’argent, ce n’était pas la peur de toi. J’ai dû partir, et je suis partie, et je n’ai pas laissé de mot parce qu’un mot, c’est une adresse.
+— J’ai dû partir — répéta-t-elle, et sa voix était plate, et cette platitude lui coûta tout ce qu’elle avait ce matin-là. — Ce n’était pas quelqu’un d’autre, ce n’était pas l’argent, ce n’était pas la peur de toi. J’ai dû partir, et je suis partie, et je n’ai pas laissé de mot parce qu’un mot, c’est une adresse.
 
 — Un mot n’est pas une adresse.
 
@@ -760,7 +760,7 @@ Ils s’assirent à une table en terrasse, dans le froid, parce qu’il avait ch
 
 Ils parlèrent du corridor. Quatre points de déchargement, deux opérateurs, une clause de responsabilité entrée en vigueur en décembre et qui, d’après ce qu’elle avait lu dans les neuf pages, avait été rédigée par quelqu’un qui n’avait jamais déchargé un camion de sa vie.
 
-— C’est Volkov et un comptable des Ryzhov — dit Ivan. — En quarante minutes, au téléphone.
+— C’est Volkov et un comptable des Ryzhov, dit Ivan. En quarante minutes, au téléphone.
 
 — Des Ryzhov.
 
@@ -924,7 +924,7 @@ Ivan le regarda.
 
 Il le regarda de la façon dont on regarde quand on connaît déjà la réponse et qu’on attend seulement que l’autre sache qu’on sait — et Nevio tint deux secondes avant de détourner les yeux vers la rue.
 
-— Tu n’habites pas seul — dit Ivan. — Un homme de quarante ans avec l’épaule mal recollée et ce manteau-là n’a pas de boîte aux lettres à lui à Trieste. Tu dors chez quelqu’un.
+— Tu n’habites pas seul, dit Ivan. Un homme de quarante ans avec l’épaule mal recollée et ce manteau-là n’a pas de boîte aux lettres à lui à Trieste. Tu dors chez quelqu’un.
 
 Nevio ne répondit pas.
 
@@ -1000,13 +1000,13 @@ Elle ouvrit la porte, la chaîne mise.
 
 — Je sais que tu as vu.
 
-— Tu ne l’as pas touché. — Sa voix sortit plate à travers l’entrebâillement. — Tu as dit quatre phrases et cet homme est devenu couleur de mur.
+— Tu ne l’as pas touché. — Sa voix filtra, plate, à travers l’entrebâillement. — Tu as dit quatre phrases et cet homme est devenu couleur de mur.
 
 — Il sera dans un train demain matin, vivant, avec sa sœur et de l’argent.
 
 — Je sais. J’ai vu sa tête. — Elle resta silencieuse un moment de l’autre côté de la chaîne. — En deux mille dix-neuf, tu ne faisais pas ça.
 
-— En deux mille dix-neuf, si — dit Ivan. — Tu n’étais simplement jamais au coin de la rue.
+— En deux mille dix-neuf, si, dit Ivan. Tu n’étais simplement jamais au coin de la rue.
 
 — Tu as quarante-cinq ans et tu es debout dans mon couloir avec une enveloppe à la main, comme si c’était une fleur.
 
@@ -1094,7 +1094,7 @@ C’était une petite chose, et c’était vrai, et elle venait de la lui donner
 
 Marina regarda sa propre table, tirée de trente centimètres du mur, sa chaise dos au mur aveugle.
 
-— La table, c’est une maladie — dit-elle. — Celle-là, je ne l’expliquerai pas.
+— La table, c’est une maladie, dit-elle. Celle-là, je ne l’expliquerai pas.
 
 — D’accord.
 
@@ -1164,7 +1164,7 @@ Il y avait deux réponses possibles, et toutes deux étaient mauvaises. La premi
 
 — Tu m’as demandé le contraire ce matin, avant l’aube.
 
-— Avant l’aube, je pensais que c’était une histoire de bureau — dit Ivan, et sa propre voix sortit plus basse qu’il ne l’aurait voulu. — Rentre chez toi. Si quelqu’un te demande pourquoi tu as arrêté, dis que c’est moi qui ai demandé d’arrêter, et dis-le avec mon nom.
+— Avant l’aube, je pensais que c’était une histoire de bureau — dit Ivan, et sa propre voix se fit plus basse qu’il ne l’aurait voulu. — Rentre chez toi. Si quelqu’un te demande pourquoi tu as arrêté, dis que c’est moi qui ai demandé d’arrêter, et dis-le avec mon nom.
 
 Il raccrocha avant que l’autre ne réponde.
 
@@ -1187,11 +1187,14 @@ Il signa de son nom entier et envoya.
 La confirmation revint en quatre minutes, avec un nouveau numéro d’enregistrement, l’heure tamponnée et une seule ligne.
 
 *Entrée de la consultante sur la propriété : mercredi, à neuf heures.*
+
+---
+
 # Chapitre 5
 
 Le portail était le même.
 
-Marina avait répété presque tout pendant ces quatre heures de route — ce qu’elle dirait à Sergei, où poser ses mains, comment respirer si Nikolaï apparaissait — et elle n’avait pas répété le portail, parce qu’en neuf ans, le portail n’était jamais apparu dans ses rêves.
+Marina avait répété presque tout pendant ces quatre heures de route — ce qu’elle dirait à Sergei, où poser ses mains, comment respirer si Nikolai apparaissait — et elle n’avait pas répété le portail, parce qu’en neuf ans, le portail n’était jamais apparu dans ses rêves.
 
 Il apparut là, dans le virage, à neuf heures moins quatre du matin, et son corps réagit avant toute chose : le dos plaqué contre le siège, la respiration courte et haute, la main gauche cherchant la bandoulière du sac.
 
@@ -1251,7 +1254,7 @@ Marina mit les mains derrière son dos.
 
 Sergei replia la feuille.
 
-— La quatrième est à moi et elle n’est pas écrite — dit-il. — Si quelqu’un dans cette maison te parle d’une façon qui te donne envie de partir au milieu de la nuit, tu viens me le dire avant de partir.
+— La quatrième est à moi et elle n’est pas écrite, dit-il. Si quelqu’un dans cette maison te parle d’une façon qui te donne envie de partir au milieu de la nuit, tu viens me le dire avant de partir.
 
 Marina resta parfaitement immobile sur le gravier.
 
@@ -1273,7 +1276,7 @@ Il tendit la feuille.
 
 Sergei la regarda une seconde de plus que nécessaire, et Marina comprit cette seconde, parce qu’elle avait vu cet homme faire cela avec un fournisseur, avec un nouveau garde et avec son propre frère : il était en train de classer.
 
-— Bien — dit-il. — Irina t’accompagne.
+— Bien, dit-il. Irina t’accompagne.
 
 Et il s’en alla sans rien dire de plus, parce que lui non plus n’avait jamais dit un mot de trop de sa vie.
 
@@ -1297,7 +1300,7 @@ Elle en fut proche d’une façon qui lui fit physiquement mal — la chose lui 
 
 Ce fut l’arithmétique.
 
-Si elle racontait tout là, dans ce couloir, Ivan ferait exactement trois choses, dans cet ordre : il monterait cet escalier, il parlerait à Nikolaï avant midi, et il dirait que l’information venait d’elle.
+Si elle racontait tout là, dans ce couloir, Ivan ferait exactement trois choses, dans cet ordre : il monterait cet escalier, il parlerait à Nikolai avant midi, et il dirait que l’information venait d’elle.
 
 Et à partir de cette minute-là, il y aurait deux personnes vivantes à savoir.
 
@@ -1313,7 +1316,7 @@ Elle n’allait pas tout gâcher dans un couloir, près d’un office, parce qu�
 
 — Marina.
 
-— Odeur d’oignon — dit-elle. — Neuf ans.
+— Odeur d’oignon, dit-elle. Neuf ans.
 
 Il la regarda de la façon dont on regarde quelqu’un qu’on ne croit pas et qu’on décide de ne pas presser, ce qui était la chose qu’il faisait depuis vendredi et qui lui coûtait à elle plus cher que n’importe quelle question.
 
@@ -1331,7 +1334,7 @@ Marina le regarda.
 
 — C’était une blague ?
 
-— C’était une demande — dit Ivan. — Compte les issues ce matin et dis-moi cet après-midi combien il y en a. Je préfère que tu comptes avec moi au courant plutôt que sans.
+— C’était une demande, dit Ivan. Compte les issues ce matin et dis-moi cet après-midi combien il y en a. Je préfère que tu comptes avec moi au courant plutôt que sans.
 
 Et il s’en alla dans le couloir du rez-de-chaussée avant qu’elle ne réponde, et elle resta la main sur le chambranle de l’office, avec la chose qui lui avait remonté la gorge toujours coincée à mi-chemin, sans redescendre.
 
@@ -1449,7 +1452,7 @@ Il y en avait sept.
 
 Ivan posa les deux mains sur le dossier de la chaise vide.
 
-— Quatorze noms — dit-il. — Tu as convoqué les quatorze en décembre, un par un, tu n’as rien tiré d’aucun d’eux, et tu as écrit dans le rapport, avec ces mots exacts : *sans résultat probant*. Je l’ai lu.
+— Quatorze noms, dit-il. Tu as convoqué les quatorze en décembre, un par un, tu n’as rien tiré d’aucun d’eux, et tu as écrit dans le rapport, avec ces mots exacts : *sans résultat probant*. Je l’ai lu.
 
 — Tu n’aurais pas dû le lire.
 
@@ -1459,7 +1462,7 @@ Sergei lâcha le stylo.
 
 Il se leva, alla jusqu’à la fenêtre, resta dos tourné, et resta ainsi assez longtemps pour qu’Ivan comprenne que ce n’était pas de la mise en scène.
 
-— J’ai perdu six semaines là-dessus en deux mille dix-neuf — dit-il. — J’ai perdu quatre jours en décembre. En neuf ans, j’ai ouvert ce dossier trois fois et je l’ai refermé trois fois, et la troisième fois, c’était il y a deux mois. — Il se retourna. — Pourquoi aujourd’hui, Ivan ?
+— J’ai perdu six semaines là-dessus en deux mille dix-neuf, dit-il. J’ai perdu quatre jours en décembre. En neuf ans, j’ai ouvert ce dossier trois fois et je l’ai refermé trois fois, et la troisième fois, c’était il y a deux mois. — Il se retourna. — Pourquoi aujourd’hui, Ivan ?
 
 — Parce qu’aujourd’hui, j’ai dans cette maison une personne qui a écrit le planning de cette année-là de sa propre main.
 
@@ -1475,7 +1478,7 @@ Puis il fit une chose qu’Ivan avait vu cet homme faire peut-être quatre fois 
 
 Il alla jusqu’au tiroir, en sortit un trousseau de clés et le posa sur la table.
 
-— Deux conditions — dit-il. — Tu descends avec moi. Et si ça mène à quelque chose, c’est moi qui vais voir le Pakhan.
+— Deux conditions, dit-il. Tu descends avec moi. Et si ça mène à quelque chose, c’est moi qui vais voir le Pakhan.
 
 ◆
 
@@ -1485,11 +1488,11 @@ Ivan prit les clés et ne demanda pas quelle était la seconde condition, parce 
 
 — Hm.
 
-— Pourquoi Nikolaï t’a-t-il ordonné d’arrêter de chercher, en deux mille dix-neuf ?
+— Pourquoi Nikolai t’a-t-il ordonné d’arrêter de chercher, en deux mille dix-neuf ?
 
 Sergei enfila son manteau.
 
-— Il ne m’a pas ordonné d’arrêter de chercher — dit-il. — Il m’a ordonné d’arrêter de poser des questions. — Il ouvrit la porte du bureau et la tint. — Ce sont deux choses différentes, et il m’a fallu neuf ans pour comprendre qu’elles sont différentes, et je ne sais toujours pas laquelle des deux est la pire.
+— Il ne m’a pas ordonné d’arrêter de chercher, dit-il. Il m’a ordonné d’arrêter de poser des questions. — Il ouvrit la porte du bureau et la tint. — Ce sont deux choses différentes, et il m’a fallu neuf ans pour comprendre qu’elles sont différentes, et je ne sais toujours pas laquelle des deux est la pire.
 
 ◆
 
@@ -1557,7 +1560,7 @@ Sergei resta le crayon suspendu en l’air.
 
 — Ta liste, c’est celle de qui respire encore sous ce toit. — Ivan posa le doigt en haut de la feuille dactylographiée. — Tu as monté la liste de deux mille dix-neuf à partir de qui se trouve ici aujourd’hui. Tout le monde qui a quitté cette maison en tout ce temps a quitté ta liste avec.
 
-— Je sais ce que j’ai fait — dit Sergei, et sa voix sortit très basse. — Je viens de le voir.
+— Je sais ce que j’ai fait — dit Sergei, et sa voix se fit très basse. — Je viens de le voir.
 
 — Combien de personnes ont quitté cette maison entre deux mille dix-neuf et aujourd’hui ?
 
@@ -1587,7 +1590,7 @@ Sergei se redressa.
 
 Ivan ne dit rien.
 
-— Je lui ai imposé quatre conditions dans la cour — poursuivit Sergei. — Aucune de ces quatre ne la protège de gens qui vivent déjà ici.
+— Je lui ai imposé quatre conditions dans la cour, poursuivit Sergei. Aucune de ces quatre ne la protège de gens qui vivent déjà ici.
 
 ◆
 
@@ -1719,7 +1722,7 @@ Marina nota *vieille chaudière — tunnel de service sous la cour* sur son bloc
 
 Le vieil homme hocha la tête deux fois, lentement, la bouche déjà entrouverte, comme quelqu’un qui attendait depuis des semaines que quelqu’un pose la question.
 
-— En janvier — dit-il. — Deux hommes, avec une brouette, quatre jours. Ils sont entrés par la porte de service et sont passés avec la brouette par ici, par-dessus le carré du bas, par-dessus la bâche que j’avais mise en novembre. — Il pointa les ciseaux, vexé. — Je me suis plaint à monsieur Sergei, et monsieur Sergei ne savait rien de ces travaux.
+— En janvier, dit-il. Deux hommes, avec une brouette, quatre jours. Ils sont entrés par la porte de service et sont passés avec la brouette par ici, par-dessus le carré du bas, par-dessus la bâche que j’avais mise en novembre. — Il pointa les ciseaux, vexé. — Je me suis plaint à monsieur Sergei, et monsieur Sergei ne savait rien de ces travaux.
 
 Marina glissa la planchette sous son bras.
 
@@ -1935,7 +1938,7 @@ Elle ferma les yeux.
 
 Il ouvrit la porte et s’arrêta sur le seuil.
 
-— Neuf heures et demie dans le bureau de Sergei — dit-il. — J’apporte le nom.
+— Neuf heures et demie dans le bureau de Sergei, dit-il. J’apporte le nom.
 
 Et il s’en alla dans le couloir sans se retourner, parce que s’il s’était retourné, elle l’aurait suivi, et tous deux le savaient.
 
@@ -1973,7 +1976,7 @@ Elle resta debout de l’autre côté de la table, les deux mains posées sur le
 
 Ivan était adossé au mur et ne regardait que ses mains.
 
-Les jointures blanchirent d’abord. Puis elle retira les deux mains de la table, se redressa et croisa les bras, et quand elle parla, sa voix sortit sur ce registre professionnel, celui de la vérification des chiffres, le même qu’elle avait employé avec Bertelli un vendredi à Trieste.
+Les jointures blanchirent d’abord. Puis elle retira les deux mains de la table, se redressa et croisa les bras, et quand elle parla, sa voix prit ce registre professionnel, celui de la vérification des chiffres, le même qu’elle avait employé avec Bertelli un vendredi à Trieste.
 
 — Grigori ne faisait pas de ronde.
 
@@ -1993,7 +1996,7 @@ Elle revint à la page.
 
 Elle regarda pendant dix bonnes secondes.
 
-— Il est à moi — dit-elle. — C’est mon paraphe, c’est mon stylo, et le trait final est fait comme je le faisais quand j’étais pressée. — Une seconde. — Il a été apposé avant. Les trois lignes ont été écrites après, à l’intérieur d’un cahier que j’avais déjà signé.
+— Il est à moi, dit-elle. C’est mon paraphe, c’est mon stylo, et le trait final est fait comme je le faisais quand j’étais pressée. — Une seconde. — Il a été apposé avant. Les trois lignes ont été écrites après, à l’intérieur d’un cahier que j’avais déjà signé.
 
 — C’est possible, ça ?
 
@@ -2001,7 +2004,7 @@ Elle regarda pendant dix bonnes secondes.
 
 — Alors on a un nom qui ne prouve rien — dit Sergei.
 
-— On a un nom qui prouve une chose — dit Marina. — Il prouve que quelqu’un a voulu qu’il reste écrit que Grigori était éveillé ces trois nuits-là.
+— On a un nom qui prouve une chose, dit Marina. Il prouve que quelqu’un a voulu qu’il reste écrit que Grigori était éveillé ces trois nuits-là.
 
 Ivan se décolla du mur.
 
@@ -2029,11 +2032,11 @@ Personne ne dit rien pendant un moment.
 
 — Et que celui qui a écrit cela le savait.
 
-— Non — dit Sergei. — En deux mille dix-neuf, il avait encore toute sa tête. Celui qui a écrit cela l’a écrit à une époque où cet homme pouvait encore être questionné.
+— Non, dit Sergei. En deux mille dix-neuf, il avait encore toute sa tête. Celui qui a écrit cela l’a écrit à une époque où cet homme pouvait encore être questionné.
 
 Il se leva et mit son manteau, et pour la première fois en deux jours, Ivan vit son cousin avoir l’air épuisé.
 
-— Neuf ans — dit Sergei. — Le témoin se trouvait au bout du couloir de l’aile nord pendant tout ce temps, et il m’a fallu neuf ans pour descendre un escalier.
+— Neuf ans, dit Sergei. Le témoin se trouvait au bout du couloir de l’aile nord pendant tout ce temps, et il m’a fallu neuf ans pour descendre un escalier.
 
 ◆
 
@@ -2069,17 +2072,17 @@ Ivan resta à côté d’elle et ne dit rien.
 
 Ivan frappa à la porte du bureau du Pakhan à onze heures dix, le volume sous le bras.
 
-Nikolaï se tenait debout à la fenêtre, de dos, une tasse à la main, et ne se retourna pas quand il entra.
+Nikolai se tenait debout à la fenêtre, de dos, une tasse à la main, et ne se retourna pas quand il entra.
 
-— Sergei m’a déjà envoyé le rapport — dit-il. — Onze heures quarante hier, descente aux archives sans autorisation, signé par lui, avec ton nom comme accompagnateur. Il a noté l’heure exacte, et il a écrit que je l’avais interdit. — Une gorgée. — Cet homme est la seule personne dans cette maison à me désobéir par écrit.
+— Sergei m’a déjà envoyé le rapport, dit-il. Onze heures quarante hier, descente aux archives sans autorisation, signé par lui, avec ton nom comme accompagnateur. Il a noté l’heure exacte, et il a écrit que je l’avais interdit. — Une gorgée. — Cet homme est la seule personne dans cette maison à me désobéir par écrit.
 
-— Nikolaï—
+— Nikolai—
 
 — Je sais déjà ce que tu viens dire.
 
 — Vous ne savez pas.
 
-Nikolaï se retourna.
+Nikolai se retourna.
 
 Et Ivan, qui connaissait ce visage depuis toujours, y vit une chose qu’il n’avait pas vue depuis une sacristie en deux mille vingt-cinq : le Pakhan avait peur et ne le dissimulait pas très bien.
 
@@ -2087,19 +2090,19 @@ Et Ivan, qui connaissait ce visage depuis toujours, y vit une chose qu’il n’
 
 Ivan le posa.
 
-Nikolaï traversa la pièce, posa sa tasse sur une pile de papiers sans même regarder, ouvrit le volume à la page déjà marquée d’une bande de papier, et resta à regarder.
+Nikolai traversa la pièce, posa sa tasse sur une pile de papiers sans même regarder, ouvrit le volume à la page déjà marquée d’une bande de papier, et resta à regarder.
 
 Il ne lisait pas.
 
 Ivan comprit qu’il ne lisait pas, parce que ses yeux ne bougeaient pas.
 
-— Douze, treize et quatorze — dit Ivan. — Colonne remplacement. Autre écriture. Et c’est le nom de Grigori.
+— Douze, treize et quatorze, dit Ivan. Colonne remplacement. Autre écriture. Et c’est le nom de Grigori.
 
 — J’ai entendu.
 
 — Cet homme n’a jamais eu de service.
 
-— Je sais qu’il n’a jamais eu de service. — Nikolaï referma le livre des deux mains, lentement. — Ivan, arrête.
+— Je sais qu’il n’a jamais eu de service. — Nikolai referma le livre des deux mains, lentement. — Ivan, arrête.
 
 — Arrêter quoi ?
 
@@ -2115,7 +2118,7 @@ Ivan resta parfaitement immobile.
 
 — Oui.
 
-— Nikolaï, la femme qui a écrit ce livre dort au premier étage de cette maison, à vingt mètres de sept personnes qui étaient là cette nuit-là. — Sa voix monta pour la première fois depuis longtemps, et Ivan la laissa monter. — Vous voulez que j’arrête, ou vous voulez que j’arrête jusqu’à ce qu’elle s’en aille ?
+— Nikolai, la femme qui a écrit ce livre dort au premier étage de cette maison, à vingt mètres de sept personnes qui étaient là cette nuit-là. — Sa voix monta pour la première fois depuis longtemps, et Ivan la laissa monter. — Vous voulez que j’arrête, ou vous voulez que j’arrête jusqu’à ce qu’elle s’en aille ?
 
 Le Pakhan ne répondit pas.
 
@@ -2123,9 +2126,9 @@ Et ce fut cela, et non l’ordre, qui resta coincé dans la gorge d’Ivan penda
 
 — Vous avez parlé à Grigori en deux mille dix-neuf ? — demanda Ivan.
 
-Nikolaï posa les deux mains sur le bord de la table.
+Nikolai posa les deux mains sur le bord de la table.
 
-— J’ai parlé à Grigori en décembre deux mille dix-neuf, dans cette pièce, pendant deux heures quarante — dit-il. — Je lui ai posé sept questions. Il a répondu aux sept. J’ai cru aux sept.
+— J’ai parlé à Grigori en décembre deux mille dix-neuf, dans cette pièce, pendant deux heures quarante, dit-il. Je lui ai posé sept questions. Il a répondu aux sept. J’ai cru aux sept.
 
 — Et aujourd’hui ?
 
@@ -2139,7 +2142,7 @@ Ivan resta à le regarder.
 
 — Vous y avez pensé quand ?
 
-— Hier soir — dit Nikolaï. — Quand j’ai lu le rapport de Sergei.
+— Hier soir, dit Nikolai. Quand j’ai lu le rapport de Sergei.
 
 — Qui a envoyé Marina Costa dans cette maison ? — demanda Ivan.
 
@@ -2147,17 +2150,17 @@ Ivan resta à le regarder.
 
 — Vous avez signé son accréditation.
 
-— J’ai signé l’accréditation parce qu’elle venait de Bratislava avec un numéro d’enregistrement et deux paraphes, et que je n’avais aucun motif déclaré de refuser — dit Nikolaï, et il parla lentement, comme quelqu’un qui se l’était déjà dit plusieurs fois à lui-même. — Et j’ai passé trois semaines à chercher le motif, Ivan. J’ai cherché qui avait demandé. Il n’y a personne qui ait demandé.
+— J’ai signé l’accréditation parce qu’elle venait de Bratislava avec un numéro d’enregistrement et deux paraphes, et que je n’avais aucun motif déclaré de refuser — dit Nikolai, et il parla lentement, comme quelqu’un qui se l’était déjà dit plusieurs fois à lui-même. — Et j’ai passé trois semaines à chercher le motif, Ivan. J’ai cherché qui avait demandé. Il n’y a personne qui ait demandé.
 
 Il poussa le volume de toile grise sur la table, en arrière, jusqu’à ce qu’il touche la main d’Ivan.
 
-— Rapporte ça au couloir trois — dit-il. — Remets-le exactement à sa place, le dos aligné avec les autres, et ne dis à personne qu’il en est sorti.
+— Rapporte ça au couloir trois, dit-il. Remets-le exactement à sa place, le dos aligné avec les autres, et ne dis à personne qu’il en est sorti.
 
 — Pourquoi ?
 
 — Parce que c’est ainsi qu’on garde une chose qu’on ne comprend pas, jusqu’à ce qu’on la comprenne.
 
-— Nikolaï, c’est un livre de planning. C’est du papier.
+— Nikolai, c’est un livre de planning. C’est du papier.
 
 — C’est du papier — concéda le Pakhan.
 
@@ -2408,7 +2411,7 @@ Ivan ferma la porte.
 
 Marina regarda la boîte à chaussures sur la table.
 
-— Parce que quelqu’un a plié mon papier en trois — dit-elle. — Moi, je le plie en quatre. Depuis neuf ans. À chaque fois.
+— Parce que quelqu’un a plié mon papier en trois, dit-elle. Moi, je le plie en quatre. Depuis neuf ans. À chaque fois.
 
 ◆
 
@@ -2428,11 +2431,11 @@ Elle raconta comme on écrit un planning : dans l’ordre, avec les minutes, s
 
 Ivan resta parfaitement immobile.
 
-— La lumière était allumée — dit Marina. — C’était la seule lumière de tout le couloir. Et je me suis arrêtée parce que cette porte-là n’était jamais ouverte la nuit, et parce que dans cette chambre dormait votre mère, à vous tous.
+— La lumière était allumée, dit Marina. C’était la seule lumière de tout le couloir. Et je me suis arrêtée parce que cette porte-là n’était jamais ouverte la nuit, et parce que dans cette chambre dormait votre mère, à vous tous.
 
 Elle entendit sa respiration changer et ne le regarda pas.
 
-— Je ne suis pas entrée — continua-t-elle. — Je suis restée à environ quatre mètres, sur le tapis, parce que madame était au lit et parce qu’il y avait quelqu’un debout, du côté des pieds du lit.
+— Je ne suis pas entrée, continua-t-elle. Je suis restée à environ quatre mètres, sur le tapis, parce que madame était au lit et parce qu’il y avait quelqu’un debout, du côté des pieds du lit.
 
 — Qui ?
 
@@ -2440,7 +2443,7 @@ Elle entendit sa respiration changer et ne le regarda pas.
 
 Ivan ne bougea pas.
 
-— Une femme que je n’avais jamais vue dans cette maison en cinq ans — dit Marina. — En manteau. Debout, le manteau encore sur elle, ce qui voulait dire qu’elle venait d’arriver ou qu’elle était sur le départ. Elle n’était pas assise. Elle ne touchait à rien. Elle était juste debout, à regarder, les mains jointes devant elle.
+— Une femme que je n’avais jamais vue dans cette maison en cinq ans, dit Marina. En manteau. Debout, le manteau encore sur elle, ce qui voulait dire qu’elle venait d’arriver ou qu’elle était sur le départ. Elle n’était pas assise. Elle ne touchait à rien. Elle était juste debout, à regarder, les mains jointes devant elle.
 
 — Son âge.
 
@@ -2454,7 +2457,7 @@ Marina respira.
 
 ◆
 
-— Je suis descendue — dit-elle. — C’est la partie que je n’arrive à expliquer à personne, et que je vais essayer de t’expliquer une seule fois.
+— Je suis descendue, dit-elle. C’est la partie que je n’arrive à expliquer à personne, et que je vais essayer de t’expliquer une seule fois.
 
 — Tu n’as pas besoin d’expliquer.
 
@@ -2476,7 +2479,7 @@ Elle s’arrêta.
 
 Ce fut la seule fois de toute la soirée où elle s’arrêta.
 
-— La porte était fermée — dit-elle. — Pas de lumière sous la porte. Et tout le couloir sentait l’allumette éteinte, une odeur que je n’avais jamais sentie dans ce couloir et que je n’ai plus jamais sentie nulle part depuis.
+— La porte était fermée, dit-elle. Pas de lumière sous la porte. Et tout le couloir sentait l’allumette éteinte, une odeur que je n’avais jamais sentie dans ce couloir et que je n’ai plus jamais sentie nulle part depuis.
 
 — L’allumette éteinte — répéta Ivan.
 
@@ -2528,7 +2531,7 @@ Ivan resta debout au milieu de la chambre, les mains ouvertes le long du corps.
 
 — D’accord. — Il se passa la main sur le visage. — Tu as raison, et je déteste que tu aies raison.
 
-— Madame est morte cette nuit-là — dit Marina. — Je l’ai appris le matin, avec tout le monde, dans l’office. Ils ont dit que c’était pendant son sommeil. Et après ça, personne dans cette maison n’a prononcé le mot *mère* devant moi une seule fois en dix-neuf heures, et je suis partie.
+— Madame est morte cette nuit-là, dit Marina. Je l’ai appris le matin, avec tout le monde, dans l’office. Ils ont dit que c’était pendant son sommeil. Et après ça, personne dans cette maison n’a prononcé le mot *mère* devant moi une seule fois en dix-neuf heures, et je suis partie.
 
 ◆
 
@@ -2542,7 +2545,7 @@ Ivan resta à la regarder.
 
 Puis il dit, sans aucune emphase, de la façon dont cet homme-là disait les choses coûteuses :
 
-— Nikolaï m’a ordonné d’arrêter hier à onze heures dix du matin. À partir de maintenant, tout ce que je fais avec ça, c’est de la désobéissance directe envers le Pakhan, et la désobéissance directe du général des opérations extérieures, ce n’est pas une querelle de famille, c’est un problème de structure. — Il croisa les mains. — S’il l’apprend, je perds mon poste le jour même. S’il apprend que je le savais par toi et que je ne l’ai pas dit, il ne perd pas seulement confiance en moi.
+— Nikolai m’a ordonné d’arrêter hier à onze heures dix du matin. À partir de maintenant, tout ce que je fais avec ça, c’est de la désobéissance directe envers le Pakhan, et la désobéissance directe du général des opérations extérieures, ce n’est pas une querelle de famille, c’est un problème de structure. — Il croisa les mains. — S’il l’apprend, je perds mon poste le jour même. S’il apprend que je le savais par toi et que je ne l’ai pas dit, il ne perd pas seulement confiance en moi.
 
 — Il en perd en moi.
 
@@ -2576,7 +2579,7 @@ Elle posa la main ouverte au milieu de sa poitrine, sur la chemise, et l’y lai
 
 — Ce n’est pas peut-être.
 
-— Non — reconnut-il. — Ce n’est pas peut-être.
+— Non, reconnut-il. Ce n’est pas peut-être.
 
 ◆
 
@@ -2586,7 +2589,7 @@ Il marcha jusqu’à la fenêtre, resta dos tourné, la main sur la nuque, et Ma
 
 Quand il se retourna, il avait le visage de quelqu’un qui était déjà passé au-delà de la phase où l’on ressent.
 
-— Une chose encore et j’arrête — dit-il. — Les mains.
+— Une chose encore et j’arrête, dit-il. Les mains.
 
 — Les mains ?
 
@@ -2638,7 +2641,7 @@ Il s’arrêta sur un bas-côté, moteur éteint, vitre baissée, le froid entra
 
 Silence.
 
-— Tu m’as ordonné d’arrêter vendredi dernier — dit Yuri. — Avec ton nom.
+— Tu m’as ordonné d’arrêter vendredi dernier, dit Yuri. Avec ton nom.
 
 — Je l’ai fait.
 
@@ -2668,7 +2671,7 @@ Yuri mit du temps à répondre.
 
 Le silence, cette fois, fut plus bref.
 
-— Quatre jours en janvier — répéta Yuri. — Il va me falloir le livre du portail.
+— Quatre jours en janvier, répéta Yuri. Il va me falloir le livre du portail.
 
 — Le livre du portail reste au poste de garde et Sergei le vérifie chaque vendredi.
 
@@ -2730,7 +2733,7 @@ Ce fut elle qui parcourut la dernière distance, et ce fut elle qui parla la pre
 
 — Marina—
 
-— Je te veux — répéta-t-elle. — Maintenant. Sans s’arrêter en chemin.
+— Je te veux, répéta-t-elle. Maintenant. Sans s’arrêter en chemin.
 
 Ivan posa les deux mains sur son visage.
 
@@ -2776,7 +2779,7 @@ Il y avait une cicatrice nouvelle sur son flanc gauche, fine et blanche, d’env
 
 Ivan y posa le pouce.
 
-— Quai trois — dit-elle. — Deux mille vingt-deux. Un câble d’acier.
+— Quai trois, dit-elle. Deux mille vingt-deux. Un câble d’acier.
 
 — Combien de points ?
 
@@ -2858,7 +2861,7 @@ Là, la lumière de la lampe de chevet était allumée, et elle ne demanda pas q
 
 — Parce que je n’arrive à rien feindre quand tu me regardes comme ça.
 
-— Je sais — dit Ivan. — C’est fait exprès.
+— Je sais, dit Ivan. C’est fait exprès.
 
 Et elle ferma les yeux, et les rouvrit, et ne détourna plus le regard.
 
@@ -2880,9 +2883,9 @@ La lumière de la lampe l’éclairait de côté.
 
 — Je ne fermerai pas.
 
-Elle vint la première, la bouche contre son épaule pour ne pas faire de bruit, et faisant du bruit quand même.
+Elle jouit la première, la bouche contre son épaule pour ne pas faire de bruit, et faisant du bruit quand même.
 
-Il vint juste après, le visage dans ses cheveux, prononçant son prénom une fois.
+Il jouit juste après, le visage dans ses cheveux, prononçant son prénom une fois.
 
 Ils restèrent longtemps sans bouger.
 
@@ -2896,7 +2899,7 @@ Elle fut la première à parler, la bouche contre son cou, la voix complètement
 
 — Marina.
 
-— C’était une chose sentimentale — dit-elle. — Et je viens de découvrir que je ne sais pas faire ça.
+— C’était une chose sentimentale, dit-elle. Et je viens de découvrir que je ne sais pas faire ça.
 
 Ivan rit, et le rire les secoua tous les deux, et elle lui mordit l’épaule légèrement à cause du rire.
 
@@ -2926,7 +2929,7 @@ Il souleva la couette d’un côté.
 
 — Ivan—
 
-— Demain, tu compteras toutes les issues que tu voudras, et je compterai avec toi, et on écrira ça sur une feuille et on signera tous les deux avec nos noms lisibles — dit-il. — Ce soir, c’est fini. Reviens.
+— Demain, tu compteras toutes les issues que tu voudras, et je compterai avec toi, et on écrira ça sur une feuille et on signera tous les deux avec nos noms lisibles, dit-il. Ce soir, c’est fini. Reviens.
 
 Elle revint.
 
@@ -2966,7 +2969,7 @@ Ivan se dégagea de son bras avec précaution, s’assit au bord du lit et lut s
 
 Deux lignes de Yuri.
 
-*AUCUN TRAVAUX N’EST ENREGISTRÉ EN JANVIER. NI ORDRE DE SERVICE, NI NOTE, NI AUTORISATION. RIEN.*
+*AUCUNS TRAVAUX NE SONT ENREGISTRÉS EN JANVIER. NI ORDRE DE SERVICE, NI NOTE, NI AUTORISATION. RIEN.*
 
 Et en dessous :
 
@@ -3040,7 +3043,7 @@ Il alla jusqu’à la porte et s’arrêta, la main sur la poignée.
 
 C’était la première fois en neuf ans qu’il l’appelait par son prénom, et elle le remarqua, et il remarqua qu’elle l’avait remarqué.
 
-— La quatrième condition — dit-il. — Celle qui n’est pas écrite.
+— La quatrième condition, dit-il. Celle qui n’est pas écrite.
 
 — Je m’en souviens.
 
@@ -3064,7 +3067,7 @@ Puis elle y alla.
 
 Le bureau du Pakhan se trouve au rez-de-chaussée, au bout du couloir ouest, et la porte est la même porte de chêne de toujours, et l’odeur de la pièce est la même odeur de toujours : papier, café froid et un reste de cire de meuble.
 
-Nikolaï Yakovlev était assis.
+Nikolai Yakovlev était assis.
 
 Il n’était pas assis derrière la table. Il était dans l’un des deux fauteuils sur le côté, une tasse sur l’accoudoir, en chemise sans veste, et il lui indiqua l’autre fauteuil.
 
@@ -3076,13 +3079,13 @@ En cinq ans dans cette maison, elle était entrée dans cette pièce quatorze fo
 
 — Oui.
 
-— Non. — Nikolaï but une gorgée. — Et vous avez raison.
+— Non. — Nikolai but une gorgée. — Et vous avez raison.
 
 Il posa la tasse sur l’accoudoir du fauteuil.
 
 Il avait vieilli d’une façon que Marina n’attendait pas — pas dans le visage, qui était le même, mais dans sa façon de rester immobile. Neuf ans plus tôt, cet homme ne restait jamais immobile.
 
-— Je vais vous dire ce que j’ai, et ensuite je vais poser une question — dit-il. — Ce que j’ai, c’est ceci. J’ai un contrat d’audit que personne dans cette maison n’a demandé, avec soixante-douze mille euros payés par une entreprise qui n’emploie personne. J’ai une consultante qui a travaillé ici cinq ans et qui a disparu une nuit sans emporter son salaire du mois. — Il compta sur ses doigts, sans se presser. — J’ai un livre que j’ai vu brûler de mes propres yeux. Et j’ai un frère et un cousin qui descendent dans mes archives à onze heures quarante du soir.
+— Je vais vous dire ce que j’ai, et ensuite je vais poser une question, dit-il. Ce que j’ai, c’est ceci. J’ai un contrat d’audit que personne dans cette maison n’a demandé, avec soixante-douze mille euros payés par une entreprise qui n’emploie personne. J’ai une consultante qui a travaillé ici cinq ans et qui a disparu une nuit sans emporter son salaire du mois. — Il compta sur ses doigts, sans se presser. — J’ai un livre que j’ai vu brûler de mes propres yeux. Et j’ai un frère et un cousin qui descendent dans mes archives à onze heures quarante du soir.
 
 — Et vous avez une conclusion.
 
@@ -3092,17 +3095,17 @@ Marina agrippa l’accoudoir du fauteuil.
 
 — Et pourquoi vous ne l’avez pas fait ?
 
-Nikolaï la regarda longuement.
+Nikolai la regarda longuement.
 
-— Parce qu’une conclusion bon marché, c’est comme un papier sans paraphe — dit-il. — Ça sert à tout et ça ne vaut rien.
+— Parce qu’une conclusion bon marché, c’est comme un papier sans paraphe, dit-il. Ça sert à tout et ça ne vaut rien.
 
 Il se leva et alla jusqu’à la fenêtre, resta dos tourné, les mains dans les poches du pantalon, regardant la cour d’où partait l’allée.
 
-— Sergei m’a apporté ce matin la liste des dossiers que vous avez demandés — dit-il. — Quatorze dossiers. Manifeste, taxe, manifeste, taxe. Vous faites exactement le travail pour lequel vous avez été engagée, et vous le faites bien, et ça ne m’aide en rien, parce qu’une personne coupable ferait exactement pareil.
+— Sergei m’a apporté ce matin la liste des dossiers que vous avez demandés, dit-il. Quatorze dossiers. Manifeste, taxe, manifeste, taxe. Vous faites exactement le travail pour lequel vous avez été engagée, et vous le faites bien, et ça ne m’aide en rien, parce qu’une personne coupable ferait exactement pareil.
 
 On frappa à la porte avant qu’elle ne réponde.
 
-— Entrez — dit Nikolaï, sans détourner les yeux de la cour.
+— Entrez — dit Nikolai, sans détourner les yeux de la cour.
 
 C’était un homme d’une cinquantaine d’années, en manteau, une fine chemise sous le bras, et l’homme vit qu’une femme était assise dans le fauteuil et hésita une demi-seconde.
 
@@ -3114,9 +3117,9 @@ C’était un homme d’une cinquantaine d’années, en manteau, une fine chemi
 
 — Il a dit qu’il veut revoir le prix du tronçon de Villach, et qu’il a une autre proposition, et il a fait dire que vous comprendrez.
 
-Nikolaï resta dos tourné.
+Nikolai resta dos tourné.
 
-— Il a quatre camions — dit-il. — Deux sont loués à la Sedláková, de Žilina, et le contrat de location expire le deux. Appelez la Sedláková aujourd’hui, pas demain, et rachetez le contrat de location des deux camions pour la valeur de douze mois.
+— Il a quatre camions, dit-il. Deux sont loués à la Sedláková, de Žilina, et le contrat de location expire le deux. Appelez la Sedláková aujourd’hui, pas demain, et rachetez le contrat de location des deux camions pour la valeur de douze mois.
 
 — Et ensuite ?
 
@@ -3142,9 +3145,9 @@ Il avait fait cela devant elle exprès, et elle le savait, et la partie la plus 
 
 Marina releva le menton.
 
-— Pour que je voie que vous n’avez besoin d’aucune preuve pour anéantir quelqu’un — dit-elle. — Juste de temps et du bon contrat.
+— Pour que je voie que vous n’avez besoin d’aucune preuve pour anéantir quelqu’un, dit-elle. Juste de temps et du bon contrat.
 
-— Presque. — Nikolaï se retourna et la regarda. — C’était pour que vous voyiez que j’ai de la patience. Un homme sans patience vous aurait déjà renvoyée mercredi.
+— Presque. — Nikolai se retourna et la regarda. — C’était pour que vous voyiez que j’ai de la patience. Un homme sans patience vous aurait déjà renvoyée mercredi.
 
 ◆
 
@@ -3181,7 +3184,7 @@ La suite ne vint pas. Et elle vit cet homme faire, devant elle, la chose qu’il
 
 Elle resta silencieuse un moment.
 
-— Hier, ton cousin m’a posé une question et j’ai répondu — dit-elle. — Il m’a demandé si je faisais la ronde du premier étage à deux heures quarante et à quatre heures vingt.
+— Hier, ton cousin m’a posé une question et j’ai répondu, dit-elle. Il m’a demandé si je faisais la ronde du premier étage à deux heures quarante et à quatre heures vingt.
 
 Ivan tourna la tête.
 
@@ -3191,9 +3194,9 @@ Ivan tourna la tête.
 
 — Et pourquoi tu n’as pas menti ?
 
-— Parce que j’ai écrit ces heures-là trente nuits de suite, de ma main — dit-elle. — S’il a ce livre, il me prend en flagrant délit. S’il ne l’a pas, il n’aurait pas posé la question.
+— Parce que j’ai écrit ces heures-là trente nuits de suite, de ma main, dit-elle. S’il a ce livre, il me prend en flagrant délit. S’il ne l’a pas, il n’aurait pas posé la question.
 
-— Je compte les issues de cette maison depuis mercredi — dit-elle. — Si tu sors par la porte du jardin à sept heures dix un dimanche, quelqu’un le note.
+— Je compte les issues de cette maison depuis mercredi, dit-elle. Si tu sors par la porte du jardin à sept heures dix un dimanche, quelqu’un le note.
 
 — Je sais.
 
@@ -3203,7 +3206,7 @@ Ivan tourna la tête.
 
 — Ce n’est pas la même chose que de m’emmener.
 
-— Non — dit-il. — Et aujourd’hui, c’est ce que j’ai à offrir.
+— Non, dit-il. Et aujourd’hui, c’est ce que j’ai à offrir.
 
 Et il sortit sous la pluie.
 
@@ -3305,7 +3308,7 @@ Il le savait comme un homme connaît la date de son propre mariage, parce que c�
 
 Il se souvenait du sol glacé.
 
-Il se souvenait de Nikolaï debout sur le pas de la porte sans entrer, pendant quarante minutes, tandis que les autres arrangeaient la chose à l’intérieur.
+Il se souvenait de Nikolai debout sur le pas de la porte sans entrer, pendant quarante minutes, tandis que les autres arrangeaient la chose à l’intérieur.
 
 Il se souvenait que ce novembre-là, il n’y avait eu aucune plaque, que personne n’avait demandé pourquoi, et que le mur du fond était resté nu pendant un temps qu’il n’avait jamais mesuré parce qu’il n’entrait pas là-dedans.
 
@@ -3317,7 +3320,7 @@ Il se souvenait que le cercueil était trop lourd pour quatre hommes et que pers
 
 Il se souvenait de Sergei, bien plus jeune, debout à côté de la porte avec la liste à la main, vérifiant nom par nom qui entrait, parce que c’était ce qu’il savait faire et parce que c’était la seule chose qu’il pouvait faire.
 
-Et il se souvenait de Nikolaï.
+Et il se souvenait de Nikolai.
 
 Debout à la porte, à l’extérieur, la pluie battant l’épaule de son manteau, sans entrer, pendant quarante minutes — et que, quand il était finalement entré, il était entré, avait regardé et était ressorti en moins d’une minute. Et dans les fois où la famille avait eu besoin de cette chapelle depuis, il s’était assis sur le banc du devant, dos au mur du fond, et personne ne l’avait jamais revu s’en approcher.
 
@@ -3369,7 +3372,7 @@ Qui paie une pierre ?
 
 Qui donne au tailleur le nom et l’année, par écrit, parce qu’aucun tailleur de pierre ne grave de mémoire ?
 
-Un mari commande la pierre de sa femme. Nikolaï n’avait pas commandé celle-là en deux mille seize, et Ivan savait pourquoi, parce qu’il avait vu cet homme rester debout sous la pluie pendant quarante minutes sans réussir à entrer.
+Un mari commande la pierre de sa femme. Nikolai n’avait pas commandé celle-là en deux mille seize, et Ivan savait pourquoi, parce qu’il avait vu cet homme rester debout sous la pluie pendant quarante minutes sans réussir à entrer.
 
 Et trois ans plus tard, le mois même où la mère des quatre était morte, quelqu’un l’avait commandée.
 
@@ -3429,7 +3432,7 @@ Puis elle se leva, alla jusqu’à la porte de la pièce, la ferma, et revint, e
 
 ◆
 
-— Rien que ce qui est écrit sur la pierre — dit-elle. — Mot pour mot.
+— Rien que ce qui est écrit sur la pierre, dit-elle. Mot pour mot.
 
 — Vera Yakovleva. Et la date.
 
@@ -3439,7 +3442,7 @@ Puis elle se leva, alla jusqu’à la porte de la pièce, la ferma, et revint, e
 
 — Et la ligne en dessous ?
 
-— Il n’y en a pas — dit Ivan. — Celles des murs latéraux en ont toutes une. Celle-là a la moitié inférieure vide.
+— Il n’y en a pas, dit Ivan. Celles des murs latéraux en ont toutes une. Celle-là a la moitié inférieure vide.
 
 — Et elle est morte en deux mille seize — dit Marina.
 
@@ -3453,13 +3456,13 @@ Puis elle se leva, alla jusqu’à la porte de la pièce, la ferma, et revint, e
 
 Ivan releva les yeux.
 
-— Novembre deux mille seize — répéta-t-il. — Et si tu veux une preuve sans mon visage, il y a l’assurance auto, l’hôpital sur la route, les billets d’avion de trois personnes depuis Vienne, et le paiement du fossoyeur. Je t’apporte tout ça cet après-midi.
+— Novembre deux mille seize, répéta-t-il. Et si tu veux une preuve sans mon visage, il y a l’assurance auto, l’hôpital sur la route, les billets d’avion de trois personnes depuis Vienne, et le paiement du fossoyeur. Je t’apporte tout ça cet après-midi.
 
 — D’accord.
 
 — D’accord ?
 
-— D’accord — dit-elle. — Maintenant assieds-toi, parce que je vais te dire la chose et j’ai besoin que tu sois assis.
+— D’accord, dit-elle. Maintenant assieds-toi, parce que je vais te dire la chose et j’ai besoin que tu sois assis.
 
 ◆
 
@@ -3473,11 +3476,11 @@ Marina tourna la feuille blanche et écrivit trois lignes, en colonne, de son é
 
 Elle fit pivoter la feuille vers lui.
 
-— Regarde la colonne — dit-elle. — Pas la chapelle, pas ta famille, pas ta tante. La colonne.
+— Regarde la colonne, dit-elle. Pas la chapelle, pas ta famille, pas ta tante. La colonne.
 
 Ivan regarda.
 
-— Cette pierre-là n’est pas un hommage tardif — dit Marina. — Un mari qui commande la pierre de sa femme trois ans plus tard la commande avec la bonne année, parce que sa date est la seule chose qu’il n’oublie jamais. Et il écrit la ligne en dessous, parce que c’est à ça qu’elle sert.
+— Cette pierre-là n’est pas un hommage tardif, dit Marina. Un mari qui commande la pierre de sa femme trois ans plus tard la commande avec la bonne année, parce que sa date est la seule chose qu’il n’oublie jamais. Et il écrit la ligne en dessous, parce que c’est à ça qu’elle sert.
 
 — Continue.
 
@@ -3587,7 +3590,7 @@ On frappa à la porte à onze heures cinq.
 
 C’était Irina, avec un plateau, et Irina entra sans attendre de réponse et posa le plateau sur les dossiers de l’audit, ce qui dans cette maison est un acte politique.
 
-— Pain, œuf et ce qui reste du rôti d’hier — dit-elle. — Et vous mangez ici tous les deux, porte fermée, parce qu’il y a du monde à l’office.
+— Pain, œuf et ce qui reste du rôti d’hier, dit-elle. Et vous mangez ici tous les deux, porte fermée, parce qu’il y a du monde à l’office.
 
 — Irina—
 
@@ -3683,7 +3686,7 @@ Ivan resta à la regarder.
 
 — Qui a écrit cette règle ? — demanda-t-il.
 
-— Une femme du nom de Kravets — dit Marina. — C’est sur la première page du manuel, en gros caractères.
+— Une femme du nom de Kravets, dit Marina. C’est sur la première page du manuel, en gros caractères.
 
 Elle écrivit.
 
@@ -3827,7 +3830,7 @@ Les gabarits se trouvent dans une pièce sans fenêtre, derrière l’atelier, d
 
 Šimek ouvrit celle de deux mille dix-neuf et en sortit une liasse de grandes feuilles attachées par deux trombones métalliques, et la posa sur une table au plateau de formica, et alluma une ampoule suspendue à un fil.
 
-— Tout est là — dit-il. — Je ne vais pas rester à regarder par-dessus votre épaule. Je suis à l’établi.
+— Tout est là, dit-il. Je ne vais pas rester à regarder par-dessus votre épaule. Je suis à l’établi.
 
 Et il sortit, et trente secondes plus tard la scie se ralluma.
 
@@ -3853,7 +3856,7 @@ Ivan posa la main dessus et ne dit rien pendant un moment.
 
 Il retira la main.
 
-— Elle est morte en novembre deux mille seize — dit-il. — J’ai conduit huit heures depuis Vienne cette nuit-là, et j’ai porté ce cercueil. Et voilà, découpé dans un papier, la mauvaise année, en grandeur réelle.
+— Elle est morte en novembre deux mille seize, dit-il. J’ai conduit huit heures depuis Vienne cette nuit-là, et j’ai porté ce cercueil. Et voilà, découpé dans un papier, la mauvaise année, en grandeur réelle.
 
 Marina posa la main dans son dos, au milieu, par-dessus le manteau.
 
@@ -3879,7 +3882,7 @@ Une longue boucle, un tracé qui descend et coupe, et une chose qui est peut-êt
 
 — Et on peut savoir de qui c’est ?
 
-— On pouvait, avant la réforme de Kravets — dit Ivan. — Maintenant, toute la maison signe avec un nom lisible, et personne n’a gardé de table de correspondance avec ce qui se faisait avant, parce que c’était exactement le but de signer comme ça.
+— On pouvait, avant la réforme de Kravets, dit Ivan. Maintenant, toute la maison signe avec un nom lisible, et personne n’a gardé de table de correspondance avec ce qui se faisait avant, parce que c’était exactement le but de signer comme ça.
 
 Le troisième papier est un morceau de bloc-notes, avec un numéro de téléphone noté au crayon, de travers, l’un des chiffres repassé deux fois.
 
@@ -3913,7 +3916,7 @@ Marina attendit la fin de la coupe.
 
 Le vieil homme passa la main mouillée sur la pièce, vérifiant l’arête du bout des doigts, et mit du temps à répondre.
 
-— Je me souviens de trois choses, et aucune n’est son visage — dit-il. — Je me souviens qu’il était plus âgé que je ne l’attendais. Je me souviens qu’il est resté debout à côté de la voiture tout le temps et n’a pas voulu s’asseoir sur la chaise que je lui ai proposée.
+— Je me souviens de trois choses, et aucune n’est son visage, dit-il. Je me souviens qu’il était plus âgé que je ne l’attendais. Je me souviens qu’il est resté debout à côté de la voiture tout le temps et n’a pas voulu s’asseoir sur la chaise que je lui ai proposée.
 
 — Et la troisième ?
 
@@ -3925,7 +3928,7 @@ Ivan, de l’autre côté du hangar, ne bougea pas.
 
 Le vieil homme resta à regarder la pièce sur l’établi.
 
-— J’aimerais lui demander pourquoi il n’a pas fait mettre la ligne — dit-il. — Neuf ans, madame. C’est la seule chose que je veux savoir de cet homme-là.
+— J’aimerais lui demander pourquoi il n’a pas fait mettre la ligne, dit-il. Neuf ans, madame. C’est la seule chose que je veux savoir de cet homme-là.
 
 ◆
 
@@ -3967,7 +3970,7 @@ Ivan la regarda de côté.
 
 — Lequel ?
 
-— Sergei — dit-il. — Et il aurait tout écrit après.
+— Sergei, dit-il. Et il aurait tout écrit après.
 
 Elle rit.
 
@@ -3977,7 +3980,7 @@ Ce fut le premier vrai rire de la journée, et il dura peu, et le silence qui su
 
 — Hm.
 
-— Si cette pierre a la mauvaise année et n’a pas la ligne, la personne qui l’a fait faire ne connaissait ni ta tante, ni ta grand-tante, ni personne de cette famille de près — dit-elle. — Et pourtant, elle est entrée par ce mur-là.
+— Si cette pierre a la mauvaise année et n’a pas la ligne, la personne qui l’a fait faire ne connaissait ni ta tante, ni ta grand-tante, ni personne de cette famille de près, dit-elle. Et pourtant, elle est entrée par ce mur-là.
 
 — Je sais.
 
@@ -4001,13 +4004,13 @@ Marina ouvrit la photocopie du bon de commande sur ses genoux.
 
 — Il l’a écrit.
 
-— Payé comptant veut dire payé le jour de la commande — dit-elle. — Et tout bon de commande porte la date en haut.
+— Payé comptant veut dire payé le jour de la commande, dit-elle. Et tout bon de commande porte la date en haut.
 
 Il alluma la lumière du plafonnier.
 
 Elle tourna la feuille vers lui et posa le doigt sur la marge de gauche, à côté de la ligne, où la date était écrite de la même écriture large et tremblante.
 
-Et elle resta ainsi longtemps, les deux mains sur la feuille et la lumière jaune du plafonnier de la voiture les éclairant tous les deux, et quand elle parla, sa voix sortit petite, d’une façon qu’il n’avait jamais entendue chez cette femme-là.
+Et elle resta ainsi longtemps, les deux mains sur la feuille et la lumière jaune du plafonnier de la voiture les éclairant tous les deux, et quand elle parla, sa voix se fit petite, d’une façon qu’il n’avait jamais entendue chez cette femme-là.
 
 — Ta tante est morte le quatorze.
 
@@ -4097,7 +4100,7 @@ Elle s’arrêta une seconde.
 
 Puis rit, quelque chose de bref et un peu brisé, le front contre son épaule.
 
-— J’en suis sûre — dit-elle. — J’ai trente-six ans et j’en suis sûre, et je te veux, et je te veux maintenant, et je le redirai dans dix minutes si tu as besoin de l’entendre.
+— J’en suis sûre, dit-elle. J’ai trente-six ans et j’en suis sûre, et je te veux, et je te veux maintenant, et je le redirai dans dix minutes si tu as besoin de l’entendre.
 
 — J’en aurai besoin.
 
@@ -4155,11 +4158,11 @@ Il la retourna et l’allongea sur le dos sur le lit étroit et descendit.
 
 — Toute la maison—
 
-— Toute la maison le sait déjà depuis sept heures et demie du matin — dit-il. — Laisse.
+— Toute la maison le sait déjà depuis sept heures et demie du matin, dit-il. Laisse.
 
 Et elle laissa.
 
-Elle fit du bruit, et beaucoup, et à un moment elle cessa d’entendre ce qu’elle faisait, et quand elle vint, ce fut la main serrée dans ses cheveux, le talon sur son omoplate, tout le corps se soulevant du matelas.
+Elle fit du bruit, et beaucoup, et à un moment elle cessa d’entendre ce qu’elle faisait, et quand elle jouit, ce fut la main serrée dans ses cheveux, le talon sur son omoplate, tout le corps se soulevant du matelas.
 
 Il remonta et elle tira sa bouche vers la sienne sans aucune délicatesse.
 
@@ -4203,9 +4206,9 @@ Neuf ans plus tôt, elle avait été la jeune femme que cet homme-là protégeai
 
 Dans ce lit-là, avec les mains de l’un hors du corps de l’autre sur son ordre à elle, ils étaient autre chose.
 
-Il vint le premier cette fois, prononçant son prénom en entier, les deux mains remontant enfin vers son dos et se resserrant.
+Il jouit le premier cette fois, prononçant son prénom en entier, les deux mains remontant enfin vers son dos et se resserrant.
 
-Elle vint juste après, effondrée sur lui, la bouche contre son épaule et sans se soucier du bruit qu’elle faisait.
+Elle jouit juste après, effondrée sur lui, la bouche contre son épaule et sans se soucier du bruit qu’elle faisait.
 
 ◆
 
@@ -4221,7 +4224,7 @@ Le lit d’une place continuait de ne pas convenir à deux personnes. Elle avait
 
 — Quel bouton ?
 
-— Celui de la chemise — dit Ivan. — Demain matin, j’ai réunion à neuf heures, et je n’ai que deux chemises dans cette maison, et l’une des deux est par terre sans le bouton du haut, et l’autre je l’ai portée hier.
+— Celui de la chemise, dit Ivan. Demain matin, j’ai réunion à neuf heures, et je n’ai que deux chemises dans cette maison, et l’une des deux est par terre sans le bouton du haut, et l’autre je l’ai portée hier.
 
 — Irina la recoud.
 
@@ -4271,7 +4274,7 @@ Plus tard, la lumière éteinte, elle parla encore, déjà presque endormie.
 
 — Et ensuite une autre.
 
-— Et ensuite une autre — dit-il. — Tu as douze semaines et un formulaire, et j’ai un téléphone de station-service et un cousin qui note tout par écrit. Ce n’est pas rien.
+— Et ensuite une autre, dit-il. Tu as douze semaines et un formulaire, et j’ai un téléphone de station-service et un cousin qui note tout par écrit. Ce n’est pas rien.
 
 Marina resta silencieuse un moment.
 
@@ -4484,7 +4487,7 @@ Elle tira la chaise et s’assit, chose qu’Ivan n’avait vu faire cette femme
 
 Elle dit cela sans aucune emphase, ce qui rendait la chose pire encore.
 
-— Neuf ans, répéta-t-elle. Monsieur Sergei a interrogé cinquante personnes sur les rondes et le portail. Monsieur Nikolaï n’a rien demandé à personne. Monsieur Dmitri n’entre plus dans mon office depuis l’enterrement de leur père. Et vous, avec tout le respect que je vous dois, vous vivez dans quatre pays et vous ne venez qu’à Noël.
+— Neuf ans, répéta-t-elle. Monsieur Sergei a interrogé cinquante personnes sur les rondes et le portail. Monsieur Nikolai n’a rien demandé à personne. Monsieur Dmitri n’entre plus dans mon office depuis l’enterrement de leur père. Et vous, avec tout le respect que je vous dois, vous vivez dans quatre pays et vous ne venez qu’à Noël.
 
 Ivan ne se défendit pas.
 
@@ -4506,7 +4509,7 @@ Irina regarda longuement la feuille blanche posée sur la table.
 
 ◆
 
-— Sa maîtresse mangeait dans sa chambre, commença Irina.
+— Madame mangeait dans sa chambre, commença Irina.
 
 — Depuis quand ?
 
@@ -4578,11 +4581,11 @@ Elle alla jusqu’à la cuisinière, n’y fit rien, revint, et resta debout der
 
 Irina resta très silencieuse.
 
-— Parce que celui qui me l’a dit avait l’autorité pour le dire, dit-elle. Et parce que j’étais en colère, si vous voulez toute la vérité. J’avais fait de la soupe de navets, ça demande du travail, et quelqu’un avait donné à manger à sa maîtresse dans mon dos, et j’ai jeté la soupe, je suis allée dans ma chambre et j’ai boudé comme une femme de mon âge ne devrait pas le faire.
+— Parce que celui qui me l’a dit avait l’autorité pour le dire, dit-elle. Et parce que j’étais en colère, si vous voulez toute la vérité. J’avais fait de la soupe de navets, ça demande du travail, et quelqu’un avait donné à manger à Madame dans mon dos, et j’ai jeté la soupe, je suis allée dans ma chambre et j’ai boudé comme une femme de mon âge ne devrait pas le faire.
 
 Elle serra le dossier de la chaise de sa bonne main.
 
-— Et à sept heures du matin le quinze, on m’a annoncé que sa maîtresse était morte dans son sommeil, dit-elle. Et j’ai traîné une marmite de soupe de navets dans la tête pendant neuf ans, monsieur. Neuf ans.
+— Et à sept heures du matin le quinze, on m’a annoncé que Madame était morte dans son sommeil, dit-elle. Et j’ai traîné une marmite de soupe de navets dans la tête pendant neuf ans, monsieur. Neuf ans.
 
 ◆
 
@@ -4766,7 +4769,7 @@ Sofia rit, et cette fois, ce fut un vrai rire.
 
 — On vous a laissée faire ?
 
-— On ne m’a pas *laissée*, on ne s’en est même pas rendu compte. — Elle haussa les épaules. — J’ai commencé par prendre la tension dans la cuisine, à sept heures du matin, avec un appareil que j’ai acheté de ma poche. Au bout de trois mois, il y avait la queue.
+— On ne m’a pas *laissée*, on ne s’en est même pas rendu compte. — Elle haussa les épaules. — J’ai commencé par prendre la tension à l’office, à sept heures du matin, avec un appareil que j’ai acheté de ma poche. Au bout de trois mois, il y avait la queue.
 
 Marina regarda cette femme avec autre chose dans la poitrine.
 
@@ -4918,13 +4921,13 @@ Elle ne demanda pas pourquoi. Elle ne dit pas que c’était compliqué. Elle re
 
 # Chapitre 19
 
-La demande zéro zéro soixante-trois se trouvait sur le bureau du Pakhan à onze heures et demie, et Ivan vit la feuille avant que Nikolaï ne dise quoi que ce soit.
+La demande zéro zéro soixante-trois se trouvait sur le bureau du Pakhan à onze heures et demie, et Ivan vit la feuille avant que Nikolai ne dise quoi que ce soit.
 
 — Assieds-toi.
 
 Il s’assit.
 
-— *Consultation close, faute d’objet existant*, lut Nikolaï à voix haute, sans prendre la feuille. Une pierre de quarante sur trente sur le mur de la chapelle de ma famille, et la comptabilité de cette maison dit qu’elle n’existe pas. — Il leva les yeux. — C’est toi qui as demandé à cette femme d’ouvrir ça ?
+— *Consultation close, faute d’objet existant*, lut Nikolai à voix haute, sans prendre la feuille. Une pierre de quarante sur trente sur le mur de la chapelle de ma famille, et la comptabilité de cette maison dit qu’elle n’existe pas. — Il leva les yeux. — C’est toi qui as demandé à cette femme d’ouvrir ça ?
 
 — Non.
 
@@ -4932,7 +4935,7 @@ Il s’assit.
 
 — Je me suis disputé avec elle hier, à treize heures dix, et j’ai perdu la dispute.
 
-Nikolaï le regarda longuement.
+Nikolai le regarda longuement.
 
 Puis il fit une chose qu’Ivan n’attendait pas : il rit. Court, par le nez, sans la moindre gaieté.
 
@@ -4940,7 +4943,7 @@ Puis il fit une chose qu’Ivan n’attendait pas : il rit. Court, par le nez,
 
 ◆
 
-— Je t’ai dit d’arrêter jeudi, dit Nikolaï.
+— Je t’ai dit d’arrêter jeudi, dit Nikolai.
 
 — Vous me l’avez dit.
 
@@ -4950,7 +4953,7 @@ Ivan ne bougea pas.
 
 — Sergei ?
 
-— Sergei ne m’a rien dit, et il ne dira rien, et c’est pour ça qu’il est le chef de la sécurité de cette maison. — Nikolaï fit glisser une feuille sur la table. — J’ai le reçu de la station-service. Trente et un euros, à minuit quatre. Le garçon du comptoir travaille là et habite à Nová Ves, et son père conduit un camion qui roule pour nous depuis deux mille onze.
+— Sergei ne m’a rien dit, et il ne dira rien, et c’est pour ça qu’il est le chef de la sécurité de cette maison. — Nikolai fit glisser une feuille sur la table. — J’ai le reçu de la station-service. Trente et un euros, à minuit quatre. Le garçon du comptoir travaille là et habite à Nová Ves, et son père conduit un camion qui roule pour nous depuis deux mille onze.
 
 — Vous m’avez fait suivre.
 
@@ -4962,7 +4965,7 @@ Il se renversa dans son fauteuil.
 
 ◆
 
-— Je n’ai jamais cru, commença Nikolaï.
+— Je n’ai jamais cru, commença Nikolai.
 
 — À quoi.
 
@@ -4976,7 +4979,7 @@ Ivan resta très silencieux.
 
 — Vous l’avez lu.
 
-— J’ai lu les trente nuits, assis dans cette antichambre du sous-sol, pendant qu’Irina croyait que je voyageais. — Nikolaï regarda le mur. — Et j’ai trouvé trois lignes d’une écriture qui n’était pas celle de la fille qui tenait le registre habituellement, aux nuits douze, treize et quatorze, avec le nom de l’homme qui avait porté mon père blessé sur deux kilomètres en mille neuf cent quatre-vingt-dix-neuf.
+— J’ai lu les trente nuits, assis dans cette antichambre du sous-sol, pendant qu’Irina croyait que je voyageais. — Nikolai regarda le mur. — Et j’ai trouvé trois lignes d’une écriture qui n’était pas celle de la fille qui tenait le registre habituellement, aux nuits douze, treize et quatorze, avec le nom de l’homme qui avait porté mon père blessé sur deux kilomètres en mille neuf cent quatre-vingt-dix-neuf.
 
 — Grigori.
 
@@ -4990,7 +4993,7 @@ Ivan resta silencieux un moment.
 
 — Et elle a menti ?
 
-— Elle a dit *je faisais*. — Nikolaï posa les mains sur la table. — Et c’est là que j’ai décidé que le mensonge de cette histoire, ce n’était pas elle.
+— Elle a dit *je faisais*. — Nikolai posa les mains sur la table. — Et c’est là que j’ai décidé que le mensonge de cette histoire, ce n’était pas elle.
 
 ◆
 
@@ -4998,7 +5001,7 @@ Ivan resta silencieux un moment.
 
 — Il a expliqué la liste ?
 
-— Il ne savait rien de la liste. Je ne la lui ai pas montrée. — Nikolaï leva les yeux. — Je lui ai posé sept questions autour de ça, et il a répondu sans le moindre écart, et à la fin, il m’a demandé pourquoi je posais ces questions, et je lui ai menti, et il a accepté le mensonge parce que je suis le Pakhan.
+— Il ne savait rien de la liste. Je ne la lui ai pas montrée. — Nikolai leva les yeux. — Je lui ai posé sept questions autour de ça, et il a répondu sans le moindre écart, et à la fin, il m’a demandé pourquoi je posais ces questions, et je lui ai menti, et il a accepté le mensonge parce que je suis le Pakhan.
 
 — Et après ?
 
@@ -5012,7 +5015,7 @@ Ivan sentit son propre pouls dans sa gorge.
 
 — Pourquoi ?
 
-— Parce que ces trois lignes étaient une condamnation à mort, dit Nikolaï. Si un seul homme de cette maison avait lu ça en deux mille dix-neuf, avec le cercueil de la mère des Yakovlev encore chaud, Grigori n’aurait pas vu Noël. Même moi, je n’aurais pas pu l’empêcher. Peut-être même que je ne l’aurais pas voulu.
+— Parce que ces trois lignes étaient une condamnation à mort, dit Nikolai. Si un seul homme de cette maison avait lu ça en deux mille dix-neuf, avec le cercueil de la mère des Yakovlev encore chaud, Grigori n’aurait pas vu Noël. Même moi, je n’aurais pas pu l’empêcher. Peut-être même que je ne l’aurais pas voulu.
 
 — Et vous étiez certain qu’il était innocent.
 
@@ -5026,7 +5029,7 @@ Il s’arrêta.
 
 — J’ai quelque chose pour vous, dit Ivan.
 
-Nikolaï releva lentement la tête.
+Nikolai releva lentement la tête.
 
 — J’ai parlé à Irina ce matin, à sept heures dix.
 
@@ -5044,13 +5047,13 @@ Le Pakhan ne bougea pas.
 
 — Le quatorze, elle n’est pas montée.
 
-La main de Nikolaï s’immobilisa à mi-chemin de la tasse.
+La main de Nikolai s’immobilisa à mi-chemin de la tasse.
 
-— Elle avait préparé le plateau à sept heures moins dix, poursuivit Ivan. Soupe de navets. Et on lui a fait dire que la maîtresse avait déjà mangé, et elle s’est mise en colère, a jeté la soupe, et est allée bouder dans sa chambre. Et le lendemain matin à sept heures, on lui a annoncé que votre mère était morte dans son sommeil.
+— Elle avait préparé le plateau à sept heures moins dix, poursuivit Ivan. Soupe de navets. Et on lui a fait dire que Madame avait déjà mangé, et elle s’est mise en colère, a jeté la soupe, et est allée bouder dans sa chambre. Et le lendemain matin à sept heures, on lui a annoncé que votre mère était morte dans son sommeil.
 
 — Qui le lui a fait dire.
 
-— On ne le lui a pas fait dire. On le lui a dit en face, dans la cuisine.
+— On ne le lui a pas fait dire. On le lui a dit en face, à l’office.
 
 — Ivan. Qui.
 
@@ -5058,25 +5061,25 @@ La main de Nikolaï s’immobilisa à mi-chemin de la tasse.
 
 La tasse resta où elle était.
 
-Nikolaï ne pâlit pas, ne frappa pas la table, ne dit rien pendant près de dix secondes entières. Il fixa un point de la table, et la seule chose qui bougea en lui fut sa mâchoire, une fois.
+Nikolai ne pâlit pas, ne frappa pas la table, ne dit rien pendant près de dix secondes entières. Il fixa un point de la table, et la seule chose qui bougea en lui fut sa mâchoire, une fois.
 
 — Elle en est certaine, dit-il enfin.
 
 — Elle a neuf ans de certitude et une marmite de soupe de navets dans la tête. Ce sont ses mots.
 
-— Et j’ai posé sept questions à cet homme en décembre, dit Nikolaï, très bas, et aucune ne portait sur le dîner.
+— Et j’ai posé sept questions à cet homme en décembre, dit Nikolai, très bas, et aucune ne portait sur le dîner.
 
 Il se leva et alla à la fenêtre.
 
 — J’ai demandé pour les visites, pour une voiture, pour le portail, pour un téléphone, pour des étrangers, pour des médicaments et pour de l’argent, dit-il en comptant sans les doigts, par cœur, neuf ans plus tard. Sept. Et je n’ai jamais demandé à personne dans cette maison qui avait porté le plateau de ma mère la dernière nuit de sa vie, parce que c’est une affaire de cuisine, et je suis le Pakhan, et le Pakhan ne s’occupe pas de la cuisine.
 
-— Nikolaï.
+— Nikolai.
 
-— La réponse était dans la cuisine, Ivan. Neuf ans. J’ai passé neuf ans à payer des gens dans quatre pays, et la réponse était à vingt mètres de moi, un torchon sur l’épaule.
+— La réponse était à l’office, Ivan. Neuf ans. J’ai passé neuf ans à payer des gens dans quatre pays, et la réponse était à vingt mètres de moi, un torchon sur l’épaule.
 
 ◆
 
-— Il y a encore une chose que je n’ai pas dite, dit Nikolaï, toujours de dos. Et je vais la dire maintenant, parce que je suis déjà allé trop loin pour m’arrêter en chemin.
+— Il y a encore une chose que je n’ai pas dite, dit Nikolai, toujours de dos. Et je vais la dire maintenant, parce que je suis déjà allé trop loin pour m’arrêter en chemin.
 
 — Dites.
 
@@ -5110,7 +5113,7 @@ Il se retourna.
 
 — Et maintenant, ce registre est dans le couloir trois.
 
-— Maintenant, ce registre est dans le couloir trois, répéta Nikolaï, et ce fut la première fois que sa voix se brisa. Avec la bonne poussière, à la bonne place, la tranche bien alignée. Et j’ai vu la fumée, Ivan. Je suis resté dans cette cour jusqu’à ce qu’il ne reste plus que des cendres.
+— Maintenant, ce registre est dans le couloir trois, répéta Nikolai, et ce fut la première fois que sa voix se brisa. Avec la bonne poussière, à la bonne place, la tranche bien alignée. Et j’ai vu la fumée, Ivan. Je suis resté dans cette cour jusqu’à ce qu’il ne reste plus que des cendres.
 
 Il se leva.
 
@@ -5122,7 +5125,7 @@ Il se leva.
 
 — Vous pensez qu’elle fait partie de tout ça.
 
-— Je le pensais, mercredi. — Nikolaï leva la main avant qu’Ivan n’ouvre la bouche. — Aujourd’hui, je pense autre chose, et c’est pire.
+— Je le pensais, mercredi. — Nikolai leva la main avant qu’Ivan n’ouvre la bouche. — Aujourd’hui, je pense autre chose, et c’est pire.
 
 Et avant de dire quoi, il dit ceci :
 
@@ -5144,7 +5147,7 @@ Ivan prit la feuille.
 
 — Vous voulez que je fasse quoi avec ça ?
 
-— Je veux que tu comptes, dit Nikolaï. À voix haute, avec moi ici, parce que je ne vais pas me fier à mes propres yeux cette semaine.
+— Je veux que tu comptes, dit Nikolai. À voix haute, avec moi ici, parce que je ne vais pas me fier à mes propres yeux cette semaine.
 
 Ivan posa la feuille sur la table et commença.
 
@@ -5154,7 +5157,7 @@ Puis il s’arrêta, revint en haut de la feuille et compta une seconde fois, av
 
 Et compta une troisième fois.
 
-— Nikolaï.
+— Nikolai.
 
 — Dites.
 
@@ -5224,7 +5227,7 @@ Il prit son temps.
 
 Et quand il parla, il parla en regardant sa tasse, ce qu’elle n’avait jamais vu cet homme faire.
 
-— Nikolaï pense que tu es l’appât, dit-il.
+— Nikolai pense que tu es l’appât, dit-il.
 
 Marina ne bougea pas.
 
@@ -5232,7 +5235,7 @@ Marina ne bougea pas.
 
 — Pas pour quoi. Pour qui. — Ivan leva les yeux. — Il pense que le piège n’est pas pour la maison, et n’est pas pour lui. Il pense que celui qui a monté ça sait depuis longtemps ce que tu représentes pour moi, et t’a placée à l’intérieur de ces murs pour que je sois ici, avec toi.
 
-Le couloir de l’autre côté de la porte était silencieux, et on entendait Irina se disputer avec quelqu’un dans la cuisine, au loin.
+Le couloir de l’autre côté de la porte était silencieux, et on entendait Irina se disputer avec quelqu’un à l’office, au loin.
 
 — Répète la dernière partie, dit-elle.
 
@@ -5354,8 +5357,6 @@ Il parla du froid. D’un homme nommé Kolman qui devait de l’argent à la mai
 
 Sofia changeait le bandage et répondait *hm* et *c’est ça* aux bons moments.
 
-◆
-
 Marina resta debout près de la commode, les mains croisées devant elle, et comprit peu à peu.
 
 Ce n’était pas de la confusion.
@@ -5402,7 +5403,7 @@ Elle s’arrêta.
 
 — Tu as un carnet ?
 
-Marina regarda Sofia, et Sofia fit oui de la tête, très lentement.
+Marina regarda Sofia, et Sofia hocha la tête, très lentement.
 
 — J’en ai un.
 
@@ -5458,21 +5459,21 @@ Elle écrivit.
 
 — Dites.
 
-— La maîtresse a appelé à cinq heures du soir. — Sa voix restait exactement la même, celle d’un vieil homme dictant une feuille de service. — Elle a ordonné que personne ne monte, et j’ai dit que ce n’était pas bien, et elle a dit que c’était son affaire.
+— Madame a appelé à cinq heures du soir. — Sa voix restait exactement la même, celle d’un vieil homme dictant une feuille de service. — Elle a ordonné que personne ne monte, et j’ai dit que ce n’était pas bien, et elle a dit que c’était son affaire.
 
 Marina écrivit.
 
-— Elle a ordonné que la visite entre par l’escalier est, qui ne passe pas par la cuisine, parce qu’Irina aurait posé des questions, et la maîtresse ne voulait pas qu’Irina en pose.
+— Elle a ordonné que la visite entre par l’escalier est, qui ne passe pas par l’office, parce qu’Irina aurait posé des questions, et Madame ne voulait pas qu’Irina en pose.
 
 Elle écrivit.
 
-— Je l’ai fait monter par l’escalier est. J’ai attendu dans le couloir que la porte se referme. Je suis descendu. — Une pause très brève. — Et j’ai dit à Irina que la maîtresse avait déjà mangé, parce que c’est ce qu’on m’avait dit de dire.
+— Je l’ai fait monter par l’escalier est. J’ai attendu dans le couloir que la porte se referme. Je suis descendu. — Une pause très brève. — Et j’ai dit à Irina que Madame avait déjà mangé, parce que c’est ce qu’on m’avait dit de dire.
 
 Le stylo s’arrêta.
 
 — Qui vous a dit de dire ça ?
 
-— La maîtresse.
+— Madame.
 
 — La mère des garçons vous a ordonné de mentir à Irina ?
 
@@ -5546,7 +5547,7 @@ Ivan se tenait à douze mètres, adossé au mur sous la fenêtre du bout du coul
 
 Il leva la tête et regarda Marina — toute une question sans un seul mot.
 
-Marina fit oui de la tête.
+Marina hocha la tête.
 
 ◆
 
@@ -5567,6 +5568,9 @@ Elle resta la main sur le chambranle.
 — Qui, monsieur ?
 
 Mais il avait déjà tourné la tête vers la vitre, et demandait à la fenêtre quel mois on était.
+
+---
+
 # Chapitre 21
 
 — Répète, dit Ivan.
@@ -5771,8 +5775,6 @@ Quand elle arriva à la ceinture, elle leva les yeux.
 
 Et elle s’agenouilla.
 
-◆
-
 Ivan posa les deux mains ouvertes contre le bois de la porte derrière lui, parce qu’il n’y avait rien d’autre à en faire, et resta ainsi — un homme de quarante-cinq ans, qui décide pour trente personnes dans quatre pays, les paumes contre la porte de son propre bureau, obéissant.
 
 Il ne tint pas longtemps, et elle savait qu’il ne tiendrait pas longtemps.
@@ -5963,9 +5965,9 @@ L’itinéraire de Grigori — cour, porte latérale, couloir du rez-de-chaussé
 
 — Et Irina ? demanda Ivan.
 
-— Irina était à la cuisine jusqu’à neuf heures et demie, c’est l’heure où elle est allée chercher le plateau qu’elle n’avait pas monté. — Sergei nota sur le poignet de son propre manteau, au stylo bille, une habitude qu’il avait depuis l’âge de vingt ans et qui rendait folle la buanderie. — Et ensuite elle est allée dans sa chambre, en colère, et a jeté une soupe.
+— Irina était à l’office jusqu’à neuf heures et demie, c’est l’heure où elle est allée chercher le plateau qu’elle n’avait pas monté. — Sergei nota sur le poignet de son propre manteau, au stylo bille, une habitude qu’il avait depuis l’âge de vingt ans et qui rendait folle la buanderie. — Et ensuite elle est allée dans sa chambre, en colère, et a jeté une soupe.
 
-— Donc entre sept heures et neuf heures et demie du soir, toute la maison croyait que la maîtresse avait dîné.
+— Donc entre sept heures et neuf heures et demie du soir, toute la maison croyait que Madame avait dîné.
 
 — Et entre neuf heures et demie et six heures quarante du matin, personne n’avait aucune raison de monter à cet étage. — Sergei regarda vers le haut, vers les fenêtres du premier étage. — Ce couloir est le plus vide de cette propriété après dix heures. Il n’y monte que ceux qui y vivent et celui qui fait la ronde.
 
@@ -6063,7 +6065,7 @@ Sergei resta longuement à regarder la serre.
 
 ◆
 
-Ils déjeunèrent tous les trois à la cuisine, à la longue table, avec une vingtaine de personnes autour, et personne ne parla de rien.
+Ils déjeunèrent tous les trois à l’office, à la longue table, avec une vingtaine de personnes autour, et personne ne parla de rien.
 
 Ce fut Marina qui le remarqua en premier.
 
@@ -6141,7 +6143,7 @@ Une femme n’emporte pas de sac pour chronométrer soixante mètres de passage.
 
 Ivan ne dit rien.
 
-Il resta le téléphone à la main, à regarder la bâche de la serre, et laissa sa femme entrer seule dans l’obscurité avec un passeport et de l’argent compté sous le manteau, parce que la seule chose pire que ça aurait été de la laisser savoir qu’il savait.
+Il resta le téléphone à la main, à regarder la bâche de la serre, et laissa sa femme entrer seule dans l’obscurité avec un passeport et de l’argent compté sous le manteau, parce que la seule chose pire que ça aurait été de lui faire comprendre qu’il savait.
 
 ◆
 
@@ -6179,7 +6181,7 @@ Ivan appela Sergei, qui était à vingt minutes de Michalovce, et Sergei dit tro
 
 Rehák s’assit sur un banc en bois, la casquette sur les genoux.
 
-— Monsieur Beliakov, je vais raconter ce que je sais, et je vais le faire aujourd’hui, et c’est pour ça que j’étais dans ce passage. — Il parlait lentement, les mains immobiles sur la casquette. — Je suis dans cette maison depuis mille neuf cent quatre-vingt-douze. J’ai lavé la voiture du père de monsieur Nikolaï à six heures du matin pendant quatre ans, parce qu’il la voulait à six heures et non à sept.
+— Monsieur Beliakov, je vais raconter ce que je sais, et je vais le faire aujourd’hui, et c’est pour ça que j’étais dans ce passage. — Il parlait lentement, les mains immobiles sur la casquette. — Je suis dans cette maison depuis mille neuf cent quatre-vingt-douze. J’ai lavé la voiture du père de monsieur Nikolai à six heures du matin pendant quatre ans, parce qu’il la voulait à six heures et non à sept.
 
 — Je sais qui vous êtes.
 
@@ -6189,7 +6191,7 @@ Rehák s’assit sur un banc en bois, la casquette sur les genoux.
 
 — Vous m’avez menti vendredi, dit Marina.
 
-Elle s’était adossée au comptoir, à trois mètres, les bras croisés, et sa voix sortit sur son registre de travail.
+Elle s’était adossée au comptoir, à trois mètres, les bras croisés, et sa voix prit son registre de travail.
 
 — J’ai menti.
 
@@ -6215,11 +6217,11 @@ Ivan posa les deux mains sur le dossier d’une chaise.
 
 Le commencement, c’était septembre deux mille dix-neuf.
 
-— C’est la maîtresse d’en haut qui m’a fait appeler, dit Rehák. La mère des garçons.
+— C’est Madame, là-haut, qui m’a fait appeler, dit Rehák. La mère des garçons.
 
-— La maîtresse vous a appelé.
+— Madame vous a appelé.
 
-— Elle m’a fait appeler à la cuisine, et je suis monté, et ce fut la seule fois en vingt-sept ans que j’ai mis les pieds dans la chambre de cette femme. — Il passa le pouce sur la casquette. — Elle m’a demandé d’aller chercher une personne à Michalovce, la nuit, et de l’amener jusqu’à la route du mur est, sans passer par le portail, sans l’écrire dans le registre, et sans rien dire à personne.
+— Elle m’a fait appeler à l’office, et je suis monté, et ce fut la seule fois en vingt-sept ans que j’ai mis les pieds dans la chambre de cette femme. — Il passa le pouce sur la casquette. — Elle m’a demandé d’aller chercher une personne à Michalovce, la nuit, et de l’amener jusqu’à la route du mur est, sans passer par le portail, sans l’écrire dans le registre, et sans rien dire à personne.
 
 — Et vous avez accepté.
 
@@ -6235,7 +6237,7 @@ C’était exactement la phrase d’une femme qui épluchait des pommes de terre
 
 — Les dates.
 
-— Je ne connais pas les dates, monsieur. — Rehák releva la tête. — Je sais que c’était trois fois, en septembre, octobre et novembre, toujours après dix heures du soir, et que la dernière fut la dernière.
+— Je ne connais pas les dates, monsieur. — Rehák releva la tête. — Je sais que c’était trois fois, en septembre, octobre et novembre, toujours après dix heures du soir, et que la dernière a été la dernière.
 
 ◆
 
@@ -6317,7 +6319,7 @@ Entre deux heures quarante et quatre heures vingt.
 
 Entre la ronde où Marina avait vu une femme en manteau debout au pied d’un lit et la ronde où la porte était fermée et où le couloir sentait l’allumette éteinte.
 
-— Comment était-elle ? demanda Marina, et sa voix sortit un peu moins assurée qu’avant.
+— Comment était-elle ? demanda Marina, et sa voix se fit un peu moins assurée qu’avant.
 
 — Pareille.
 
@@ -6327,7 +6329,7 @@ Entre la ronde où Marina avait vu une femme en manteau debout au pied d’un li
 
 — Et vous ?
 
-— Et je suis rentré chez moi, j’ai dormi, et à sept heures du matin, on m’a dit que la maîtresse d’en haut était morte dans son sommeil.
+— Et je suis rentré chez moi, j’ai dormi, et à sept heures du matin, on m’a dit que Madame, là-haut, était morte dans son sommeil.
 
 Le hangar resta silencieux.
 
@@ -6337,7 +6339,7 @@ Le hangar resta silencieux.
 
 — Neuf ans.
 
-— Neuf ans. — Le vieil homme redressa le dos, et sa voix ne monta pas. — Monsieur Beliakov, j’ai conduit une femme jusqu’à la porte de cette maison trois fois à la demande de la maîtresse de cette maison, et à la troisième fois, j’ai attendu deux heures et quart phares éteints, et le lendemain matin, la maîtresse de cette maison était morte. Vous voulez savoir pourquoi je n’ai rien dit ?
+— Neuf ans. — Le vieil homme redressa le dos, et sa voix ne monta pas. — Monsieur Beliakov, j’ai conduit une femme jusqu’à la porte de cette maison trois fois à la demande de Madame elle-même, et à la troisième fois, j’ai attendu deux heures et quart phares éteints, et le lendemain matin, Madame était morte. Vous voulez savoir pourquoi je n’ai rien dit ?
 
 — Je veux savoir.
 
@@ -6351,7 +6353,7 @@ Le hangar resta silencieux.
 
 — Fini comment ?
 
-— Fini. — Le vieil homme ouvrit les mains. — On ne m’a plus appelé, il n’y a plus eu d’enveloppe, plus aucun voyage. La maîtresse est morte, la maison est devenue ce qu’elle devient dans ces cas-là, et j’ai continué à conduire, et en neuf ans, personne ne m’a rien demandé.
+— Fini. — Le vieil homme ouvrit les mains. — On ne m’a plus appelé, il n’y a plus eu d’enveloppe, plus aucun voyage. Madame est morte, la maison est devenue ce qu’elle devient dans ces cas-là, et j’ai continué à conduire, et en neuf ans, personne ne m’a rien demandé.
 
 — L’enveloppe.
 
@@ -6503,9 +6505,9 @@ Sergei resta à regarder la feuille avec les cinq lignes.
 
 Sergei releva lentement la tête.
 
-— Le compte de la maîtresse.
+— Le compte de Madame.
 
-— Le compte de la maîtresse, sa carte, sa caisse de dépenses, ce qui existe, quoi que ce soit. — Marina parlait vite maintenant. — Cette maison audite l’engrais. Cette maison a trente-sept mille dossiers avec numéro d’entrée. Et je parie tout ce que j’ai que personne n’a jamais ouvert une seule ligne de votre mère, parce que personne n’audite sa mère.
+— Le compte de Madame, sa carte, sa caisse de dépenses, ce qui existe, quoi que ce soit. — Marina parlait vite maintenant. — Cette maison audite l’engrais. Cette maison a trente-sept mille dossiers avec numéro d’entrée. Et je parie tout ce que j’ai que personne n’a jamais ouvert une seule ligne de votre mère, parce que personne n’audite sa mère.
 
 — Personne n’audite sa mère, répéta Sergei, très bas.
 
@@ -6547,7 +6549,7 @@ La pièce resta silencieuse.
 
 — Vous avez cru qu’elle s’était suicidée, dit Marina.
 
-— J’ai cru ça pendant six semaines en deux mille vingt, dit Dmitri. Et je ne l’ai pas dit à Nikolaï, et je ne l’ai pas dit à Sergei, et je ne l’ai pas dit à Sasha, qui était déjà assez détruit comme ça. J’ai pris ce dossier et j’ai lu les soixante-treize écritures en cherchant une dette, une facture impayée, un avocat, un médecin, n’importe quoi.
+— J’ai cru ça pendant six semaines en deux mille vingt, dit Dmitri. Et je ne l’ai pas dit à Nikolai, et je ne l’ai pas dit à Sergei, et je ne l’ai pas dit à Sasha, qui était déjà assez détruit comme ça. J’ai pris ce dossier et j’ai lu les soixante-treize écritures en cherchant une dette, une facture impayée, un avocat, un médecin, n’importe quoi.
 
 — Et il n’y avait rien.
 
@@ -6557,11 +6559,11 @@ Sergei tourna lentement la tête.
 
 — Vous avez porté ça neuf ans.
 
-— J’ai porté ça neuf ans, dit le consigliere. Et vous avez porté quatorze interrogatoires, et Nikolaï a porté trois registres brûlés, et chacun de nous trois a fait exactement la même chose, seul, sans en parler aux deux autres. — Il regarda ses deux frères. — C’est notre maladie de famille, et elle nous a déjà coûté une décennie.
+— J’ai porté ça neuf ans, dit le consigliere. Et vous avez porté quatorze interrogatoires, et Nikolai a porté trois registres brûlés, et chacun de nous trois a fait exactement la même chose, seul, sans en parler aux deux autres. — Il regarda ses deux frères. — C’est notre maladie de famille, et elle nous a déjà coûté une décennie.
 
 Marina resta à regarder ses mains.
 
-Elles étaient croisées dans son dos, et elle ne voyait que les poignets, et les poignets ne bougeaient pas, et c’était exactement comme ça qu’elle se souvenait d’eux au-dessus d’une table de cuisine, en poussant une tasse.
+Elles étaient croisées dans son dos, et elle ne voyait que les poignets, et les poignets ne bougeaient pas, et c’était exactement comme ça qu’elle se souvenait d’eux au-dessus de la table de l’office, en poussant une tasse.
 
 Six semaines à croire que sa mère s’était suicidée.
 
@@ -6615,9 +6617,9 @@ Sergei posa le doigt sur la dernière ligne.
 
 — Le quinze novembre.
 
-— La maîtresse était morte le quinze novembre, dit Ivan.
+— Madame était morte le quinze novembre, dit Ivan.
 
-— La maîtresse était morte à sept heures du matin le quinze, corrigea Marina. Un retrait en espèces s’inscrit le jour ouvrable suivant, et le quatorze était un jeudi. Ceci a été retiré le jeudi et inscrit le vendredi.
+— Madame était morte à sept heures du matin le quinze, corrigea Marina. Un retrait en espèces s’inscrit le jour ouvrable suivant, et le quatorze était un jeudi. Ceci a été retiré le jeudi et inscrit le vendredi.
 
 Elle releva la tête.
 
@@ -6697,7 +6699,7 @@ La lumière de février entrait tout entière par la fenêtre du bureau du rez-d
 
 Elle posa les paumes sur le plateau.
 
-Il releva sa jupe sans se presser, puis perdit patience en même temps qu’elle, et quand il entra en elle, elle dut mordre son propre bras, parce qu’il était midi quarante et que la cuisine se trouvait à vingt mètres et qu’Irina y était.
+Il releva sa jupe sans se presser, puis perdit patience en même temps qu’elle, et quand il entra en elle, elle dut mordre son propre bras, parce qu’il était midi quarante et que l’office se trouvait à vingt mètres et qu’Irina y était.
 
 — Doucement, dit-elle, hors d’haleine. Ivan, doucement, il y a du monde.
 
@@ -6768,6 +6770,9 @@ Trois cent quarante-huit euros.
 Une femme de soixante-huit ans qui marchait, descendait les escaliers, se disputait avec le jardinier à cause de la bâche, et mangeait tout ce qu’on lui servait, **a payé seule, de sa propre poche, dans un laboratoire privé d’une autre ville, quarante-deux jours avant de mourir**.
 
 Et elle n’en a parlé à personne.
+
+---
+
 # Chapitre 25
 
 Vingt-six heures.
@@ -6780,7 +6785,7 @@ Ivan avait dit quarante-huit et s’était trompé par excès, et Sergei allait 
 
 Pendant les vingt-six heures précédentes, ils n’avaient rien vu.
 
-Le vieil homme s’était réveillé à cinq heures et demie, comme tous les jours. Il avait lavé deux voitures. Il avait conduit Tarasov à Michalovce à dix heures et l’avait ramené à deux heures. Il avait déjeuné à la cuisine en onze minutes et s’était levé. Il avait réparé une lanterne dans l’atelier. Il avait dîné. Il était allé dans sa chambre à neuf heures quarante.
+Le vieil homme s’était réveillé à cinq heures et demie, comme tous les jours. Il avait lavé deux voitures. Il avait conduit Tarasov à Michalovce à dix heures et l’avait ramené à deux heures. Il avait déjeuné à l’office en onze minutes et s’était levé. Il avait réparé une lanterne dans l’atelier. Il avait dîné. Il était allé dans sa chambre à neuf heures quarante.
 
 Il n’avait téléphoné à personne.
 
@@ -6916,7 +6921,7 @@ Ivan vit cela se produire — ce n’est pas une figure de style, cela se produi
 
 — Pourquoi pas ? demanda Marina.
 
-Sergei ouvrit les mains, et sa voix sortit avec quelque chose dedans qui n’était pas professionnel.
+Sergei ouvrit les mains, et il y avait dans sa voix quelque chose qui n’était pas professionnel.
 
 — Parce qu’il dort hors du mur.
 
@@ -7060,7 +7065,7 @@ C’était là, en diagonale du bas de la page, en noir, dans un corps de caract
 
 Sergei se redressa très lentement.
 
-— Je ne sais pas, dit-il. Mais en octobre, dans cette maison, quand Élise, la Ryzhov qui a épousé Sasha, a posé sa lettre sur la table de Nikolaï, elle a dit que celles de son frère avaient un treize et un quatorze dans le coin. Et je sais que la boîte de l’aile ouest en contient quatorze, que leur père les a toutes les quatorze étiquetées, et que la dernière de cette boîte n’a aucun numéro dans le coin.
+— Je ne sais pas, dit-il. Mais en octobre, dans cette maison, quand Élise, la Ryzhov qui a épousé Sasha, a posé sa lettre sur la table de Nikolai, elle a dit que celles de son frère avaient un treize et un quatorze dans le coin. Et je sais que la boîte de l’aile ouest en contient quatorze, que leur père les a toutes les quatorze étiquetées, et que la dernière de cette boîte n’a aucun numéro dans le coin.
 
 Marina resta à regarder le chiffre.
 
@@ -7082,7 +7087,7 @@ Elle s’assit à la table de sa chambre, la lampe de chevet tournée vers le mu
 
 *14/11, ~22h — la visiteuse entre par la serre.*
 
-*14/11, 02h40 — la porte ouverte, la lumière allumée, la femme debout, en manteau et gants. La maîtresse allongée, tournée vers la fenêtre.*
+*14/11, 02h40 — la porte ouverte, la lumière allumée, la femme debout, en manteau et gants. Madame allongée, tournée vers la fenêtre.*
 
 *15/11, 03h10 — la visiteuse monte dans la voiture, dit bonsoir, descend à Michalovce, dit merci.*
 
@@ -7112,7 +7117,7 @@ Il lut debout, deux fois.
 
 — Relis la première ligne de la lettre.
 
-— *La maîtresse n’est pas morte en dormant.*
+— *Madame n’est pas morte en dormant.*
 
 — Celui qui écrit ces lettres ne ment jamais, dit-elle. Sergei a dit que cette personne livre une vérité à chaque personne et attend que personne n’en parle à personne. Les trois autres lignes étaient vraies. Celle-ci l’est aussi.
 
@@ -7128,7 +7133,7 @@ Elle posa le doigt sur la troisième feuille, sur la chronologie qu’elle avait
 
 — Quel trou ?
 
-— À deux heures quarante, j’ai vu la porte ouverte, la lumière allumée et une femme en manteau debout au pied du lit. — Sa voix sortit plate. — À trois heures dix, cette femme est montée dans la voiture de Jozef, a dit bonsoir d’une voix normale, est descendue à Michalovce et a dit merci. À quatre heures vingt, la porte était fermée, sans lumière, et le couloir sentait la bougie éteinte.
+— À deux heures quarante, j’ai vu la porte ouverte, la lumière allumée et une femme en manteau debout au pied du lit. — Sa voix était plate. — À trois heures dix, cette femme est montée dans la voiture de Jozef, a dit bonsoir d’une voix normale, est descendue à Michalovce et a dit merci. À quatre heures vingt, la porte était fermée, sans lumière, et le couloir sentait la bougie éteinte.
 
 — Et ?
 
@@ -7172,7 +7177,7 @@ Ivan se retourna.
 
 ◆
 
-— Nous devons le dire à Nikolaï, dit Ivan.
+— Nous devons le dire à Nikolai, dit Ivan.
 
 — Dire quoi ?
 
@@ -7656,7 +7661,7 @@ Il y avait en elle une chose qui avait passé neuf ans à n’appartenir nulle p
 
 Et il ferma les yeux et posa le front sur son épaule, et le corps de cet homme tout entier réagit d’une façon qu’elle n’avait obtenue à aucune des quatre autres fois.
 
-Elle vint avec un son qu’elle n’essaya pas d’étouffer.
+Elle jouit avec un son qu’elle n’essaya pas d’étouffer.
 
 Et ce fut ce son, plus que toute autre chose, qui l’acheva, lui — le visage dans ses cheveux, et il resta longtemps sans bouger, et à un moment, Marina réalisa que son visage à lui était mouillé et ne dit rien, et passa la main sur sa nuque, lentement, jusqu’à ce qu’il s’endorme.
 
@@ -7692,7 +7697,7 @@ Et devint blanche.
 
 La maison se réveilla mal.
 
-Marina le sut avant de le savoir, comme on sait les choses dans une maison de trente et une personnes : il n’y eut aucun cri, aucune course, aucun bruit. Ce fut le contraire. À sept heures dix du matin, la cuisine était pleine et complètement silencieuse, et Irina se tenait debout à côté du fourneau, les deux mains sur le torchon, sans rien remuer.
+Marina le sut avant de le savoir, comme on sait les choses dans une maison de trente et une personnes : il n’y eut aucun cri, aucune course, aucun bruit. Ce fut le contraire. À sept heures dix du matin, l’office était plein et complètement silencieux, et Irina se tenait debout à côté du fourneau, les deux mains sur le torchon, sans rien remuer.
 
 — Irina.
 
@@ -7750,11 +7755,11 @@ La dernière chose que cet homme avait su du monde était une phrase écrite à 
 
 ◆
 
-À la cuisine, Irina posa un café devant elle sans demander.
+À l’office, Irina posa un café devant elle sans demander.
 
 Puis elle s’assit de l’autre côté de la table, ce que cette femme ne faisait jamais, et resta les deux mains autour de sa propre tasse.
 
-— Trente-six ans, dit-elle. Il disait bonjour en premier. Chaque jour, en premier, avant tout le monde. À cinq heures quarante-cinq, à la porte de la cuisine, la casquette à la main.
+— Trente-six ans, dit-elle. Il disait bonjour en premier. Chaque jour, en premier, avant tout le monde. À cinq heures quarante-cinq, à la porte de l’office, la casquette à la main.
 
 — Irina.
 
@@ -7766,11 +7771,11 @@ Irina la laissa faire.
 
 Ce fut la première fois.
 
-Et elles restèrent ainsi, toutes les deux, dans une cuisine pleine de gens qui ne disaient rien, pendant un temps que personne ne mesura — la cuisinière d’une cinquantaine d’années avec le pouce qui ne se referme plus, et la femme qui avait fui cette maison un soir de novembre, mains jointes sur une table de cuisine.
+Et elles restèrent ainsi, toutes les deux, dans un office plein de gens qui ne disaient rien, pendant un temps que personne ne mesura — la cuisinière d’une cinquantaine d’années avec le pouce qui ne se referme plus, et la femme qui avait fui cette maison un soir de novembre, mains jointes sur une table de cuisine.
 
 ◆
 
-Ivan arriva à huit heures quarante et s’assit à côté d’elle dans la cuisine désormais vide.
+Ivan arriva à huit heures quarante et s’assit à côté d’elle dans l’office désormais vide.
 
 Il avait de la graisse sur le poignet de sa chemise.
 
@@ -7828,7 +7833,7 @@ Et à la troisième, elle dut poser la feuille sur la table, car ce n’était p
 
 — Il n’y en a pas.
 
-— Il n’y a pas d’ordre, pas de demande, pas de conséquence écrite. — Sa voix sortit ténue. — C’est vrai, Ivan. C’est la chose la plus vraie que quelqu’un pouvait écrire à cet homme, et c’est exactement pour ça.
+— Il n’y a pas d’ordre, pas de demande, pas de conséquence écrite. — Sa voix se fit ténue. — C’est vrai, Ivan. C’est la chose la plus vraie que quelqu’un pouvait écrire à cet homme, et c’est exactement pour ça.
 
 Elle repoussa la feuille de deux centimètres.
 
@@ -7882,7 +7887,7 @@ Petit, imprimé, en diagonale du bas de la page, de la taille d’une poussière
 
 — Et entre les deux, il ne s’est rien passé dans le monde que nous connaissions, à part une chose.
 
-Sergei était entré dans la cuisine et se tenait debout à la porte, et aucun des deux ne l’avait entendu.
+Sergei était entré dans l’office et se tenait debout à la porte, et aucun des deux ne l’avait entendu.
 
 — Jozef a parlé, dit-il.
 
@@ -7921,6 +7926,9 @@ Sergei la regarda.
 Et dit, un par un, lentement, de la manière dont cet homme avait toujours fait la chose la plus difficile de sa vie, qui est de dire à voix haute ce que lui-même avait fait :
 
 — Au Pakhan. Au consigliere. À Sasha. — Une pause. — Et aux deux personnes qui se tenaient debout à côté de la porte, parce que la réunion est ouverte, et l’a toujours été, et je n’ai fait sortir personne.
+
+---
+
 # Chapitre 29
 
 Ivan resta assis quarante minutes sur le siège conducteur de la voiture de Jozef Rehák, la portière ouverte, les pieds sur le sol du garage.
@@ -7939,13 +7947,13 @@ Puis il le remit à sa place et referma la boîte à gants.
 
 ◆
 
-Nikolaï fit appeler la sœur de Rehák avant midi.
+Nikolai fit appeler la sœur de Rehák avant midi.
 
 Elle arriva de Zemplínska à deux heures de l’après-midi, une femme de soixante-huit ans en bon manteau et mauvaises chaussures, et le Pakhan la reçut debout dans la cour, devant les hommes, et non dans son bureau.
 
 Ivan vit la scène de loin.
 
-Il n’entendit rien de ce qui se dit. Il vit Nikolaï poser ses deux mains sur les épaules de la femme, la vit pleurer le visage dans les mains, puis vit Dmitri l’emmener à l’intérieur.
+Il n’entendit rien de ce qui se dit. Il vit Nikolai poser ses deux mains sur les épaules de la femme, la vit pleurer le visage dans les mains, puis vit Dmitri l’emmener à l’intérieur.
 
 Et il vit ce qui se passa à trois heures.
 
@@ -8023,7 +8031,7 @@ Il rit, une fois, sans aucune gaieté.
 
 — Hm.
 
-— Dis-moi une chose, et dis-moi la vérité. Elle resserra le manteau sur ses épaules. Si je n’étais pas revenue, serait-il encore vivant ?
+— Dis-moi une chose, et dis-moi la vérité. — Elle resserra le manteau sur ses épaules. — Si je n’étais pas revenue, serait-il encore vivant ?
 
 Il mit du temps à répondre, et c’était voulu, parce que la réponse rapide, à cette question, c’est toujours le mensonge.
 
@@ -8053,7 +8061,7 @@ Ce furent les deux dernières bonnes minutes de cette journée-là.
 
 ◆
 
-Nikolaï convoqua la table à huit heures du soir, et la chose dura dix-neuf minutes.
+Nikolai convoqua la table à huit heures du soir, et la chose dura dix-neuf minutes.
 
 Ce ne fut pas une réunion. Ce fut un homme debout au bout d’une longue table, disant ce qui allait se passer.
 
@@ -8069,7 +8077,7 @@ Et personne, absolument personne, n’entrerait dans la chambre de l’aile nord
 
 — Non.
 
-— Nikolaï—
+— Nikolai—
 
 — J’ai une feuille écrite par une femme qui a passé trente ans à tuer des gens de cette maison sans toucher personne, dit le Pakhan, et sa voix ne monta pas une seule fois. Et j’ai trente-cinq ans de souvenirs d’un vieil homme qui a porté mon père blessé sur deux kilomètres parce qu’aucune voiture n’arrivait, et qui m’a appris à faire un nœud de cravate parce que mon père n’avait pas la patience.
 
@@ -8079,7 +8087,7 @@ Il regarda toute la table.
 
 Personne ne répondit.
 
-— Voilà, dit Nikolaï. Je n’ai pas confiance en moi. Vous pouvez l’écrire.
+— Voilà, dit Nikolai. Je n’ai pas confiance en moi. Vous pouvez l’écrire.
 
 Et Sergei l’écrivit.
 
@@ -8095,7 +8103,7 @@ Ce fut à la fin, tout le monde déjà debout, qu’il dit l’autre chose.
 
 La pièce s’arrêta.
 
-— Avec tout ce que vous demanderez livré par coursier, payé double, avec mes deux hommes dans votre rue, et avec ma ligne directe. Le Pakhan parlait pour elle, et pour elle seule. Je ne veux pas non plus de votre mort dans cette maison.
+— Avec tout ce que vous demanderez livré par coursier, payé double, avec mes deux hommes dans votre rue, et avec ma ligne directe. — Le Pakhan parlait pour elle, et pour elle seule. — Je ne veux pas non plus de votre mort dans cette maison.
 
 Marina ne dit rien sur le moment.
 
@@ -8141,7 +8149,7 @@ Marina se figea complètement.
 
 — Quelle boîte ?
 
-— Celle qui est derrière les chemises, dans l’armoire de ta chambre. Il ne détourna pas le regard. Je t’ai vue compter l’argent à quatre heures vingt du matin, la première nuit où tu as dormi sans compter les sorties, assise par terre, le dos tourné vers moi. Tu as compté deux fois.
+— Celle qui est derrière les chemises, dans l’armoire de ta chambre. — Il ne détourna pas le regard. — Je t’ai vue compter l’argent à quatre heures vingt du matin, la première nuit où tu as dormi sans compter les sorties, assise par terre, le dos tourné vers moi. Tu as compté deux fois.
 
 Elle ouvrit la bouche, et rien n’en sortit.
 
@@ -8149,11 +8157,11 @@ Elle ouvrit la bouche, et rien n’en sortit.
 
 — Ivan—
 
-— Huit nuits, Marina. Huit nuits à dormir avec moi, une boîte de fuite prête à dix mètres du lit. Il mit les mains dans ses poches. Tu veux qu’on parle de qui ne dit pas les choses le jour même ?
+— Huit nuits, Marina. Huit nuits à dormir avec moi, une boîte de fuite prête à dix mètres du lit. — Il mit les mains dans ses poches. — Tu veux qu’on parle de qui ne dit pas les choses le jour même ?
 
 Le couloir se tut.
 
-— J’ai passé toute la nuit dernière éveillé à faire un calcul, dit Ivan. Et le calcul, c’est : combien vaut ma loyauté envers cette maison face à la possibilité que tu prennes une balle dans un parking. Il ouvrit les mains. Je n’ai pas trouvé le chiffre. Je ne le trouve pas depuis deux jours. Et quand Nikolaï a dit tout haut la chose que je voulais dire sans y arriver, j’ai été soulagé.
+— J’ai passé toute la nuit dernière éveillé à faire un calcul, dit Ivan. Et le calcul, c’est : combien vaut ma loyauté envers cette maison face à la possibilité que tu prennes une balle dans un parking. — Il ouvrit les mains. — Je n’ai pas trouvé le chiffre. Je ne le trouve pas depuis deux jours. Et quand Nikolai a dit tout haut la chose que je voulais dire sans y arriver, j’ai été soulagé.
 
 Le visage de Marina changea.
 
@@ -8213,7 +8221,7 @@ Et elle était à trois pas de recommencer, avec une voiture payée et deux homm
 
 ◆
 
-Nikolaï ouvrit la porte du bureau à six heures cinquante-deux et regarda la cour avant de la regarder elle.
+Nikolai ouvrit la porte du bureau à six heures cinquante-deux et regarda la cour avant de la regarder elle.
 
 — Vous avez huit minutes de retard.
 
@@ -8237,13 +8245,13 @@ Il ne s’assit pas.
 
 — Non.
 
-Nikolaï leva lentement la tête.
+Nikolai leva lentement la tête.
 
 C’était la première fois, en neuf ans de travail dans cette maison et onze jours depuis son retour, que Marina disait *non* à cet homme à voix haute et dans cette pièce, et son corps réagit avant sa tête : le cœur remonta dans sa gorge, et elle garda le visage parfaitement impassible.
 
 — Expliquez.
 
-— Parce que si je ne le dis qu’à vous, vous le porterez seul. Elle ne détourna pas le regard. Vous avez porté trois livres brûlés tout seul pendant neuf ans. Monsieur Dmitri a porté six semaines de soupçon tout seul. Monsieur Sergei a porté quatorze interrogatoires tout seul. Chacun a cru qu’il épargnait les deux autres, et le résultat est dans un garage, dehors, avec une casquette sur le capot.
+— Parce que si je ne le dis qu’à vous, vous le porterez seul. — Elle ne détourna pas le regard. — Vous avez porté trois livres brûlés tout seul pendant neuf ans. Monsieur Dmitri a porté six semaines de soupçon tout seul. Monsieur Sergei a porté quatorze interrogatoires tout seul. Chacun a cru qu’il épargnait les deux autres, et le résultat est dans un garage, dehors, avec une casquette sur le capot.
 
 Silence.
 
@@ -8251,7 +8259,7 @@ Silence.
 
 — Je vous dis que cette famille l’est.
 
-Nikolaï la fixa longuement.
+Nikolai la fixa longuement.
 
 Puis il alla à la fenêtre, vit la valise sur le gravier et la voiture moteur coupé, et parla sans se retourner.
 
@@ -8345,9 +8353,9 @@ Quand elle eut fini, elle posa la feuille sur la table.
 
 Personne ne respira.
 
-— La première, c’est que je ne peux pas poser de diagnostic à partir de ça, et je ne le ferai pas, et quiconque le ferait vous mentirait. Sofia posa les doigts sur la feuille. La seconde, c’est que je fais ce métier depuis douze ans, et que je n’ai jamais vu des résultats pareils chez une personne qui allait bien, et que je ne connais aucun médecin dans ce pays qui verrait ces treize chiffres et renverrait la personne chez elle.
+— La première, c’est que je ne peux pas poser de diagnostic à partir de ça, et je ne le ferai pas, et quiconque le ferait vous mentirait. — Sofia posa les doigts sur la feuille. — La seconde, c’est que je fais ce métier depuis douze ans, et que je n’ai jamais vu des résultats pareils chez une personne qui allait bien, et que je ne connais aucun médecin dans ce pays qui verrait ces treize chiffres et renverrait la personne chez elle.
 
-Nikolaï était parfaitement immobile.
+Nikolai était parfaitement immobile.
 
 — Et la dernière ligne du rapport, continua-t-elle, est en gras, et elle est en gras parce que le laboratoire y est obligé, et elle dit ceci : *une évaluation clinique immédiate est recommandée*.
 
@@ -8383,7 +8391,7 @@ Dmitri se leva, alla à la fenêtre, et resta tourné dos à la pièce.
 
 Sergei posa son stylo sur la table et n’écrivit plus rien jusqu’à la fin.
 
-Et Nikolaï ne bougea pas.
+Et Nikolai ne bougea pas.
 
 ◆
 
@@ -8391,7 +8399,7 @@ Ce fut alors que Marina parla, assise, et elle ne dit qu’une phrase.
 
 — Elle a mangé tout ce qu’Irina posait devant elle pendant quarante-deux jours, et je pense que c’était fait exprès.
 
-Nikolaï tourna la tête.
+Nikolai tourna la tête.
 
 — Vous dites qu’elle l’a caché.
 
@@ -8421,11 +8429,11 @@ Il le posa sur la table.
 
 Une petite enveloppe kraft, usée aux coins.
 
-— Ceci était posé sur la table de cette chambre, le matin du quinze novembre deux mille dix-neuf, dit Nikolaï. Je suis entré à sept heures douze, avant Dmitri, avant Sergei, avant quiconque d’autre dans cette maison. J’ai vu, j’ai lu, je l’ai mise dans ma poche.
+— Ceci était posé sur la table de cette chambre, le matin du quinze novembre deux mille dix-neuf, dit Nikolai. Je suis entré à sept heures douze, avant Dmitri, avant Sergei, avant quiconque d’autre dans cette maison. J’ai vu, j’ai lu, je l’ai mise dans ma poche.
 
 Dmitri se retourna de la fenêtre, très lentement.
 
-— Nikolaï.
+— Nikolai.
 
 — Neuf ans, dit le Pakhan. En octobre, dans cette maison, quand la femme de Sasha a apporté à cette table la lettre qu’elle avait reçue, je vous ai dit à tous les trois qu’il y avait eu une lettre dans cette chambre. Je ne l’ai jamais montrée. J’ai fait trois choses seul ce mois de décembre-là, et je vous en ai raconté deux la semaine dernière.
 
@@ -8467,15 +8475,15 @@ Ce fut Marina qui parla la première, et ce fut la seule phrase qu’elle pronon
 
 ◆
 
-— J’ai lu ceci à sept heures douze le matin du quinze, dit Nikolaï.
+— J’ai lu ceci à sept heures douze le matin du quinze, dit Nikolai.
 
 Il était assis. Il s’était assis quand Sasha avait commencé à lire et ne s’était pas relevé depuis.
 
 — Je l’ai lu trois fois, debout dans cette chambre, ma mère sur le lit derrière moi, dit-il. Et je l’ai mise dans ma poche, et je suis descendu, et j’ai dit à Dmitri qu’elle était morte dans son sommeil.
 
-— Nikolaï—
+— Nikolai—
 
-— Je sais ce que vous vous demandez. Il releva la tête. Vous vous demandez pourquoi je ne l’ai jamais montrée. Et je vais répondre, et la réponse n’a rien de noble.
+— Je sais ce que vous vous demandez. — Il releva la tête. — Vous vous demandez pourquoi je ne l’ai jamais montrée. Et je vais répondre, et la réponse n’a rien de noble.
 
 Personne ne dit rien.
 
@@ -8493,7 +8501,7 @@ Dmitri attendit près d’une heure.
 
 Il attendit que Sasha sorte dans la cour, attendit qu’Irina apporte le café et reparte, attendit que Sergei finisse d’écrire. Et alors il dit, avec la voix la plus raisonnable du monde, la chose qu’Ivan attendait depuis huit heures du matin :
 
-— Nikolaï, nous pouvons nous arrêter là.
+— Nikolai, nous pouvons nous arrêter là.
 
 Le Pakhan ne répondit pas.
 
@@ -8501,9 +8509,9 @@ Le Pakhan ne répondit pas.
 
 — Nous avons la lettre, dit Sergei.
 
-— Nous avons une feuille de papier qu’un ennemi de cette famille a glissée dans la voiture d’un mort. Dmitri écarta les mains. Sergei, je porte ça devant quelle table ? Je mets combien d’hommes sur quoi ?
+— Nous avons une feuille de papier qu’un ennemi de cette famille a glissée dans la voiture d’un mort. — Dmitri écarta les mains. — Sergei, je porte ça devant quelle table ? Je mets combien d’hommes sur quoi ?
 
-— Dites le reste, dit Nikolaï.
+— Dites le reste, dit Nikolai.
 
 — Le reste, c’est que si cette histoire sort de cette pièce, dans six mois la moitié de la Slovaquie orientale dira qu’on a tué la mère des Yakovlev dans la maison des Yakovlev, avec ses trois fils dormant deux étages plus bas, et que personne n’a jamais su qui. Dmitri dit cela sans aucune cruauté, ce qui était pire. Et ils auront raison. Et une maison dont on dit cela ne survit pas deux ans.
 
@@ -8527,13 +8535,13 @@ Ce fut alors qu’Ivan parla.
 
 Tous se tournèrent vers lui.
 
-— Je suis contre, et je vais dire pourquoi en deux phrases, et après je me tais. Il lâcha le dossier de sa chaise. La première : celui qui a écrit ça n’a pas écrit deux lignes pour aider une dame malade. Il a écrit deux lignes et a reçu, en échange, le droit d’entrer dans cette maison trois fois par la porte de derrière. Il a payé dix-huit mots pour une clé.
+— Je suis contre, et je vais dire pourquoi en deux phrases, et après je me tais. — Il lâcha le dossier de sa chaise. — La première : celui qui a écrit ça n’a pas écrit deux lignes pour aider une dame malade. Il a écrit deux lignes et a reçu, en échange, le droit d’entrer dans cette maison trois fois par la porte de derrière. Il a payé dix-huit mots pour une clé.
 
 — Et la seconde ? dit Dmitri.
 
-— La seconde, c’est qu’il a réutilisé cette clé en janvier, et encore en décembre, et la dernière fois, c’était il y a trois jours, dans une boîte à gants, et un homme de soixante-trois ans en est mort. Ivan regarda le Pakhan. Refermer le dossier ne rend pas la clé, Nikolaï. Ça nous fait juste arrêter de regarder pendant qu’elle continue à s’en servir.
+— La seconde, c’est qu’il a réutilisé cette clé en janvier, et encore en décembre, et la dernière fois, c’était il y a trois jours, dans une boîte à gants, et un homme de soixante-trois ans en est mort. — Ivan regarda le Pakhan. — Refermer le dossier ne rend pas la clé, Nikolai. Ça nous fait juste arrêter de regarder pendant qu’elle continue à s’en servir.
 
-Nikolaï le fixa.
+Nikolai le fixa.
 
 Puis il se tourna vers Marina, qui n’avait rien dit depuis le début.
 
@@ -8575,7 +8583,7 @@ Elle resta là, appuyée au chambranle, la chemise sortie du pantalon, le visage
 
 — Je ne te demande pas de le retirer.
 
-— Je sais que non. Elle entra et referma la porte. Je suis venue te dire ce que je te dois depuis vendredi.
+— Je sais que non. — Elle entra et referma la porte. — Je suis venue te dire ce que je te dois depuis vendredi.
 
 Ivan se leva.
 
@@ -8673,7 +8681,7 @@ Puis elle tourna la tête et embrassa son épaule, une fois.
 
 — C’est tout ?
 
-— C’est tout. Elle ferma les yeux. Je me suis disputée avec toi hier parce que tu n’avais pas parlé. Je ne vais pas me disputer aujourd’hui parce que tu as parlé.
+— C’est tout. — Elle ferma les yeux. — Je me suis disputée avec toi hier parce que tu n’avais pas parlé. Je ne vais pas me disputer aujourd’hui parce que tu as parlé.
 
 Il rit doucement, et le rire les secoua tous les deux.
 
@@ -8779,7 +8787,7 @@ Ils étaient dans le salon du rez-de-chaussée, porte fermée, et il faisait les
 
 — Combien de personnes l’ont lu ? demanda Marina.
 
-— Sergei. Le Pakhan. Dmitri, parce que tout ce qui touche à l’argent venu de l’extérieur passe par le consigliere. Il s’arrêta. Et les archives.
+— Sergei. Le Pakhan. Dmitri, parce que tout ce qui touche à l’argent venu de l’extérieur passe par le consigliere. — Il s’arrêta. — Et les archives.
 
 — Combien de personnes ont accès aux archives ?
 
@@ -8811,7 +8819,7 @@ Ivan regarda son propre manteau.
 
 — Mange, Ivan.
 
-— Marina, cette phrase est de moi. Il appuya l’épaule contre le mur, et ce fut la première fois depuis Trieste qu’elle voyait cet homme avoir besoin d’un mur. J’ai écrit cinq mots sur une feuille à deux heures dix du matin pour m’obliger à rester du bon côté de la ligne, et quelqu’un a pris mes cinq mots et s’en est servi pour retirer deux hommes de ta rue.
+— Marina, cette phrase est de moi. — Il appuya l’épaule contre le mur, et ce fut la première fois depuis Trieste qu’elle voyait cet homme avoir besoin d’un mur. — J’ai écrit cinq mots sur une feuille à deux heures dix du matin pour m’obliger à rester du bon côté de la ligne, et quelqu’un a pris mes cinq mots et s’en est servi pour retirer deux hommes de ta rue.
 
 — Je sais.
 
@@ -8823,13 +8831,13 @@ Elle se planta devant lui.
 
 — Comment ça ?
 
-— Si tu n’avais rien consigné. Si tu avais posté deux hommes sur cette route en secret, comme le font les gens normaux de cette famille. Marina ne haussa pas la voix. Ils seraient partis de toute façon, Ivan, parce que celui qui a appelé a payé les cinq nuits au montant exact, sur le bon compte. Cette personne savait déjà tout. Ta feuille ne lui a rien donné. Ta feuille ne fait que te laisser avec la culpabilité.
+— Si tu n’avais rien consigné. Si tu avais posté deux hommes sur cette route en secret, comme le font les gens normaux de cette famille. — Marina ne haussa pas la voix. — Ils seraient partis de toute façon, Ivan, parce que celui qui a appelé a payé les cinq nuits au montant exact, sur le bon compte. Cette personne savait déjà tout. Ta feuille ne lui a rien donné. Ta feuille ne fait que te laisser avec la culpabilité.
 
 Ivan la regarda.
 
 — Ça ne me fait pas me sentir mieux.
 
-— Ce n’était pas le but. Elle sortit le pain de sa poche et le lui mit dans la main. Le but, c’était que tu arrêtes de porter la mauvaise chose. Mange.
+— Ce n’était pas le but. — Elle sortit le pain de sa poche et le lui mit dans la main. — Le but, c’était que tu arrêtes de porter la mauvaise chose. Mange.
 
 Il mangea.
 
@@ -8843,11 +8851,11 @@ Et elle attendit qu’il finisse, parce qu’elle avait passé toute la matinée
 
 — Et les archives.
 
-— Je dois te dire une chose à propos de l’un d’eux. Marina mit les mains dans les poches de son manteau. Et tu vas être en colère, et tu en as le droit.
+— Je dois te dire une chose à propos de l’un d’eux. — Marina mit les mains dans les poches de son manteau. — Et tu vas être en colère, et tu en as le droit.
 
 Il arrêta de mâcher.
 
-— L’homme du café, à l’office. En deux mille dix-neuf, à sept heures dix du matin. Celui qui m’a expliqué deux fois que j’avais vu les couvreurs. Elle le regarda sans détourner les yeux. C’était Dmitri.
+— L’homme du café, à l’office. En deux mille dix-neuf, à sept heures dix du matin. Celui qui m’a expliqué deux fois que j’avais vu les couvreurs. — Elle le regarda sans détourner les yeux. — C’était Dmitri.
 
 Le couloir de l’aile ouest devint totalement silencieux.
 
@@ -8857,11 +8865,11 @@ Ivan ne bougea pas pendant un temps qu’elle ne compta pas.
 
 — Ivan—
 
-— Non, Marina. Sa voix ne monta pas. Cet homme m’a sorti d’un commissariat de Bratislava quand j’avais dix-neuf ans, à quatre heures du matin, et il n’en a jamais parlé à mon oncle. Cet homme s’est assis avec moi trois nuits de suite en deux mille seize, après la route d’Ostrava, parce que Nikolaï ne pouvait s’asseoir avec personne.
+— Non, Marina. Sa voix ne monta pas. Cet homme m’a sorti d’un commissariat de Bratislava quand j’avais dix-neuf ans, à quatre heures du matin, et il n’en a jamais parlé à mon oncle. Cet homme s’est assis avec moi trois nuits de suite en deux mille seize, après la route d’Ostrava, parce que Nikolai ne pouvait s’asseoir avec personne.
 
 — Je sais qui il est.
 
-— Tu ne sais pas qui il est. Il appuya le dos contre le mur. Tu me dis ça aujourd’hui. Le jour même où quelqu’un a utilisé mon rapport pour retirer deux hommes de ta rue. Avec son nom sur la liste de ceux qui l’ont lu.
+— Tu ne sais pas qui il est. — Il appuya le dos contre le mur. — Tu me dis ça aujourd’hui. Le jour même où quelqu’un a utilisé mon rapport pour retirer deux hommes de ta rue. Avec son nom sur la liste de ceux qui l’ont lu.
 
 — Je ne dis pas que c’est lui qui a appelé.
 
@@ -8881,7 +8889,7 @@ Ivan ferma les yeux.
 
 — J’ai menti.
 
-— Tu as menti. Il rouvrit les yeux. Quatre jours après m’avoir traité de lâche dans un couloir parce que je ne t’avais pas dit une chose le jour même.
+— Tu as menti. — Il rouvrit les yeux. — Quatre jours après m’avoir traité de lâche dans un couloir parce que je ne t’avais pas dit une chose le jour même.
 
 Marina ne se défendit pas.
 
@@ -8911,7 +8919,7 @@ Le jeune de chez Sergei avait crié cette plaque trois fois dans le parking de K
 
 — Et tu le crois ?
 
-— Je le crois. Il enfila son manteau sans la regarder. Viens avec moi.
+— Je le crois. — Il enfila son manteau sans la regarder. — Viens avec moi.
 
 Ils ne parlèrent de rien d’autre sur la route. Ni du couloir, ni de l’office, ni du nom qu’elle avait prononcé à onze heures. Quarante minutes de radio éteinte et ses mains sur le volant.
 
@@ -8937,7 +8945,7 @@ Marina se tourna sur son siège.
 
 — Tu as acheté une société de location ?
 
-— Je vais l’acheter demain matin. Ivan prit la route. Et à partir de demain, chaque fois que quelqu’un dans cette région voudra louer une camionnette sans contrat ni pièce d’identité contre cent vingt euros en liquide, l’homme qui recevra cet argent travaillera pour moi, et le visage de celui qui paiera arrivera ici avant même que la camionnette ne quitte la cour.
+— Je vais l’acheter demain matin. — Ivan prit la route. — Et à partir de demain, chaque fois que quelqu’un dans cette région voudra louer une camionnette sans contrat ni pièce d’identité contre cent vingt euros en liquide, l’homme qui recevra cet argent travaillera pour moi, et le visage de celui qui paiera arrivera ici avant même que la camionnette ne quitte la cour.
 
 — Tu n’as pas menacé cet homme.
 
@@ -8977,7 +8985,7 @@ Et à cinq heures, Sofia appela Marina dans la bibliothèque, lui retira les tro
 
 ◆
 
-Nikolaï apparut dans la cour à cinq heures et demie, en manteau, et se dirigea vers la vieille guérite.
+Nikolai apparut dans la cour à cinq heures et demie, en manteau, et se dirigea vers la vieille guérite.
 
 Ivan le vit de loin et ne le suivit pas.
 
@@ -9060,6 +9068,9 @@ Marina resta assise au bord du lit, le papier ouvert dans la paume de la main, p
 La première fois, on avait lu sa boîte.
 
 La seconde fois, on avait lu sa boîte et on l’avait replacée exactement comme elle la range.
+
+---
+
 # Chapitre 33
 
 Il tint deux jours.
@@ -9106,7 +9117,7 @@ Marina ne bougea pas.
 
 — Et les six semaines, dit Ivan.
 
-— Les six semaines, je les ai passées à croire qu’elle avait organisé sa propre mort et que je l’avais aidée. Il regarda le dossier sur son bureau. C’est pour ça que j’ai clos le compte tout seul. C’est pour ça que j’ai voulu refermer cette affaire deux fois. C’est pour ça que j’ai demandé à Bruno si tu étais déjà parti de Marseille au lieu de t’appeler, le jour où j’ai vu son nom sur cette feuille. Et c’est pour ça que je suis descendu à ces archives derrière vous deux. Je voulais savoir si cette nuit-là était écrite quelque part.
+— Les six semaines, je les ai passées à croire qu’elle avait organisé sa propre mort et que je l’avais aidée. — Il regarda le dossier sur son bureau. — C’est pour ça que j’ai clos le compte tout seul. C’est pour ça que j’ai voulu refermer cette affaire deux fois. C’est pour ça que j’ai demandé à Bruno si tu étais déjà parti de Marseille au lieu de t’appeler, le jour où j’ai vu son nom sur cette feuille. Et c’est pour ça que je suis descendu à ces archives derrière vous deux. Je voulais savoir si cette nuit-là était écrite quelque part.
 
 — Et l’appel de lundi ? dit Ivan. Les deux hommes de la route.
 
@@ -9128,7 +9139,7 @@ Ce fut Marina qui parla en dernier.
 
 — Je ne l’ai pas demandé.
 
-— Je sais que non. Elle resta silencieuse un moment. Vous allez le dire à votre frère ?
+— Je sais que non. — Elle resta silencieuse un moment. — Vous allez le dire à votre frère ?
 
 — Après l’enterrement.
 
@@ -9158,7 +9169,7 @@ Il resta à côté d’elle.
 
 — Oui.
 
-— Et j’ai passé ces deux jours à compter combien de fois j’ai fait la même chose avec toi depuis Trieste. Il appuya l’épaule contre le mur. Ça a fait plus d’une fois.
+— Et j’ai passé ces deux jours à compter combien de fois j’ai fait la même chose avec toi depuis Trieste. — Il appuya l’épaule contre le mur. — Ça a fait plus d’une fois.
 
 Marina le regarda.
 
@@ -9180,7 +9191,7 @@ Il y avait le Pakhan, le consigliere, le chef de la sécurité, Sasha, Ivan, Mar
 
 La sœur se tint debout à la porte de l’église et serra la main de tout le monde.
 
-Quand vint le tour de Nikolaï, elle prit sa main entre les siennes et ne la lâcha pas, et dit quelque chose que personne n’entendit, et le Pakhan baissa la tête et la garda baissée jusqu’à ce qu’elle finisse.
+Quand vint le tour de Nikolai, elle prit sa main entre les siennes et ne la lâcha pas, et dit quelque chose que personne n’entendit, et le Pakhan baissa la tête et la garda baissée jusqu’à ce qu’elle finisse.
 
 Ivan vit cela à trois mètres.
 
@@ -9198,7 +9209,7 @@ Puis elle dit :
 
 — La sœur de l’homme mort à l’intérieur du mur de cette maison a remercié le maître de cette maison, Ivan.
 
-— Elle l’a remercié parce que la maison a payé un enterrement qu’elle n’aurait pas pu payer elle-même, et parce que Sergei a apporté la boîte de ses affaires en personne plutôt que de l’envoyer. Ivan regarda la route. Ce n’est pas beau. C’est comme ça que ça marche. C’est comme ça qu’une maison comme la mienne achète les gens depuis cinquante ans, et parfois c’est sincère et parfois c’est un calcul, et aujourd’hui c’était sincère et ça reste un calcul.
+— Elle l’a remercié parce que la maison a payé un enterrement qu’elle n’aurait pas pu payer elle-même, et parce que Sergei a apporté la boîte de ses affaires en personne plutôt que de l’envoyer. — Ivan regarda la route. — Ce n’est pas beau. C’est comme ça que ça marche. C’est comme ça qu’une maison comme la mienne achète les gens depuis cinquante ans, et parfois c’est sincère et parfois c’est un calcul, et aujourd’hui c’était sincère et ça reste un calcul.
 
 Elle resta silencieuse encore un moment.
 
@@ -9214,13 +9225,13 @@ Elle resta silencieuse encore un moment.
 
 La table se réunit à quatre heures de l’après-midi, tout le monde encore en noir.
 
-Nikolaï ouvrit sans préambule.
+Nikolai ouvrit sans préambule.
 
 — J’ai décidé, dit-il. Nous allons refermer le dossier.
 
 Sergei posa son stylo sur la table.
 
-— Dmitri a déjà dit mercredi tout ce que je pourrais dire sur le fait que nous n’avons ni nom, ni visage, ni crime que je puisse porter où que ce soit, et je ne vais pas répéter cet homme. Le Pakhan resta debout. Je vais dire les deux raisons qui sont miennes.
+— Dmitri a déjà dit mercredi tout ce que je pourrais dire sur le fait que nous n’avons ni nom, ni visage, ni crime que je puisse porter où que ce soit, et je ne vais pas répéter ce qu’il a dit. — Le Pakhan resta debout. — Je vais dire mes deux raisons à moi.
 
 Personne ne bougea.
 
@@ -9228,7 +9239,7 @@ Personne ne bougea.
 
 — Vous n’en êtes pas la cause, dit Sasha.
 
-— Je suis le Pakhan. Je suis toujours la cause. Il posa les deux mains sur la table. Et la seconde, celle que je n’ai pas dite jusqu’ici : si nous continuons, la prochaine personne qui meurt dans cette maison, c’est madame Costa.
+— Je suis le Pakhan. Je suis toujours la cause. — Il posa les deux mains sur la table. — Et la seconde, celle que je n’ai pas dite jusqu’ici : si nous continuons, la prochaine personne qui meurt dans cette maison, c’est madame Costa.
 
 Ivan parla avant de réfléchir.
 
@@ -9252,7 +9263,7 @@ Sasha, du bout de la table, dit à mi-voix :
 
 — Il était temps.
 
-Nikolaï regarda son cousin.
+Nikolai regarda son cousin.
 
 — Madame Costa le sait ?
 
@@ -9274,7 +9285,7 @@ Et Sergei écrivit quelque chose sur son bloc qu’il ne lut pas à voix haute.
 
 Personne ne parla.
 
-— Je ne devine pas, poursuivit Nikolaï. En deux semaines, cette personne a envoyé un homme briser la vitre d’une voiture pour lui arracher un dossier des mains, a retiré deux gardes de sa rue avec cinq mots copiés d’un de mes papiers, et est entrée dans sa chambre dans cette maison je ne sais combien de fois. Je ne vais pas rester assis à cette table à attendre la troisième.
+— Je ne devine pas, poursuivit Nikolai. En deux semaines, cette personne a envoyé un homme briser la vitre d’une voiture pour lui arracher un dossier des mains, a retiré deux gardes de sa rue avec cinq mots copiés d’un de mes papiers, et est entrée dans sa chambre dans cette maison je ne sais combien de fois. Je ne vais pas rester assis à cette table à attendre la troisième.
 
 Il se redressa.
 
@@ -9298,7 +9309,7 @@ Dmitri ferma les yeux.
 
 — La raison indiquée est que je ne suis pas impartial, dit-il. Je l’avais déjà écrit une fois, dans le rapport zéro zéro soixante et onze, à deux heures dix du matin, et ce jour-là j’ai cru que le déclarer suffisait. Ça ne suffit pas.
 
-Nikolaï ne prit pas le papier.
+Nikolai ne prit pas le papier.
 
 — Tu me fais chanter.
 
@@ -9324,9 +9335,9 @@ Ivan compta. Il ne put pas s’en empêcher.
 
 — Sergei—
 
-— Je n’ai rien écrit parce que je ne savais pas qu’il allait faire ça, et je vais écrire ce soir, et ce sera sur ton bureau à sept heures du matin. Il parlait à son frère sans aucune émotion dans la voix et la mâchoire serrée. Un chef de la sécurité qui verrouille un portail après qu’un homme est mort à l’intérieur n’est pas un chef de la sécurité. C’est un gardien d’immeuble.
+— Je n’ai rien écrit parce que je ne savais pas qu’il allait faire ça, et je vais écrire ce soir, et ce sera sur ton bureau à sept heures du matin. — Il parlait à son frère sans aucune émotion dans la voix et la mâchoire serrée. — Un chef de la sécurité qui verrouille un portail après qu’un homme est mort à l’intérieur n’est pas un chef de la sécurité. C’est un gardien d’immeuble.
 
-Nikolaï le regarda.
+Nikolai le regarda.
 
 — Tu fais ça à cause de lui ?
 
@@ -9334,9 +9345,9 @@ Nikolaï le regarda.
 
 Sasha posa les deux mains sur la table et commença à se lever.
 
-— Assieds-toi, dit Nikolaï.
+— Assieds-toi, dit Nikolai.
 
-— Nikolaï—
+— Nikolai—
 
 — Assieds-toi, Aleksandr.
 
@@ -9348,13 +9359,13 @@ Le Pakhan resta debout au bout de cette longue table pendant un temps que person
 
 Ce fut Dmitri qui parla.
 
-— Nikolaï, j’ai demandé qu’on referme le dossier, dit-il, tout bas. Et je continue de penser que refermer est le bon calcul. Et je regarde cette table, et je vais dire une chose que je n’ai jamais dite en dix-huit ans de consigliere.
+— Nikolai, j’ai demandé qu’on referme le dossier, dit-il, tout bas. Et je continue de penser que refermer est le bon calcul. Et je regarde cette table, et je vais dire une chose que je n’ai jamais dite en dix-huit ans de consigliere.
 
 — Dites-la.
 
 — Le bon calcul ne vaut pas le prix qu’il coûte.
 
-Nikolaï baissa la tête.
+Nikolai baissa la tête.
 
 Il resta ainsi environ cinq secondes.
 
@@ -9368,7 +9379,7 @@ Puis il prit le papier plié en trois au milieu de la table, sans l’ouvrir, et
 
 Sergei releva la tête.
 
-— La maison ne ferme pas, répéta Nikolaï, et à partir de demain madame Costa ne se déplace plus seule sur cette propriété, pas même pour aller à l’office, et quiconque s’en plaint vient m’en parler à moi. Il regarda Marina. Et vous allez devoir accepter ça, et je sais que vous détestez ça, et je ne vais pas discuter.
+— La maison ne ferme pas, répéta Nikolai, et à partir de demain madame Costa ne se déplace plus seule sur cette propriété, pas même pour aller à l’office, et quiconque s’en plaint vient m’en parler à moi. — Il regarda Marina. — Et vous allez devoir accepter ça, et je sais que vous détestez ça, et je ne vais pas discuter.
 
 Marina se leva.
 
@@ -9392,7 +9403,7 @@ Elle ferma la porte et posa le front contre elle, dos à lui, et resta ainsi.
 
 — Ivan.
 
-— Marina, j’ai quarante-cinq ans, et je suis ce poste depuis mes vingt-six ans. Il ôta son manteau et le posa sur la chaise. Je ne sais pas qui je suis sans lui, et j’ai écrit ce papier à six heures dix ce matin, et je n’ai pas tremblé, et ça m’a effrayé plus que tout ce qui s’est passé ces deux semaines.
+— Marina, j’ai quarante-cinq ans, et je suis ce poste depuis mes vingt-six ans. — Il ôta son manteau et le posa sur la chaise. — Je ne sais pas qui je suis sans lui, et j’ai écrit ce papier à six heures dix ce matin, et je n’ai pas tremblé, et ça m’a effrayé plus que tout ce qui s’est passé ces deux semaines.
 
 Elle se retourna.
 
@@ -9440,7 +9451,7 @@ Et ils restèrent longtemps sans bouger.
 
 On frappa à la porte à onze heures vingt.
 
-Ivan enfila son pantalon et ouvrit, la chaîne encore mise, puis retira la chaîne, parce que c’était Nikolaï.
+Ivan enfila son pantalon et ouvrit, la chaîne encore mise, puis retira la chaîne, parce que c’était Nikolai.
 
 Le Pakhan était en manteau, dans le couloir, le visage de quelqu’un qui n’était pas allé se coucher.
 
@@ -9450,7 +9461,7 @@ Il ne regarda pas à l’intérieur de la chambre. Ne fit aucune remarque. Resta
 
 Ivan ne dit rien.
 
-— J’irai seul, et je n’apporterai aucun papier, je n’apporterai pas cette feuille, continua Nikolaï. Mais je vous veux tous les deux dans le couloir.
+— J’irai seul, et je n’apporterai aucun papier, je n’apporterai pas cette feuille, continua Nikolai. Mais je vous veux tous les deux dans le couloir.
 
 — Pourquoi ?
 
@@ -9472,7 +9483,7 @@ Deux fois, ils entendirent la voix de Grigori monter un peu puis redescendre. Un
 
 À neuf heures quarante-sept, la porte s’ouvrit.
 
-Nikolaï sortit, referma derrière lui avec soin, et resta dos à la porte, la main encore sur la poignée.
+Nikolai sortit, referma derrière lui avec soin, et resta dos à la porte, la main encore sur la poignée.
 
 Il ne regarda ni l’un ni l’autre.
 
@@ -9506,7 +9517,7 @@ Le mur du fond était là.
 
 Sur les côtés, les plaques de la famille, sombres, avec une ligne en russe sous le nom. Et seule au fond, plus petite, la claire, avec deux choses écrites et la moitié du bas vide.
 
-Nikolaï s’en approcha.
+Nikolai s’en approcha.
 
 Il posa les doigts sur la pierre, à la hauteur du nom, de la même façon qu’Ivan l’avait fait douze jours plus tôt.
 
@@ -9516,13 +9527,13 @@ Et resta ainsi.
 
 — Il m’a demandé si j’avais bien fait, dit-il finalement.
 
-Sa voix sortit normale, et c’est précisément ce qui la rendait terrible.
+Sa voix était normale, et c’est précisément ce qui la rendait terrible.
 
-— Quarante minutes, et pendant trente-cinq il était en mille neuf cent quatre-vingt-seize, et il m’a appelé monsieur Yakovlev et a parlé d’une cargaison d’acier. Le Pakhan ne retira pas ses doigts de la pierre. Et puis il m’a regardé et m’a appelé Kolya, et il ne m’appelle plus Kolya depuis que j’ai dix-neuf ans, et il a dit : *petit, j’ai bien fait ?*
+— Quarante minutes, et pendant trente-cinq il était en mille neuf cent quatre-vingt-seize, et il m’a appelé monsieur Yakovlev et a parlé d’une cargaison d’acier. — Le Pakhan ne retira pas ses doigts de la pierre. — Et puis il m’a regardé et m’a appelé Kolya, et il ne m’appelle plus Kolya depuis que j’ai dix-neuf ans, et il a dit : *petit, j’ai bien fait ?*
 
 Personne ne parla.
 
-— J’ai demandé ce qu’il avait fait, poursuivit Nikolaï. Et il a dit qu’elle lui avait demandé de ne rien dire, et qu’il n’avait rien dit, et qu’il avait attendu neuf ans que quelqu’un demande.
+— J’ai demandé ce qu’il avait fait, poursuivit Nikolai. Et il a dit qu’elle lui avait demandé de ne rien dire, et qu’il n’avait rien dit, et qu’il avait attendu neuf ans que quelqu’un demande.
 
 Il se retourna.
 
@@ -9534,15 +9545,15 @@ Il se retourna.
 
 Elle n’avait pas voulu poser la question là, à ce moment, devant cet homme face à cette pierre. Elle la posa parce qu’elle était la seule personne de la pièce dont le métier consiste à demander quand il ne faut pas.
 
-— Il a vu son visage, dit Nikolaï.
+— Il a vu son visage, dit Nikolai.
 
 — Et ?
 
-— Et il n’y arrive plus. Il a essayé. Il a essayé trois fois devant moi, et à la troisième il s’est mis à pleurer, et j’ai dit que c’était bon, et il a dit *ce n’est pas bon*, et a continué d’essayer. Le Pakhan respira profondément. J’ai dû lui tenir la main pour qu’il s’arrête.
+— Et il n’y arrive plus. Il a essayé. Il a essayé trois fois devant moi, et à la troisième il s’est mis à pleurer, et j’ai dit que c’était bon, et il a dit *ce n’est pas bon*, et a continué d’essayer. — Le Pakhan respira profondément. — J’ai dû lui tenir la main pour qu’il s’arrête.
 
 Marina ferma les yeux.
 
-— Mais il a donné une chose, dit Nikolaï.
+— Mais il a donné une chose, dit Nikolai.
 
 Elle les rouvrit.
 
@@ -9550,7 +9561,7 @@ Elle les rouvrit.
 
 — Dans l’escalier ?
 
-— Dans le couloir, pendant qu’il attendait que la porte se ferme. Nikolaï appuya le dos contre le mur froid de la chapelle et regarda le plafond refait. Elle s’est tournée vers lui et lui a posé une question, et il a répondu par politesse, et puis il est descendu, et des années plus tard, c’est la seule chose qui est restée intacte dans la tête de cet homme.
+— Dans le couloir, pendant qu’il attendait que la porte se ferme. — Nikolai appuya le dos contre le mur froid de la chapelle et regarda le plafond refait. — Elle s’est tournée vers lui et lui a posé une question, et il a répondu par politesse, et puis il est descendu, et des années plus tard, c’est la seule chose qui est restée intacte dans la tête de cet homme.
 
 — Qu’est-ce qu’elle a demandé ?
 
@@ -9564,7 +9575,7 @@ Ivan se décolla du mur.
 
 — Il a une filleule à Bardejov, dit-il lentement.
 
-— Il a une filleule à Bardejov, fille d’un des nôtres morts dans les mois qui ont suivi quatre-vingt-dix-neuf, qu’il a élevée avec son propre argent, et qui ne lui parle plus depuis deux mille dix-neuf, dit Nikolaï. Sergei a appelé cette femme deux fois au fil des années et elle a raccroché les deux fois, et tout le monde dans cette maison a pensé que c’était une brouille familiale, et je l’ai pensé aussi, et je ne lui ai jamais posé la question.
+— Il a une filleule à Bardejov, fille d’un des nôtres morts dans les mois qui ont suivi quatre-vingt-dix-neuf, qu’il a élevée avec son propre argent, et qui ne lui parle plus depuis deux mille dix-neuf, dit Nikolai. Sergei a appelé cette femme deux fois au fil des années et elle a raccroché les deux fois, et tout le monde dans cette maison a pensé que c’était une brouille familiale, et je l’ai pensé aussi, et je ne lui ai jamais posé la question.
 
 — Il a arrêté de lui parler.
 
@@ -9584,7 +9595,7 @@ Marina resta silencieuse un moment, la pluie frappant la porte ouverte du jardin
 
 — Monsieur, dit-elle enfin. Je ne vous ai jamais décrit la femme que j’ai vue dans cette chambre.
 
-Nikolaï tourna la tête.
+Nikolai tourna la tête.
 
 — Petite, dit Marina. Trapue. Cheveux gris attachés en chignon. Mains jointes devant elle, gantées. Et quand elle a retiré le gant de sa main gauche pour se tenir au chambranle, elle l’a fait comme on le fait dans une salle d’infirmerie, avant de toucher un malade.
 
@@ -9592,39 +9603,39 @@ Le Pakhan ne bougea pas.
 
 Il resta si longtemps sans bouger qu’Ivan fit un pas vers lui sans savoir pourquoi.
 
-— Ma femme m’a décrit cette femme, dit Nikolaï, très bas. Il y a trois ans. Avec ces mots-là. Dans le même ordre.
+— Ma femme m’a décrit cette femme, dit Nikolai, très bas. Il y a trois ans. Avec ces mots-là. Dans le même ordre.
 
 — Où ? demanda Ivan.
 
-— Dans un établissement thermal fermé à Vyšné Ružbachy, où cette femme a passé cinq jours à mettre une perfusion dans la veine de Grigori et à le maintenir en vie. Le Pakhan regarda la pierre claire au fond du mur. Et il a vu son visage cinq jours de suite, et en novembre deux mille dix-neuf il avait déjà vu ce visage-là dans le couloir de ma maison, et il n’a réussi à me le dire ni l’une ni l’autre fois.
+— Dans un établissement thermal fermé à Vyšné Ružbachy, où cette femme a passé cinq jours à mettre une perfusion dans la veine de Grigori et à le maintenir en vie. — Le Pakhan regarda la pierre claire au fond du mur. — Et il a vu son visage cinq jours de suite, et en novembre deux mille dix-neuf il avait déjà vu ce visage-là dans le couloir de ma maison, et il n’a réussi à me le dire ni l’une ni l’autre fois.
 
 Marina sentit le froid de la chapelle lui monter le long des jambes.
 
 — Alors c’est elle, dit-elle.
 
-— C’est elle, dit Nikolaï. Celle qui s’est occupée de mon ancien dans cet établissement thermal est celle qui était dans la chambre de ma mère en deux mille dix-neuf.
+— C’est elle, dit Nikolai. Celle qui s’est occupée de mon ancien dans cet établissement thermal est celle qui était dans la chambre de ma mère en deux mille dix-neuf.
 
 ◆
 
-Nikolaï revint devant la pierre claire.
+Nikolai revint devant la pierre claire.
 
 — Je vais dire la chose à voix haute une fois, ici, avec vous deux, et ensuite je la dirai à la table et je ne la répéterai plus jamais, dit-il.
 
 Personne ne bougea.
 
-— En novembre deux mille seize, on a mis ma femme seule sur une route et quelqu’un a payé pour ça. Il posa toute sa paume sur la pierre. J’ai passé neuf ans à chercher qui avait payé. J’ai trouvé un nom, et j’ai confirmé ce nom. Mais l’homme qui a mis ma femme sur cette route a été payé par une autre personne, et il est mort sans dire par qui. Le nom que j’avais trouvé, c’était la moitié du bas. La moitié du haut, je ne l’ai jamais atteinte.
+— En novembre deux mille seize, on a mis ma femme seule sur une route et quelqu’un a payé pour ça. — Il posa toute sa paume sur la pierre. — J’ai passé neuf ans à chercher qui avait payé. J’ai trouvé un nom, et j’ai confirmé ce nom. Mais l’homme qui a mis ma femme sur cette route a été payé par une autre personne, et il est mort sans dire par qui. Le nom que j’avais trouvé, c’était la moitié du bas. La moitié du haut, je ne l’ai jamais atteinte.
 
 Il regarda Marina.
 
 — Trois ans plus tard, la moitié du haut a monté l’escalier est de cette maison, par le côté qui ne passe pas par l’office, en invitée.
 
-— Nikolaï—
+— Nikolai—
 
 — Laisse-moi finir. Sa voix ne monta pas. Ma mère était en train de mourir depuis quarante-deux jours et aucun de nous quatre ne l’a vu. Elle a reçu une offre d’une inconnue, et cette offre, c’était de ne pas avoir à nous le dire, et elle a accepté, et elle a accepté parce que l’offre était bonne.
 
 Il retira sa main de la pierre.
 
-— On a tué ma mère dans cette maison, dit Nikolaï.
+— On a tué ma mère dans cette maison, dit Nikolai.
 
 Il dit cela en regardant la pierre et ni l’un ni l’autre d’entre eux, et ce fut la première fois en neuf ans que ces mots-là sortaient de la bouche de quelqu’un de cette famille.
 
@@ -9636,7 +9647,7 @@ Ivan fut le premier à parler après cela.
 
 — Vous dites que c’est la même personne.
 
-— Je dis que j’ai enterré deux femmes de cette maison en trois ans, et que les deux fois, la main est venue de l’extérieur, et personne dans cette famille ne l’a vue entrer. Le Pakhan regarda les murs, toutes les plaques. Et qu’il n’existe aucune organisation criminelle qui survive à ça deux fois et continue de se croire forte.
+— Je dis que j’ai enterré deux femmes de cette maison en trois ans, et que les deux fois, la main est venue de l’extérieur, et personne dans cette famille ne l’a vue entrer. — Le Pakhan regarda les murs, toutes les plaques. — Et qu’il n’existe aucune organisation criminelle qui survive à ça deux fois et continue de se croire forte.
 
 Marina fit un pas en avant.
 
@@ -9646,7 +9657,7 @@ Marina fit un pas en avant.
 
 — Vous êtes en colère contre la mauvaise personne.
 
-Nikolaï tourna lentement la tête.
+Nikolai tourna lentement la tête.
 
 — Votre mère a caché une maladie à trente-six personnes pendant quarante-deux jours, dit Marina, sans rien adoucir, parce que ce n’était pas le moment. Elle a tout mangé, elle est descendue déjeuner, elle s’est disputée avec le jardinier et a fait retoucher des vêtements. Une femme de soixante-huit ans a trompé toute cette maison, chaque jour, pendant six semaines, et elle y est parvenue.
 
@@ -9654,11 +9665,11 @@ Silence.
 
 — Ce n’est pas la maison qui est faible, dit-elle. C’est votre mère qui était exactement comme ses fils. Et c’est exactement pour ça que ça a marché avec elle : celui qui est entré ici n’a pas eu besoin de tromper une vieille femme. Il a simplement dû offrir, à une Yakovlev, la chose qu’aucun de vous ne refuse.
 
-— Quelle chose ? demanda Nikolaï.
+— Quelle chose ? demanda Nikolai.
 
 — Ne pas avoir à en parler à personne.
 
-Nikolaï resta longuement à regarder Marina.
+Nikolai resta longuement à regarder Marina.
 
 Et puis il rit.
 
@@ -9670,7 +9681,7 @@ Ce fut bref, horrible et vrai, et il porta la main à sa bouche puis renonça à
 
 Ils sortirent de la chapelle à onze heures vingt.
 
-Nikolaï s’arrêta sur l’allée de gravier, sous la pluie, et resta à regarder vers l’aile nord, vers la fenêtre du fond du premier étage, où la lumière était allumée en plein milieu de la matinée parce que cette chambre-là n’a jamais assez de lumière.
+Nikolai s’arrêta sur l’allée de gravier, sous la pluie, et resta à regarder vers l’aile nord, vers la fenêtre du fond du premier étage, où la lumière était allumée en plein milieu de la matinée parce que cette chambre-là n’a jamais assez de lumière.
 
 — Je vais faire trois choses, dit-il.
 
@@ -9688,7 +9699,7 @@ C’était l’autre.
 
 C’était le visage que Marina avait vu exactement une fois, treize jours plus tôt, quand cet homme avait racheté le contrat de location de deux camions devant elle pour montrer ce qu’était la patience.
 
-— La troisième, c’est qu’une femme que je ne connais pas a demandé à mon ancien, dans ma propre maison, où habite sa filleule, dit Nikolaï. Et cette petite est vivante, et elle habite dans cette ville, et personne dans cette famille ne lui a parlé depuis neuf ans.
+— La troisième, c’est qu’une femme que je ne connais pas a demandé à mon ancien, dans ma propre maison, où habite sa filleule, dit Nikolai. Et cette petite est vivante, et elle habite dans cette ville, et personne dans cette famille ne lui a parlé depuis neuf ans.
 
 Il se mit à marcher vers la maison.
 
@@ -9698,7 +9709,7 @@ Il se mit à marcher vers la maison.
 
 # Chapitre 35
 
-Avant de partir, Nikolaï écrivit une feuille et la fit punaiser au mur de l’office, à côté de celle que Sergei avait punaisée trois jours plus tôt.
+Avant de partir, Nikolai écrivit une feuille et la fit punaiser au mur de l’office, à côté de celle que Sergei avait punaisée trois jours plus tôt.
 
 Ce n’était pas une consigne de sécurité.
 
@@ -9712,13 +9723,13 @@ Et en dessous, sur la quatrième ligne :
 
 Sergei la lut debout à l’office, à midi, vingt personnes autour de lui faisant semblant de déjeuner.
 
-Puis il alla chercher un marteau et enfonça le second coin, que Nikolaï avait laissé libre.
+Puis il alla chercher un marteau et enfonça le second coin, que Nikolai avait laissé libre.
 
 ◆
 
 Bardejov est à une heure cinquante, et ils mirent deux heures dix parce qu’il se mit à pleuvoir après Vranov.
 
-Nikolaï voyageait à l’arrière, côté droit.
+Nikolai voyageait à l’arrière, côté droit.
 
 Il ne parla pas pendant les quatre-vingts premiers kilomètres. Puis il dit, à la fenêtre :
 
@@ -9726,11 +9737,11 @@ Il ne parla pas pendant les quatre-vingts premiers kilomètres. Puis il dit, à 
 
 — La filleule, dit Marina.
 
-— La filleule. Son père était l’un des nôtres, mort dans les mois qui ont suivi quatre-vingt-dix-neuf, et Grigori a payé l’école, le loyer et le mariage, et allait la voir une fois par mois jusqu’en deux mille dix-neuf. Zlata Hudáková. Trente-quatre ans, travaille dans un laboratoire de prothèses dentaires, habite derrière la gare routière de Bardejov, a un fils de neuf ans. Il continua de regarder par la fenêtre. Je sais ça depuis deux mille vingt et un, parce que Sergei rassemble ce genre de choses et me les remet sur une feuille, et je lis la feuille et je la mets dans un tiroir.
+— La filleule. Son père était l’un des nôtres, mort dans les mois qui ont suivi quatre-vingt-dix-neuf, et Grigori a payé l’école, le loyer et le mariage, et allait la voir une fois par mois jusqu’en deux mille dix-neuf. Zlata Hudáková. Trente-quatre ans, travaille dans un laboratoire de prothèses dentaires, habite derrière la gare routière de Bardejov, a un fils de neuf ans. — Il continua de regarder par la fenêtre. — Je sais ça depuis deux mille vingt et un, parce que Sergei rassemble ce genre de choses et me les remet sur une feuille, et je lis la feuille et je la mets dans un tiroir.
 
 — Et vous n’avez jamais appelé.
 
-— J’ai envoyé Sergei appeler deux fois, ce qui est pire que de ne pas appeler du tout, dit Nikolaï. Une femme raccroche au nez d’un inconnu. Si ça avait été moi, elle aurait raccroché au nez du maître de la maison, et là je n’aurais plus pu faire semblant que c’était une brouille familiale.
+— J’ai envoyé Sergei appeler deux fois, ce qui est pire que de ne pas appeler du tout, dit Nikolai. Une femme raccroche au nez d’un inconnu. Si ça avait été moi, elle aurait raccroché au nez du maître de la maison, et là je n’aurais plus pu faire semblant que c’était une brouille familiale.
 
 Ivan regarda dans le rétroviseur.
 
@@ -9742,7 +9753,7 @@ Ivan regarda dans le rétroviseur.
 
 Ils s’arrêtèrent à Vranov pour faire le plein, sous une pluie fine qui ne mouillait pas vraiment.
 
-Nikolaï resta sur la banquette arrière, le téléphone à l’oreille, et Marina descendit pour se dégourdir les jambes, et Ivan descendit derrière elle, et tous deux restèrent près de la pompe, dos à la voiture, dans l’odeur d’essence et d’asphalte mouillé.
+Nikolai resta sur la banquette arrière, le téléphone à l’oreille, et Marina descendit pour se dégourdir les jambes, et Ivan descendit derrière elle, et tous deux restèrent près de la pompe, dos à la voiture, dans l’odeur d’essence et d’asphalte mouillé.
 
 Elle avait froid et ne le dit pas.
 
@@ -9752,7 +9763,7 @@ Il retira sa propre écharpe et l’enroula deux fois autour de son cou, par-des
 
 — Hm.
 
-— Une petite qu’un vieil homme a élevée avec son propre argent, et qu’il a retranchée de sa vie pour qu’elle n’existe pas. Elle regarda la route. Tu sais à quoi je pense.
+— Une petite qu’un vieil homme a élevée avec son propre argent, et qu’il a retranchée de sa vie pour qu’elle n’existe pas. — Elle regarda la route. — Tu sais à quoi je pense.
 
 — Je sais.
 
@@ -9764,7 +9775,7 @@ Marina resta silencieuse un moment.
 
 — Je ne sais pas si je vais réussir à regarder cette femme en face.
 
-— Tu vas réussir. Il tira doucement sur les deux bouts de l’écharpe, et elle vint avec, d’un demi-pas, jusqu’à ce que son front touche son menton. Et après, tu monteras dans la voiture, tu t’assiéras à côté de moi, et je conduirai la main sur ton genou jusqu’à sa porte, et mon cousin nous verra dans le rétroviseur, et personne ne dira rien.
+— Tu vas réussir. — Il tira doucement sur les deux bouts de l’écharpe, et elle vint avec, d’un demi-pas, jusqu’à ce que son front touche son menton. — Et après, tu monteras dans la voiture, tu t’assiéras à côté de moi, et je conduirai la main sur ton genou jusqu’à sa porte, et mon cousin nous verra dans le rétroviseur, et personne ne dira rien.
 
 Elle rit, brièvement, contre son manteau.
 
@@ -9773,8 +9784,6 @@ Elle rit, brièvement, contre son manteau.
 Il ne dit rien.
 
 Il se remit à parler au téléphone.
-
-◆
 
 Et pendant les quarante derniers kilomètres jusqu’à Bardejov, la main d’Ivan resta sur son genou, et personne ne dit rien.
 
@@ -9786,13 +9795,13 @@ Elle ouvrit, la chaîne encore mise.
 
 Une femme de trente-quatre ans, cheveux attachés, vêtements de travail, avec exactement l’attitude du vieil homme qui l’avait élevée — le regard levé sans lever le menton.
 
-Elle regarda les trois.
+Elle les regarda tous les trois.
 
-Et regarda plus longtemps Nikolaï, et Ivan vit le moment exact où elle sut qui il était, parce que sa main se crispa sur la porte.
+Et regarda plus longtemps Nikolai, et Ivan vit le moment exact où elle sut qui il était, parce que sa main se crispa sur la porte.
 
 — J’ai déjà dit à l’homme qui a appelé que je n’avais rien à dire.
 
-— Vous avez parlé à mon chef de la sécurité, dit Nikolaï. Je suis Nikolaï Yakovlev.
+— Vous avez parlé à mon chef de la sécurité, dit Nikolai. Je suis Nikolai Yakovlev.
 
 — Je sais qui vous êtes.
 
@@ -9804,7 +9813,7 @@ Elle ne referma pas.
 
 Zlata ne dit rien.
 
-— La seconde, c’est que j’ai passé des années à croire que vous ne lui parliez plus à cause d’une dispute, poursuivit Nikolaï. Et j’ai découvert hier que ce n’est pas lui qui a cessé de vous parler à cause d’une dispute, et je suis venu m’excuser de ne pas l’avoir découvert en deux mille vingt.
+— La seconde, c’est que j’ai passé des années à croire que vous ne lui parliez plus à cause d’une dispute, poursuivit Nikolai. Et j’ai découvert hier que ce n’est pas lui qui a cessé de vous parler à cause d’une dispute, et je suis venu m’excuser de ne pas l’avoir découvert en deux mille vingt.
 
 Sa main lâcha la porte.
 
@@ -9834,7 +9843,7 @@ Elle appuya sur trois touches et le posa au milieu de la table.
 
 ◆
 
-La voix sortit fine et crachotante, et malgré tout, c’était bien lui.
+La voix en sortit fine et crachotante, et malgré tout, c’était bien lui.
 
 Ivan avait entendu cette voix pendant quarante-cinq ans et elle était toute là — entière, dans la bonne année, sans une seule hésitation, un homme de soixante-quinze ans parfaitement lucide parlant tout bas dans un couloir.
 
@@ -9858,9 +9867,9 @@ Zlata referma le téléphone et ne pleura pas.
 
 — J’ai appelé quarante fois les deux semaines suivantes, dit-elle. Il n’a jamais répondu. J’ai pris un train jusqu’à Michalovce et je n’ai pas franchi le portail, parce que l’homme de la guérite a dit que monsieur Grigori ne recevait personne, et j’ai vu sur son visage qu’il ne mentait pas, alors je suis repartie.
 
-— Je ne le savais pas, dit Nikolaï.
+— Je ne le savais pas, dit Nikolai.
 
-— Je sais que vous ne le saviez pas. Elle mit le téléphone dans la poche de son tablier. À l’époque, j’avais vingt-cinq ans, et j’en ai passé deux à croire que mon parrain était devenu fou, puis trois à croire qu’il avait fait quelque chose et qu’il avait peur, et les quatre dernières années, je n’y ai plus pensé parce que j’ai un fils et un travail.
+— Je sais que vous ne le saviez pas. — Elle mit le téléphone dans la poche de son tablier. — À l’époque, j’avais vingt-cinq ans, et j’en ai passé deux à croire que mon parrain était devenu fou, puis trois à croire qu’il avait fait quelque chose et qu’il avait peur, et les quatre dernières années, je n’y ai plus pensé parce que j’ai un fils et un travail.
 
 — Et aujourd’hui ? demanda Marina.
 
@@ -9872,11 +9881,11 @@ La femme la regarda.
 
 — Je veux le voir, dit Zlata.
 
-Nikolaï releva la tête.
+Nikolai releva la tête.
 
 — Vous le verrez.
 
-— Je ne le demande pas. Elle se redressa. Je vous préviens, parce que j’irai de toute façon, et si l’homme de la guérite me redit qu’il ne reçoit personne, je resterai assise sur ce gravier jusqu’à ce qu’on m’en porte de force.
+— Je ne le demande pas. — Elle se redressa. — Je vous préviens, parce que j’irai de toute façon, et si l’homme de la guérite me redit qu’il ne reçoit personne, je resterai assise sur ce gravier jusqu’à ce qu’on vienne me porter dehors par la force.
 
 — Madame Hudáková—
 
@@ -9916,11 +9925,11 @@ Et Ivan vit la chose se produire en elle, exactement comme avec Sergei au sous-s
 
 Personne ne bougea.
 
-— Une seule fois. Il y a de nombreuses années. Elle fronça les sourcils. J’étais enceinte, donc c’était en deux mille dix-neuf ou deux mille vingt, parce que mon fils est né en mars.
+— Une seule fois. Il y a de nombreuses années. — Elle fronça les sourcils. — J’étais enceinte, donc c’était en deux mille dix-neuf ou deux mille vingt, parce que mon fils est né en mars.
 
 — Qu’est-ce qu’elle a dit ?
 
-— Elle a demandé si monsieur Grigori était en bonne santé. Zlata haussa les épaules. Polie. Très polie. Elle parlait lentement, et son slovaque était trop bon pour être d’ici.
+— Elle a demandé si monsieur Grigori était en bonne santé. — Zlata haussa les épaules. — Polie. Très polie. Elle parlait lentement, et son slovaque était trop bon pour être d’ici.
 
 Marina posa la main sur le dossier d’une chaise.
 
@@ -9930,13 +9939,13 @@ Marina posa la main sur le dossier d’une chaise.
 
 — Et vous l’avez crue ?
 
-— Je l’ai crue parce qu’elle connaissait le nom de ma mère, morte en deux mille onze, et qu’elle savait que mon parrain avait arrêté de manger de la viande. La femme croisa les bras. Et parce qu’elle m’a appelée par le diminutif que seul mon parrain utilise.
+— Je l’ai crue parce qu’elle connaissait le nom de ma mère, morte en deux mille onze, et qu’elle savait que mon parrain avait arrêté de manger de la viande. — La femme croisa les bras. — Et parce qu’elle m’a appelée par le diminutif que seul mon parrain utilise.
 
 ◆
 
-— Vous vous souvenez du nom ? demanda Nikolaï, et sa voix sortit différente.
+— Vous vous souvenez du nom ? demanda Nikolai, et sa voix était différente.
 
-— Je ne me souviens de rien par cœur, monsieur. J’ai été élevée par mon parrain. Zlata alla jusqu’au buffet, ouvrit le deuxième tiroir et en sortit une boîte en fer-blanc. J’écris tout au dos des enveloppes, et je garde les enveloppes.
+— Je ne me souviens de rien par cœur, monsieur. J’ai été élevée par mon parrain. — Zlata alla jusqu’au buffet, ouvrit le deuxième tiroir et en sortit une boîte en fer-blanc. — J’écris tout au dos des enveloppes, et je garde les enveloppes.
 
 Cela prit près de deux minutes.
 
@@ -9946,7 +9955,7 @@ Elle la posa sur la table.
 
 Ivan se pencha.
 
-*11/12/2019 — 20h40 — dame de la maison Yakovlev, demande après le parrain, a demandé de sa santé. A dit s’appeler*
+*11/12/2019 — 20h40 — dame de la maison Yakovlev, demande après le parrain, a demandé de ses nouvelles. A dit s’appeler*
 
 Et, sur la troisième ligne, un seul mot.
 
@@ -9954,15 +9963,15 @@ Et, sur la troisième ligne, un seul mot.
 
 Ivan regarda le Pakhan.
 
-Nikolaï avait les yeux fixés sur cette enveloppe, et son visage ne disait rien, et ce fut précisément cela qu’Ivan remarqua : qu’il ne disait rien.
+Nikolai avait les yeux fixés sur cette enveloppe, et son visage ne disait rien, et ce fut précisément cela qu’Ivan remarqua : qu’il ne disait rien.
 
 — Monsieur.
 
 — Je ne connais pas.
 
-— Nikolaï.
+— Nikolai.
 
-— Je ne connais pas ce nom, Ivan, et je vais le dire deux fois parce que tu as cette tête-là. Le Pakhan ne leva pas les yeux. Il n’y a jamais eu de Helena dans cette famille, aucune Helena dans le personnel, aucune Helena dans l’orbite d’aucune de mes affaires en dix-neuf ans.
+— Je ne connais pas ce nom, Ivan, et je vais le dire deux fois parce que tu as cette tête-là. — Le Pakhan ne leva pas les yeux. — Il n’y a jamais eu de Helena dans cette famille, aucune Helena dans le personnel, aucune Helena dans l’orbite d’aucune de mes affaires en dix-neuf ans.
 
 Marina prit l’enveloppe du bout des doigts.
 
@@ -9974,11 +9983,13 @@ Marina prit l’enveloppe du bout des doigts.
 
 — Ne me remerciez pas, dit Zlata. Je veux la récupérer. Elle est à moi.
 
+---
+
 # Chapitre 36
 
 Ils revinrent de Bardejov à neuf heures vingt du soir, et aucun des deux ne parla pendant les quatre-vingts derniers kilomètres.
 
-Nikolaï descendit dans la cour, dit bonsoir, et rentra avec la copie de l’enveloppe de facture d’électricité dans la poche.
+Nikolai descendit dans la cour, dit bonsoir, et rentra avec la copie de l’enveloppe de facture d’électricité dans la poche.
 
 Marina monta directement.
 
@@ -10018,7 +10029,7 @@ Il y eut leur souffle à tous les deux et le bruit du bois de la commode cognant
 
 — Encore, Ivan.
 
-Elle vint les dents serrées sur son épaule, et il ne tint pas une seconde entière après cela.
+Elle jouit les dents serrées sur son épaule, et il ne tint pas une seconde entière après cela.
 
 ◆
 
@@ -10036,7 +10047,7 @@ Ils glissèrent tous les deux le long du mur jusqu’au sol, et restèrent longt
 
 — Tu ne l’es pas.
 
-— Je l’ai été — dit-elle. — Pendant neuf ans, j’ai été exactement elle, de l’autre côté.
+— Je l’ai été, dit-elle. Pendant neuf ans, j’ai été exactement elle, de l’autre côté.
 
 Il ne dit rien.
 
@@ -10070,7 +10081,7 @@ Marina était dans la cour et ne put éviter de se trouver sur son chemin.
 
 La femme s’arrêta.
 
-— Il m’a appelée Zlatka — dit-elle. — Personne ne m’appelle Zlatka. Lui seul.
+— Il m’a appelée Zlatka, dit-elle. Personne ne m’appelle Zlatka. Lui seul.
 
 — Je sais.
 
@@ -10078,7 +10089,7 @@ La femme s’arrêta.
 
 — Vous reviendrez ?
 
-— Je reviendrai samedi prochain — dit Zlata. — Et le samedi d’après, et celui d’après, jusqu’à ce que ce soit fini. — Elle regarda la maison, la façade entière, de cette façon dont on regarde une chose qu’on a détestée longtemps sans jamais l’avoir vue. — Pendant neuf ans, j’ai cru qu’il m’avait abandonnée.
+— Je reviendrai samedi prochain, dit Zlata. Et le samedi d’après, et celui d’après, jusqu’à ce que ce soit fini. — Elle regarda la maison, la façade entière, de cette façon dont on regarde une chose qu’on a détestée longtemps sans jamais l’avoir vue. — Pendant neuf ans, j’ai cru qu’il m’avait abandonnée.
 
 — Il a fait ça pour que vous n’existiez pas.
 
@@ -10092,13 +10103,13 @@ Ce ne fut pas discret. Ce fut le contraire de discret : ils apportèrent une �
 
 La maison entière s’arrêta pour regarder.
 
-Nikolaï était à l’intérieur quand ils arrivèrent, debout face au mur du fond, et il ne sortit pas.
+Nikolai était à l’intérieur quand ils arrivèrent, debout face au mur du fond, et il ne sortit pas.
 
 Ils retirèrent la pierre claire en quarante minutes.
 
 Marina et Ivan restèrent à la porte du jardin et n’entrèrent pas, et elle observa la scène — quatre hommes en manteau, un pied-de-biche enveloppé de tissu pour ne pas marquer le mur, l’un d’eux disant *doucement, doucement* tous les deux centimètres — et pensa qu’aucune maison au monde ne fait de cérémonie pour retirer une chose fausse du mur, et que celle-ci en faisait une.
 
-Quand la plaque sortit, Nikolaï la prit à deux mains.
+Quand la plaque sortit, Nikolai la prit à deux mains.
 
 Quarante sur trente, granit clair, avec un nom juste et une année fausse.
 
@@ -10118,7 +10129,7 @@ Le nom. La date — la bonne, novembre deux mille seize.
 
 Et la ligne du dessous.
 
-Il dicta la ligne en russe lentement, quatre mots, et le jeune homme écrivit et relut à voix haute, et Nikolaï fit corriger une lettre, et le jeune homme corrigea.
+Il dicta la ligne en russe lentement, quatre mots, et le jeune homme écrivit et relut à voix haute, et Nikolai fit corriger une lettre, et le jeune homme corrigea.
 
 Marina se trouvait à six mètres et entendit les quatre mots.
 
@@ -10192,7 +10203,7 @@ Elle traversa le couloir du rez-de-chaussée, entra dans le bureau d’Ivan sans
 
 Il leva la tête, vit son visage et se mit debout avant qu’elle n’ajoute rien.
 
-— Appelle le Pakhan — dit Marina. — Et le consigliere, et Sasha, et Sofia. Tout le monde dans la même pièce, maintenant, et je ne dirai pas un mot avant que tout le monde soit assis.
+— Appelle le Pakhan, dit Marina. Et le consigliere, et Sasha, et Sofia. Tout le monde dans la même pièce, maintenant, et je ne dirai pas un mot avant que tout le monde soit assis.
 
 ◆
 
@@ -10236,7 +10247,7 @@ Sergei écrivit, mot pour mot, sans relever la tête.
 
 Le chef de la sécurité lut à voix haute, comme il lisait tout, et quand il eut fini, il regarda son frère.
 
-— Nikolaï.
+— Nikolai.
 
 — Enregistre — dit le Pakhan.
 
@@ -10260,13 +10271,13 @@ Sergei posa son stylo sur la table.
 
 — Tu en es sûr ?
 
-— Ce nom-là, je m’en souviendrai jusqu’à ma mort — dit Sasha. — Et ce n’est pas celui-ci.
+— Ce nom-là, je m’en souviendrai jusqu’à ma mort, dit Sasha. Et ce n’est pas celui-ci.
 
-Nikolaï regardait la feuille.
+Nikolai regardait la feuille.
 
 — Pourquoi maintenant ? — dit-il.
 
-— Parce que ce matin, nous avons retiré une pierre du mur devant trente personnes — dit Ivan. — Pour la première fois en neuf ans, cette maison a fait une chose à voix haute.
+— Parce que ce matin, nous avons retiré une pierre du mur devant trente personnes, dit Ivan. Pour la première fois en neuf ans, cette maison a fait une chose à voix haute.
 
 ◆
 
@@ -10274,7 +10285,7 @@ Ce fut Marina qui conclut.
 
 — Je veux une chose — dit-elle.
 
-— Dites — dit Nikolaï.
+— Dites — dit Nikolai.
 
 — Du papier.
 
@@ -10294,7 +10305,7 @@ Le chef de la sécurité de cette maison la regarda longuement.
 
 — Où ? — demanda-t-il.
 
-Et ce fut Ivan qui répondit, de l’autre côté de la table, parce qu’il avait compris avant tous les autres et parce que sa voix sortit avant qu’il n’ait décidé de parler.
+Et ce fut Ivan qui répondit, de l’autre côté de la table, parce qu’il avait compris avant tous les autres et parce qu’il avait répondu avant même d’avoir décidé de parler.
 
 — Dans la boîte à gants de la voiture de Jozef.
 
@@ -10308,11 +10319,11 @@ Marina tourna la tête et le regarda.
 
 — Ivan—
 
-— Déverrouille-la, nettoie-la, remets-la à sa place habituelle et laisse la portière ouverte comme elle l’était — dit-il. — Comme Jozef la laissait chaque soir pendant trente-six ans.
+— Déverrouille-la, nettoie-la, remets-la à sa place habituelle et laisse la portière ouverte comme elle l’était, dit-il. Comme Jozef la laissait chaque soir pendant trente-six ans.
 
 Sergei regarda le Pakhan.
 
-Nikolaï avait les deux coudes sur la table et les mains jointes devant la bouche, et resta ainsi une dizaine de secondes.
+Nikolai avait les deux coudes sur la table et les mains jointes devant la bouche, et resta ainsi une dizaine de secondes.
 
 — Madame Costa — dit-il enfin.
 
@@ -10330,9 +10341,11 @@ Et Sergei reprit son bloc-notes, écrivit trois lignes et les lut à voix haute,
 
 — *Autorisation : aucun homme de cette propriété ne doit surveiller la voiture du garage deux pendant sept jours, sur ordre du chef de la sécurité, à la demande de la consultante externe. Motif non déclaré. Sous ma responsabilité.*
 
-Il signa de son nom lisible.
+Il signa de son nom entier, bien lisible.
 
 Et poussa le bloc vers Marina pour qu’elle signe la seconde ligne.
+
+---
 
 # Chapitre 37
 
@@ -10456,7 +10469,7 @@ Sa voix était d’un calme extrême. Ivan connaissait ce calme-là.
 
 — Qu’est-ce que c’est ?
 
-— L’ancienne chaudière. D’avant la rénovation de quatre-vingt-six. Sergei ouvrit le verrou et la porte céda vers l’intérieur, vers une obscurité qui sentait la rouille et la terre. Les canalisations d’eau chaude passaient sous la cour dans un tunnel de service. On a fermé la chaudière quand on a installé le nouveau chauffage. Je croyais qu’on avait fermé le tunnel aussi.
+— L’ancienne chaudière. D’avant la rénovation de quatre-vingt-six. — Sergei ouvrit le verrou et la porte céda vers l’intérieur, vers une obscurité qui sentait la rouille et la terre. — Les canalisations d’eau chaude passaient sous la cour dans un tunnel de service. On a fermé la chaudière quand on a installé le nouveau chauffage. Je croyais qu’on avait fermé le tunnel aussi.
 
 — Où mène-t-il ?
 
@@ -10476,11 +10489,11 @@ Il avait du sang sur la manche de son manteau, provenant de la rampe en fer.
 
 Sergei regarda son cousin.
 
-— L’ancienne chaufferie, sous l’aile ouest. Il posa la lampe sur le capot de la voiture de Jozef. Et la chaufferie a une porte en fer côté intérieur que je n’ai jamais vue ouverte de ma vie, et qui l’est, et qui donne sur l’antichambre des archives.
+— L’ancienne chaufferie, sous l’aile ouest. — Il posa la lampe sur le capot de la voiture de Jozef. — Et la chaufferie a une porte en fer côté intérieur que je n’ai jamais vue ouverte de ma vie, et qui l’est, et qui donne sur l’antichambre des archives.
 
 Le garage resta silencieux.
 
-— Le dossier de travail qu’Anya Kravets avait perdu dans un hôtel à Trieste, et qui a réapparu archivé ici même, dit Sergei, très bas. Sur la bonne étagère, dans le bon ordre, avec la bonne couche de poussière, sans que personne ne l’ait archivé. L’ordre d’humidité de deux mille vingt-quatre, qu’aucun homme de cette maison n’a signé. Les deux livres que Nikolaï a vus brûler et qui sont revenus dans le corridor trois. Il ferma les yeux. Toute ma vie, Ivan. Toute ma vie j’ai compté les gens au portail, et la porte était sous mes pieds.
+— Le dossier de travail qu’Anya Kravets avait perdu dans un hôtel à Trieste, et qui a réapparu archivé ici même, dit Sergei, très bas. Sur la bonne étagère, dans le bon ordre, avec la bonne couche de poussière, sans que personne ne l’ait archivé. L’ordre d’humidité de deux mille vingt-quatre, qu’aucun homme de cette maison n’a signé. Les deux livres que Nikolai a vus brûler et qui sont revenus dans le corridor trois. — Il ferma les yeux. — Toute ma vie, Ivan. Toute ma vie j’ai compté les gens au portail, et la porte était sous mes pieds.
 
 Marina releva la tête de la poitrine d’Ivan.
 
@@ -10498,7 +10511,7 @@ Elle réclama son dû le mardi matin, à sept heures dix, dans la petite cuisine
 
 — Maintenant quoi ?
 
-— Tu sais quoi. Elle posa sa tasse dans l’évier sans boire. J’ai dit *dispute-toi avec moi demain*. Aujourd’hui, c’est demain. Et je ne vais pas passer un jour de plus avec toi qui me traites comme si j’étais en verre par politesse.
+— Tu sais quoi. — Elle posa sa tasse dans l’évier sans boire. — J’ai dit *dispute-toi avec moi demain*. Aujourd’hui, c’est demain. Et je ne vais pas passer un jour de plus avec toi qui me traites comme si j’étais en verre par politesse.
 
 Ivan ferma la porte de la cuisine.
 
@@ -10528,7 +10541,7 @@ Ivan ferma la porte de la cuisine.
 
 — Voilà.
 
-— Pas *voilà*. Il frappa la paume contre le chambranle, une fois, et la porte trembla. Je serais descendu avec toi. Je t’aurais mise derrière moi à cette porte coulissante et tu aurais vu le visage de cet homme par-dessus mon épaule, et l’enveloppe serait partie quand même, et personne n’aurait posé la main sur ta gorge.
+— Pas *voilà*. — Il frappa la paume contre le chambranle, une fois, et la porte trembla. — Je serais descendu avec toi. Je t’aurais mise derrière moi à cette porte coulissante et tu aurais vu le visage de cet homme par-dessus mon épaule, et l’enveloppe serait partie quand même, et personne n’aurait posé la main sur ta gorge.
 
 Marina ne répondit pas tout de suite.
 
@@ -10538,7 +10551,7 @@ Et quand elle répondit, elle le fit à voix basse.
 
 — Je sais que tu n’y as pas pensé.
 
-— J’ai pensé à ne pas te réveiller. Elle leva les yeux. C’est la seule chose à laquelle j’ai pensé, Ivan, et j’ai pensé vite, et j’ai pensé de la façon dont je pense depuis neuf ans : seule, et en te mettant à l’abri d’abord.
+— J’ai pensé à ne pas te réveiller. — Elle leva les yeux. — C’est la seule chose à laquelle j’ai pensé, Ivan, et j’ai pensé vite, et j’ai pensé de la façon dont je pense depuis neuf ans : seule, et en te mettant à l’abri d’abord.
 
 ◆
 
@@ -10550,7 +10563,7 @@ Il resta dos à la porte un long moment.
 
 — Et je ne sais pas quoi faire de ça.
 
-— Moi non plus. Elle resta debout au milieu de la cuisine, les bras ballants. Mais je sais qu’hier, assise sur ce béton, ta main sur ma nuque, j’ai pensé une chose que je n’ai pas dite.
+— Moi non plus. — Elle resta debout au milieu de la cuisine, les bras ballants. — Mais je sais qu’hier, assise sur ce béton, ta main sur ma nuque, j’ai pensé une chose que je n’ai pas dite.
 
 — Dis-la maintenant.
 
@@ -10572,7 +10585,7 @@ Il traversa la cuisine et prit son visage à deux mains, et ne l’embrassa pas.
 
 Ils allèrent à Trieste le lendemain matin, parce qu’elle avait un appartement, un bail au nom d’une société, et neuf ans de vie contenus dans trois pièces, et parce que personne ne clôt ça par téléphone.
 
-Nikolaï envoya deux voitures et, pour la première fois en dix-neuf ans, Ivan n’en renvoya aucune.
+Nikolai envoya deux voitures et, pour la première fois en dix-neuf ans, Ivan n’en renvoya aucune.
 
 — Aucun commentaire ? dit le Pakhan.
 
@@ -10580,7 +10593,7 @@ Nikolaï envoya deux voitures et, pour la première fois en dix-neuf ans, Ivan n
 
 — Tu as passé dix-neuf ans à m’expliquer que deux voitures derrière, c’est un convoi, et qu’un convoi se remarque.
 
-— Et c’est vrai. Ivan posa la main sur l’épaule de son cousin. Il y a deux jours, j’ai vu la main d’un homme sur sa gorge. Qu’ils le remarquent.
+— Et c’est vrai. — Ivan posa la main sur l’épaule de son cousin. — Il y a deux jours, j’ai vu la main d’un homme sur sa gorge. Qu’ils le remarquent.
 
 Le Pakhan le regarda.
 
@@ -10604,7 +10617,7 @@ Ils arrivèrent via Economo à deux heures dix de l’après-midi, et il se gara
 
 — Quatre heures et dix minutes, et je ne te l’ai jamais dit.
 
-— Je sais combien de temps c’était, Ivan, j’ai regardé par la fenêtre à huit heures et demie du matin et il y avait une voiture garée avec un homme dedans. Marina détacha sa ceinture. J’ai cru que c’était quelqu’un pour le quai quatre.
+— Je sais combien de temps c’était, Ivan, j’ai regardé par la fenêtre à huit heures et demie du matin et il y avait une voiture garée avec un homme dedans. — Marina détacha sa ceinture. — J’ai cru que c’était quelqu’un pour le quai quatre.
 
 Il resta les deux mains sur le volant.
 
@@ -10652,7 +10665,7 @@ Marina resta debout près de la fenêtre donnant sur le mur.
 
 — Et après ?
 
-— Après, ça a fait trois ans, puis cinq, puis neuf. Elle haussa les épaules. Et un jour, on se rend compte que ce n’est plus la raison. Qu’on n’a simplement aucune photo de rien, parce qu’il ne s’est rien passé qui méritait d’être pris en photo.
+— Après, ça a fait trois ans, puis cinq, puis neuf. — Elle haussa les épaules. — Et un jour, on se rend compte que ce n’est plus la raison. Qu’on n’a simplement aucune photo de rien, parce qu’il ne s’est rien passé qui méritait d’être pris en photo.
 
 Ivan ferma le carton.
 
@@ -10690,7 +10703,7 @@ Et à la fin, sur le pas de la porte, le manteau sur le bras, Giulia regarda Iva
 
 — Je sais.
 
-— Pendant neuf ans, elle a dit non. La femme plissa les yeux. Et je ne lui ai jamais demandé pourquoi, parce qu’on ne demande pas. Mais je savais qu’il y avait quelqu’un, parce que personne ne dit non pendant neuf ans pour rien.
+— Pendant neuf ans, elle a dit non. — La femme plissa les yeux. — Et je ne lui ai jamais demandé pourquoi, parce qu’on ne demande pas. Mais je savais qu’il y avait quelqu’un, parce que personne ne dit non pendant neuf ans pour rien.
 
 — Et il y a autre chose, que je ne lui ai jamais raconté parce que j’ai trouvé ça idiot. Giulia baissa la voix. En deux mille vingt-quatre, quelques mois après qu’elle m’a donné ce manteau gris, une dame m’a arrêtée rue Carducci pour me dire que le manteau était magnifique. Cheveux gris, attachés. Polie. Elle a demandé où je l’avais acheté.
 
@@ -10698,7 +10711,7 @@ Ivan resta parfaitement immobile.
 
 — Et qu’est-ce que tu as dit ?
 
-— Que c’était un cadeau d’une amie. La femme fronça les sourcils, se remémorant. Et elle a souri et a dit *je sais*, et elle est partie. J’ai cru que c’était quelqu’un de l’immeuble.
+— Que c’était un cadeau d’une amie. — La femme fronça les sourcils, se remémorant. — Et elle a souri et a dit *je sais*, et elle est partie. J’ai cru que c’était quelqu’un de l’immeuble.
 
 Ivan ne répondit pas.
 
@@ -10738,7 +10751,7 @@ Il raconta qu’en deux mille vingt et un, il avait failli se marier.
 
 — Failli ?
 
-— Failli. Il ne détourna pas le regard. Une femme de Vienne, quarante ans, avocate, quelqu’un de bien. Neuf mois. Et elle a rompu dans un restaurant, et elle a dit une phrase que je n’ai jamais oubliée : *je ne veux pas disputer une place à une personne dont tu ne sais même pas si elle est vivante.*
+— Failli. — Il ne détourna pas le regard. — Une femme de Vienne, quarante ans, avocate, quelqu’un de bien. Neuf mois. Et elle a rompu dans un restaurant, et elle a dit une phrase que je n’ai jamais oubliée : *je ne veux pas disputer une place à une personne dont tu ne sais même pas si elle est vivante.*
 
 Marina ne dit rien.
 
@@ -10804,7 +10817,7 @@ Marina posa la main sur le plateau.
 
 — Pour voir qui entre.
 
-— C’est ce que je me suis dit pendant neuf ans. Elle tira la chaise et s’y assit, et resta à regarder le petit couloir qui va de la cuisine à la porte d’entrée. Et c’est vrai, Ivan. Une porte qui s’ouvre, je la vois. C’est la chose correcte à faire, c’est ce que j’enseigne aux clients depuis des années, et j’ai aménagé ma propre cuisine comme ça parce que c’est la bonne méthode.
+— C’est ce que je me suis dit pendant neuf ans. — Elle tira la chaise et s’y assit, et resta à regarder le petit couloir qui va de la cuisine à la porte d’entrée. — Et c’est vrai, Ivan. Une porte qui s’ouvre, je la vois. C’est la chose correcte à faire, c’est ce que j’enseigne aux clients depuis des années, et j’ai aménagé ma propre cuisine comme ça parce que c’est la bonne méthode.
 
 — Marina.
 
@@ -10994,7 +11007,7 @@ Elle posa les doigts dessus.
 
 — Quand ?
 
-— Samedi matin, pendant que vous étiez tous à la chapelle à retirer la pierre. Ivan restait de l’autre côté de la pièce et ne s’approcha pas. Ça m’a pris une heure vingt parce que je ne suis pas doué avec le bois, et parce que je n’ai pas voulu demander à Anton.
+— Samedi matin, pendant que vous étiez tous à la chapelle à retirer la pierre. — Ivan restait de l’autre côté de la pièce et ne s’approcha pas. — Ça m’a pris une heure vingt parce que je ne suis pas doué avec le bois, et parce que je n’ai pas voulu demander à Anton.
 
 — Pourquoi ?
 
@@ -11034,7 +11047,7 @@ Un homme avait passé une heure vingt, ciseau à bois en main, pour qu’elle pu
 
 — Tu n’as pas à décider aujourd’hui.
 
-— Je ne vais pas décider aujourd’hui. Je vais garder ce papier plié en quatre, à ma façon, et il restera dans cette boîte, et je saurai qu’il est là chaque jour de ma vie. Marina se retourna. C’est exactement ce que je vais en faire, et c’est exactement pour ça que je n’en ai pas besoin.
+— Je ne vais pas décider aujourd’hui. Je vais garder ce papier plié en quatre, à ma façon, et il restera dans cette boîte, et je saurai qu’il est là chaque jour de ma vie. — Marina se retourna. — C’est exactement ce que je vais en faire, et c’est exactement pour ça que je n’en ai pas besoin.
 
 Elle regarda l’homme debout de l’autre côté de la chambre.
 
@@ -11080,7 +11093,7 @@ Elle posa les deux mains sur sa poitrine et le poussa, et il recula jusqu’au b
 
 Il ne répondit pas, parce qu’elle avait demandé qu’il ne l’interrompe pas.
 
-— Parce que j’ai passé neuf ans à calculer chaque chose qui m’arrive, Ivan, et la première nuit où je me suis retrouvée dans un lit avec un homme à nouveau, je n’allais pas lâcher ça, et je ne l’ai lâché aucune fois. Sa voix sortit ferme et basse. Et aujourd’hui, il y a un verrou sur cette porte qui ne se ferme que de l’intérieur.
+— Parce que j’ai passé neuf ans à calculer chaque chose qui m’arrive, Ivan, et la première nuit où je me suis retrouvée dans un lit avec un homme à nouveau, je n’allais pas lâcher ça, et je ne l’ai lâché aucune fois. Sa voix se fit ferme et basse. Et aujourd’hui, il y a un verrou sur cette porte qui ne se ferme que de l’intérieur.
 
 Elle fit glisser ses mains jusqu’à ses épaules.
 
@@ -11098,7 +11111,7 @@ Elle fit glisser ses mains jusqu’à ses épaules.
 
 — J’arrête.
 
-— Je sais que tu arrêtes. Elle esquissa presque un sourire. C’est la seule chose au monde dont je sois absolument certaine.
+— Je sais que tu arrêtes. — Elle esquissa presque un sourire. — C’est la seule chose au monde dont je sois absolument certaine.
 
 Ivan se leva.
 
@@ -11140,7 +11153,7 @@ Marina ouvrit la bouche pour répondre et rien n’en sortit.
 
 — Encore.
 
-— Oui, dit-elle, et sa propre voix sortit étrange. Oui, Ivan.
+— Oui, dit-elle, et sa propre voix lui parut étrange. Oui, Ivan.
 
 ◆
 
@@ -11174,7 +11187,7 @@ Elle fit du bruit.
 
 Elle fit beaucoup de bruit, dans une chambre du premier étage d’une maison avec trente et une personnes dans l’aile de service, et à un moment, il cessa de lui venir à l’esprit qu’il y avait une maison.
 
-Quand elle vint, ce fut les deux mains crispées sur le drap, le corps entier se soulevant du matelas, et il lui fallut longtemps pour redescendre.
+Quand elle jouit, ce fut les deux mains crispées sur le drap, le corps entier se soulevant du matelas, et il lui fallut longtemps pour redescendre.
 
 Il remonta et resta front contre front avec elle, haletant, et attendit.
 
@@ -11200,7 +11213,7 @@ Neuf ans les mains occupées.
 
 Neuf ans à écrire, vérifier, compter les sorties, mesurer un mur, plier un papier en quatre.
 
-Et là, ses deux mains étaient ouvertes et immobiles sous celles d’un homme, et il n’y avait rien dedans, et elle vint une seconde fois ainsi, sans aucun avertissement, avec un son qu’elle n’avait jamais fait devant personne.
+Et là, ses deux mains étaient ouvertes et immobiles sous celles d’un homme, et il n’y avait rien dedans, et elle jouit une seconde fois ainsi, sans aucun avertissement, avec un son qu’elle n’avait jamais fait devant personne.
 
 ◆
 
@@ -11268,7 +11281,7 @@ Et alors il dit l’autre chose :
 
 ◆
 
-Elle vint une seconde fois, la bouche contre son épaule, les deux jambes autour de lui.
+Elle jouit une seconde fois, la bouche contre son épaule, les deux jambes autour de lui.
 
 Et c’est seulement alors qu’il se laissa aller, le visage dans ses cheveux, prononçant son prénom une fois, tout entier, comme lui seul le disait.
 
@@ -11331,6 +11344,9 @@ Marina leva le téléphone.
 Et prit la photo.
 
 Ce fut la première photo qu’elle prit en neuf ans, et elle resta longtemps à la regarder sur l’écran, assise dans le noir au bord de ce lit — et il lui fallut encore quatre jours avant de la montrer à quelqu’un.
+
+---
+
 # Chapitre 41
 
 La nouvelle pierre est arrivée un mercredi de mars et est restée enveloppée dans une bâche dans la cour pendant deux jours, parce qu’il a plu.
@@ -11358,7 +11374,7 @@ C’est Sergei qui a choisi le nom de la fonction, et cela lui a pris quatre jou
 
 *Registre de la Maison : il revient à cette fonction de savoir, à toute heure, qui se trouve à l’intérieur de cette propriété, pour quelle raison, depuis quand, et qui l’a autorisé. Personne n’entre et personne ne sort sans passer par cette porte. Y compris le Pakhan.*
 
-Nikolaï a lu la dernière phrase à voix haute et a regardé son frère.
+Nikolai a lu la dernière phrase à voix haute et a regardé son frère.
 
 — Y compris moi.
 
@@ -11372,7 +11388,7 @@ Le Pakhan a signé.
 
 ◆
 
-Dmitri a tout raconté à Nikolaï un mardi de mars, dans le bureau du Pakhan, porte fermée, pendant une heure cinquante.
+Dmitri a tout raconté à Nikolai un mardi de mars, dans le bureau du Pakhan, porte fermée, pendant une heure cinquante.
 
 Ce que l’un a dit à l’autre, aucun des deux ne l’a répété à personne.
 
@@ -11442,7 +11458,7 @@ Elle y était allée tous les samedis depuis février, puis elle a commencé à 
 
 On l’a enterré à Zemplínska, près de Jozef, parce que c’est elle qui en a décidé ainsi.
 
-Nikolaï a porté l’un des coins du cercueil.
+Nikolai a porté l’un des coins du cercueil.
 
 Et sur l’un des murs latéraux de la chapelle, en juillet, il y aura une pierre neuve — avec un nom, une date, et une ligne en russe en dessous, parce qu’Irina a écrit cette ligne sur un papier et l’a remise à Sergei sans rien dire à personne, et personne n’a demandé comment elle savait quoi écrire.
 
